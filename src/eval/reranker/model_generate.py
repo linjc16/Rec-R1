@@ -17,7 +17,7 @@ def evaluate_model(model_path, data_path, model_name, save_dir, domain_name, bat
     # only keep those ['data_source] contains domain_name, keep index unchanged
     df = df[df['data_source'].str.contains(domain_name, case=False, na=False)]
     inputs = [item[0]['content'] for item in df['prompt'].tolist()]
-    targets = df['item_id'].tolist()
+    targets = df['mapping_target'].tolist()
     qids = df.index.tolist()
     
     # if targets[i] is a array, then convert to list

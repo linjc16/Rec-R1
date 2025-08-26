@@ -1,0 +1,454 @@
+{
+    "122": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_5\", \"Item_8\", \"Item_13\", \"Item_12\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "123": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_7\"]\n}\n",
+        "target": "['Item_2', 'Item_3']"
+    },
+    "124": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_3\", \"Item_11\", \"Item_5\", \"Item_7\", \"Item_8\", \"Item_12\", \"Item_13\", \"Item_4\", \"Item_9\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_5', 'Item_3']"
+    },
+    "125": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_5\", \"Item_6\", \"Item_7\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "126": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_4\", \"Item_7\", \"Item_8\", \"Item_6\", \"Item_10\", \"Item_12\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "127": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_9\", \"Item_13\", \"Item_14\", \"Item_16\"]\n}\n",
+        "target": "['Item_10', 'Item_11']"
+    },
+    "128": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_8\", \"Item_10\", \"Item_13\", \"Item_15\", \"Item_5\", \"Item_9\", \"Item_11\", \"Item_16\", \"Item_4\", \"Item_12\", \"Item_14\"]\n}\n",
+        "target": "['Item_1', 'Item_16']"
+    },
+    "129": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_6\", \"Item_11\", \"Item_12\", \"Item_7\", \"Item_8\", \"Item_14\", \"Item_1\", \"Item_13\", \"Item_10\", \"Item_16\", \"Item_9\", \"Item_2\", \"Item_15\", \"Item_4\", \"Item_5\"]\n}\n",
+        "target": "['Item_12', 'Item_1', 'Item_8']"
+    },
+    "130": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_8\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\", \"Item_3\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "131": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_3\"]\n}\n",
+        "target": "['Item_7', 'Item_6', 'Item_1']"
+    },
+    "132": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_5\", \"Item_6\"]\n}\n",
+        "target": "['Item_9', 'Item_6']"
+    },
+    "133": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_9\"]\n}\n",
+        "target": "['Item_9', 'Item_14']"
+    },
+    "134": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_3\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "135": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_11\", \"Item_16\"]\n}\n",
+        "target": "['Item_12', 'Item_1', 'Item_6', 'Item_11', 'Item_4']"
+    },
+    "136": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_3\"]\n}\n",
+        "target": "['Item_5', 'Item_3', 'Item_1', 'Item_2', 'Item_4', 'Item_16', 'Item_6']"
+    },
+    "137": {
+        "generated_text": " First, I'll identify the key terms in the query: \"paper\" and \"journals\" and \"bulk\". \"Bulk\" is a common term used in product descriptions for large quantities, so it's important. \"Paper\" and \"journals\" are the core elements we're looking for. Now, I'll analyze each candidate product:\n\n1. **Item_1**: Mentions \"Notebooks\", \"Journals\", \"Bulk\", but the focus is on lined notebooks.\n2. **Item_2**: \"Bulk Notebooks\", but no mention of lined or \"Bulk\" in the title.\n3. **Item_3**: \"Bulk Hardcover Sketchbook\", mentions \"bulk\" but not \"journals\".\n4. **Item_4**: \"Bulk Sketch Books\", \"Bulk\" is present, but no mention of \"journals\".\n5. **Item_5**: \"Bulk Notebook\". \"Bulk\" and \"Notebook\" are both present.\n6. **Item_6**: \"Bulk Set of H5 Kraft Paper Journal Notebooks\". \"Bulk\" and \"Notebooks\" are both present.\n7. **Item_7**: \"Bulk Set\". \"Bulk\" is present but does not mention \"Notebooks\".\n8. **Item_8**: \"Bulk Diary Planner\". \"Bulk\" is present but does not mention \"Notebooks\".\n9. **Item_9**: \"Bulk 12 Pack\". \"Bulk\" is present but does not mention \"Notebooks\".\n10. **Item_10**: \"Bulk Notebook\". \"Bulk\" is present but does not mention \"Notebooks\".\n11. **Item_11**: \"Bulk Set of Small Kraft Paper Notebooks\". \"Bulk\" is present but does not mention \"Notebooks\".\n12. **Item_12**: \"Bulk Set of Thick Hardcover Writing Journal\". \"Bulk\" is present but does not mention \"Notebooks\".\n13. **Item_13**: \"Lined Journal Notebook\". \"Bulk\" is present but does not mention \"Notebooks\".\n14. **Item_14**: \"Bulk with 28 Ballpoint Pens\". \"Bulk\" is present but does not mention \"Notebooks\".\n15. **Item_15**: \"Bulk Colorful Notebook Journal\". \"Bulk\" is present but does not mention \"Notebooks\".\n16. **Item_16**: \"Bulk Notebook Journal\". \"Bulk\" is present but does not mention \"Notebooks\".\n\nFrom this analysis, **Items 5, 6, and 16** are the most relevant to the query as they all mention \"Bulk\" and \"Notebooks\". However, **Item_6** has a more comprehensive description of lined notebooks and bulk packaging, making it the most relevant overall. Items 5 and 16 are less specific regarding lining and bulk packaging.\n\nBased on this, I'll rank the products as follows:\n1. **Item_6**: H5 Kraft Paper Journal Notebooks Bulk Set\n2. **Item_5**: Line Journal Notebook Diary\n3. **Item_16**: TWONE Travel Journal\n4. **Item_4**: LABUK 7 Pack Unlined Spiral Notebook\n5. **Item_10**: EUSOAR Notebook College Ruled\n6. **Item_8**: 12 Pack A5 Hardcover Spiral Notebook\n7. **Item_1**: 50 Pack Notebook Journals\n8. **Item_13**: MOFUNY Lined Journal Notebook\n9. **Item_12**: Rhuyoshn Journal Notebooks\n10. **Item_14**: 28 Pack Lined Notebooks Journals Bulk\n11. **Item_15**: XYark Small Pocket Colorful Notebook Journal Bulk\n12. **Item_9**: Tops Oxford Composition Notebooks\n13. **Item_2**: EOOUT 24 Pack Kraft Notebooks\n14. **Item_7**: 24 Pack Happiness-Themed Journals Bulk Set\n15. **Item_3**: A5 Blank Notebook Journal Bulk Hardcover Sketchbook\n16. **Item_11**: 24 Pack Blank Journals Bulk Set",
+        "target": "['Item_1', 'Item_6']"
+    },
+    "138": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_9\", \"Item_12\", \"Item_13\", \"Item_3\"]\n}\n",
+        "target": "['Item_14', 'Item_12']"
+    },
+    "139": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_8\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "140": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\"]\n}\n",
+        "target": "['Item_1', 'Item_7', 'Item_6']"
+    },
+    "141": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_13\", \"Item_8\"]\n}\n",
+        "target": "['Item_3', 'Item_6']"
+    },
+    "142": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_5\", \"Item_8\", \"Item_2\", \"Item_3\", \"Item_4\", \"Item_6\", \"Item_7\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_5', 'Item_9', 'Item_2', 'Item_3', 'Item_12']"
+    },
+    "143": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_16\", \"Item_2\", \"Item_4\", \"Item_9\", \"Item_10\", \"Item_12\", \"Item_14\", \"Item_15\", \"Item_1\", \"Item_3\", \"Item_5\", \"Item_7\", \"Item_11\"]\n}\n",
+        "target": "['Item_16', 'Item_6', 'Item_14', 'Item_3', 'Item_2', 'Item_8']"
+    },
+    "144": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_3\", \"Item_2\", \"Item_4\", \"Item_8\", \"Item_7\", \"Item_11\", \"Item_10\", \"Item_14\", \"Item_16\", \"Item_15\", \"Item_9\", \"Item_12\", \"Item_13\", \"Item_1\", \"Item_5\", \"Item_6\"]\n}\n",
+        "target": "['Item_2', 'Item_3', 'Item_11', 'Item_4']"
+    },
+    "145": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_12\", \"Item_16\", \"Item_15\", \"Item_10\", \"Item_5\", \"Item_1\", \"Item_2\", \"Item_3\", \"Item_11\", \"Item_13\", \"Item_14\", \"Item_6\", \"Item_7\", \"Item_9\"]\n}\n",
+        "target": "['Item_10', 'Item_4', 'Item_3', 'Item_6', 'Item_15']"
+    },
+    "146": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_4\", \"Item_8\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\", \"Item_9\", \"Item_11\", \"Item_6\", \"Item_7\", \"Item_5\", \"Item_10\", \"Item_17\"]\n}\n",
+        "target": "['Item_1', 'Item_5', 'Item_8', 'Item_3']"
+    },
+    "147": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_8\", \"Item_14\", \"Item_2\", \"Item_9\"]\n}\n",
+        "target": "['Item_1', 'Item_2']"
+    },
+    "148": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_10\"]\n}\n",
+        "target": "['Item_3', 'Item_1']"
+    },
+    "149": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_11\"]\n}\n",
+        "target": "['Item_4', 'Item_3']"
+    },
+    "150": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_5\", \"Item_1\", \"Item_11\", \"Item_8\", \"Item_16\", \"Item_10\", \"Item_9\", \"Item_15\", \"Item_14\", \"Item_2\", \"Item_7\", \"Item_13\", \"Item_12\", \"Item_15\", \"Item_3\", \"Item_6\"]\n}\n",
+        "target": "['Item_11']"
+    },
+    "151": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_11\", \"Item_4\", \"Item_2\", \"Item_x\", ..., all candidate item_ids in order]\n}\n",
+        "target": "['Item_6', 'Item_9']"
+    },
+    "152": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_6\", \"Item_14\", \"Item_15\", \"Item_16\", \"Item_13\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_3\", \"Item_2\"]\n}\n",
+        "target": "['Item_4']"
+    },
+    "153": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_4\", \"Item_7\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_10']"
+    },
+    "154": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_3\", \"Item_5\", \"Item_6\", \"Item_7\", \"Item_10\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\", \"Item_2\", \"Item_1\"]\n}\n",
+        "target": "['Item_10']"
+    },
+    "155": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_6\", \"Item_1\", \"Item_8\", \"Item_4\", \"Item_5\", \"Item_10\", \"Item_7\", \"Item_3\", \"Item_9\", \"Item_15\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_16\"]\n}\n",
+        "target": "['Item_7', 'Item_5', 'Item_3']"
+    },
+    "156": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_9\", \"Item_8\", \"Item_3\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_1\"]\n}\n",
+        "target": "['Item_10']"
+    },
+    "157": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_8\", \"Item_14\", \"Item_1\", \"Item_12\", \"Item_7\", \"Item_11\", \"Item_16\", \"Item_10\", \"Item_9\", \"Item_3\", \"Item_5\", \"Item_6\", \"Item_13\", \"Item_15\"]\n}\n",
+        "target": "['Item_3', 'Item_14', 'Item_8']"
+    },
+    "158": {
+        "generated_text": " First, I need to identify which products are most relevant to the query \"bottle shrink wrap bands\". The products should have attributes related to bottles, shrink wrap, and bands. I'll go through the list and evaluate each product:\n\n1. Item_1: This product mentions bottle caps but doesn't specify the type or size of the bottle.\n2. Item_2: This product mentions bottles but the size range is broader (1oz to 1 1/4 inch diameter).\n3. Item_3: This product mentions bottles but has a general size range (1 1/4 - 1 1/2 inch).\n4. Item_4: This product explicitly mentions bottles and has a specific size range (3/4 to 1 inch). It also mentions 1oz glass bottles, which aligns well with the query.\n5. Item_5: This product mentions bottles but has a broader size range (1oz to 30ml).\n6. Item_6: This product mentions mug, tumbler, cups but not bottles.\n7. Item_7: This product mentions lip balm tubes but not bottles.\n8. Item_8: This product mentions bottles but has a broader size range (1 to 1.25 inches).\n9. Item_9: This product mentions mug, tumblers, cups but not bottles.\n10. Item_10: This product mentions bottles but has a broader size range (1.75 to 2 inches).\n11. Item_11: This product mentions bottles but has a general size range (1 1/4 - 1 1/2 inches).\n12. Item_12: This product mentions bottles but has a specific size range (1 1/4 to 1 1/2 inches).\n13. Item_13: This product mentions mug, tumblers, cups but not bottles.\n14. Item_14: This product explicitly mentions bottles and has a specific size range (3/4 to 1 inch). It's very similar to Item_4.\n15. Item_15: This product mentions bottles but has a general size range (1 1/2 - 1 3/4 inches).\n16. Item_16: This product mentions bottles but has a specific size range (1 to 1 1/4 inches).\n\nBased on the evaluation, Item_4 and Item_14 are the most relevant as they both explicitly mention bottles and have a specific size range. Item_14 is slightly more specific (3/4 to 1 inch) compared to Item_4 (3/4 to 1 inch). Item_14 should be ranked above Item_4.\n\nNow let's look at the other products. Item_12 and Item_1 are the most specific (1 1/4 to 1 1/2 inch) and should be ranked above Item_11 and Item_11. Item_8 is the most specific (1 to 1.25 inch) and should be ranked above Item_11 and Item_10.\n\nFinally, we have Item_16 which is the most specific (1 to 1 1/4 inch) and should be ranked above all other products.\n\nThe final reranked order:\nItem_14, Item_16, Item_12, Item_8, Item_4, Item_2, Item_11, Item_1, Item_10, Item_15, Item_16, Item_11, Item_15, Item_16, Item_12, Item_10, Item_11, Item_16, Item_12, Item_11, Item_16, Item_14, Item_11, Item_16, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16, Item_11, Item_11, Item_16",
+        "target": "['Item_10', 'Item_16']"
+    },
+    "159": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_10\", \"Item_7\", \"Item_15\", \"Item_2\", \"Item_3\", \"Item_1\", \"Item_9\", \"Item_14\", \"Item_16\", \"Item_5\", \"Item_6\", \"Item_11\"]\n}\n",
+        "target": "['Item_4', 'Item_15']"
+    },
+    "160": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_5\", \"Item_8\", \"Item_1\", \"Item_3\", \"Item_6\", \"Item_7\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_9', 'Item_8']"
+    },
+    "161": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_8\", \"Item_9\"]\n}\n",
+        "target": "['Item_8', 'Item_14']"
+    },
+    "162": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_4\", \"Item_2\", \"Item_3\", \"Item_10\", \"Item_16\", \"Item_5\", \"Item_1\", \"Item_7\", \"Item_9\", \"Item_15\", \"Item_11\", \"Item_13\", \"Item_12\", \"Item_14\", \"Item_15\", \"Item_10\", \"Item_11\"]\n}\n",
+        "target": "['Item_6', 'Item_16', 'Item_4', 'Item_8']"
+    },
+    "163": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_2\", \"Item_4\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "164": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_10\", \"Item_4\", \"Item_1\", \"Item_13\", \"Item_11\"]\n}\n",
+        "target": "['Item_4', 'Item_10']"
+    },
+    "165": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_14\", \"Item_8\", \"Item_x\", \"Item_y\", \"Item_z\", \"Item_16\", \"Item_13\", \"Item_11\", \"Item_15\", \"Item_3\", \"Item_4\", \"Item_5\", \"Item_7\", \"Item_6\"]\n}\n",
+        "target": "['Item_14']"
+    },
+    "166": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_3\", \"Item_4\", \"Item_7\", \"Item_15\"]\n}\n",
+        "target": "['Item_16']"
+    },
+    "167": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_10\", \"Item_3\", \"Item_6\", \"Item_7\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_11\", \"Item_2\", \"Item_1\"]\n}\n",
+        "target": "['Item_12', 'Item_11', 'Item_13']"
+    },
+    "168": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_4\", \"Item_8\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\", \"Item_10\"]\n}\n",
+        "target": "['Item_10', 'Item_12', 'Item_14', 'Item_15', 'Item_13']"
+    },
+    "169": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_10\", \"Item_3\", \"Item_5\", \"Item_7\", \"Item_8\", \"Item_9\", \"Item_11\", \"Item_16\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\"]\n}\n",
+        "target": "['Item_10']"
+    },
+    "170": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_4\", \"Item_5\", \"Item_8\", \"Item_9\", \"Item_7\", \"Item_10\", \"Item_12\", \"Item_14\", \"Item_15\", \"Item_16\", \"Item_11\", \"Item_13\", \"Item_3\"]\n}\n",
+        "target": "['Item_2']"
+    },
+    "171": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_3\", \"Item_4\", \"Item_6\", \"Item_7\", \"Item_8\"]\n}\n",
+        "target": "['Item_12', 'Item_4', 'Item_3', 'Item_2', 'Item_1', 'Item_6']"
+    },
+    "172": {
+        "generated_text": " First, I'll identify the key terms in the query: \"zario chapstick holder\". Then, I'll analyze each candidate product's metadata to see how closely it matches these key terms.\n\n- Item_1: Mentions \"Zario Chapstick Holder Keychain\" in the product description.\n- Item_2: Mentions \"Zario Chapstick Holder Keychain\" in the product description.\n- Item_3: Mentions \"Zario Chapstick/ Lip Balm Holder Keychain\" but also contains \"hand sanitizer\".\n- Item_4: Mentions \"Zario Chapstick Holder Keychain\" in the product description.\n- Item_5: Mentions \"Zario Chapstick Holder Lanyard\" in the product description.\n- Item_6: Mentions \"Owl Hand Sanitizer Holder and/or Lip Balm Holder\" but also contains \"Zario\".\n- Item_7: Mentions \"Halloween Bat Hand Sanitizer Holder and/or Lip Balm Holder\" but also contains \"Zario\".\n- Item_8: Mentions \"Zario Chapstick Holder Keychain\" in the product description.\n- Item_9: Mentions \"Zario Lip Balm Pouches\" but also contains \"adhesive\".\n- Item_10: Mentions \"Zario Lip Balm Holder\" in the product description.\n- Item_11: Mentions \"Zario Lip Balm Sample Kit\" but also contains \"luxury\".\n- Item_12: Mentions \"Zario Chapstick Holder Keychain\" in the product description.\n- Item_13: Mentions \"Zario Lip Balm Tube Holder\" in the product description.\n- Item_14: Mentions \"Zario Chapstick Holder Lip balm Holder\" in the product description.\n- Item_15: Mentions \"Zario Lip Balm Holder\" in the product description.\n- Item_16: Mentions \"Zario Chapstick Holder\" in the product description.\n\nNow, I'll rank these items based on their relevance to the search query:\n1. Item_1: It's the most specific about the \"Zario Chapstick Holder Keychain\"\n2. Item_8: Matches \"Zario Chapstick Holder Keychain\" in the product description\n3. Item_4: Matches \"Zario Chapstick Holder Keychain\" in the product description\n4. Item_12: Matches \"Zario Chapstick Holder Keychain\" in the product description\n5. Item_1: It's the most specific about the \"Zario Chapstick Holder Keychain\"\n6. Item_16: Matches \"Zario Chapstick Holder\" in the product description\n7. Item_10: Matches \"Zario Lip Balm Holder\" in the product description\n8. Item_11: Mentions \"Zario Lip Balm Sample Kit\" but also contains \"luxury\"\n9. Item_9: Mentions \"Zario Lip Balm Pouches\" but also contains \"adhesive\"\n10. Item_14: Matches \"Zario Chapstick Holder Lip balm Holder\" in the product description\n\nThe final ranking, from most relevant to least relevant, is:\n[Item_1, Item_8, Item_4, Item_12, Item_1, Item_16, Item_10, Item_11, Item_9, Item_14]",
+        "target": "['Item_1', 'Item_2']"
+    },
+    "173": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "174": {
+        "generated_text": " First, I'll analyze the query \"coin changers\". This suggests we're looking for products related to coin changing, handling, or storage. Now, I'll go through each candidate product and assign a score based on how well it matches the query:\n\n1. **Item_1**: \"Coin Changer Tray Bundle of 100 Assorted Wrappers with 1 Compact Coin Organizer\"\n   - Matches the query well, but narrow focus on coin wrappers and organizers.\n\n2. **Item_2**: \"Four Barrel Metal Money Coin Changer with .25, .10, .05, .01\"\n   - Matches the query well, focuses on coin changer.\n\n3. **Item_3**: \"WMU - Motorized Car Coin Changer\"\n   - Matches the query well, focuses on coin changer.\n\n4. **Item_4**: \"Nadex 4 Barrel Steel Coin Dispenser Money Changer with Belt Clips (Gray)\"\n   - Matches the query well, focuses on coin changer.\n\n5. **Item_5**: \"Box Coin - Creative Car Coin Changer Kids Gift Wallet Plastic Purse Box Organizer Dispenser Euro Pocket Cases\"\n   - Matches the query well, focuses on coin changer.\n\n6. **Item_6**: \"Coinco 9302-GX Coin Acceptor Mechanism 24V for Vending Machine\"\n   - Matches the query well, focuses on coin changer, but for vending machines.\n\n7. **Item_7**: \"NUWELL Digital Coin Bank Counter Sorter, Basketball Talking Saving Banks Money Box with Electronic Counting Function, Automatic LCD Display for US Coins\"\n   - Matches the query well, focuses on coin counting and saving.\n\n8. **Item_8**: \"Discover Kids Coin-Counting Money Jar- Blue and Green\"\n   - Matches the query well, focuses on coin counting, but for children.\n\n9. **Item_9**: \"L LIKED 100 PCS Preformed Coin Wrappers Rolls-Pennies\"\n   - Matches the query well, focuses on coin wrappers.\n\n10. **Item_10**: \"Cashmaster Sigma 165 Money, Coin Counting Currency Counter\"\n    - Matches the query well, focuses on coin counting and currency.\n\n11. **Item_11**: \"Medium Gumball Bank, 12. Use with gumballs, peanuts, jellybeans and more! Its a bank! Use any size coin. Adjustable portion control. Antuique style. Coin operatied Gumball Machines are made with uniformly cast metal bases and elegantly formed glass globes. In the process of manufacturing, only non-lead containing materials are used. The coin operated dispensing mechanism can operate with a variety of coins from dime size coins to quarter size coins and can also operate without coins. Except for its smaller size, the 11.5 inch gumball machine has all of the features of the GM0015 including the adjustable dispensing and anti-spill cover.\"\n    - Matches the query well, focuses on coin handling for gumball machines.\n\n12. **Item_12**: \"Shift 3 Auto-count Digital Coin Bank - Automatically Totals up Your Savings - Works with All U.S. Coins\"\n    - Matches the query well, focuses on coin counting.\n\n13. **Item_13**: \"1000 Flat Coin Wrappers, Nickels Coins Holder, Convenient Nickel Storage Coin Wrapper - 1000 Pack\"\n    - Matches the query well, focuses on coin wrappers.\n\n14. **Item_14**: \"Younion Piggy Bank for Kids, Digital Counting Coin Bank, Automatic Coin Counter Totals All U.S. Coins, Money Saving Jar with LCD Display, Pink\"\n    - Matches the query well, focuses on coin counting.\n\n15. **Item_15**: \"MMF Industries Chipboard Coin Storage Box for Pennies | Total Capacity of 10 Dollars | 8.3 H x 3.9 W x 1.8 D | Red Color | Cardboard & Fiberglass Construction | Coin Collection Supplies\"\n    - Matches the query well, focuses on coin storage.\n\n16. **Item_16**: \"Lava Slots - Casino Games\"\n    - Matches the query well, focuses on slot machines, not coin changers.\n\nNow, I'll rerank the products based on the scores:\n1. Item_2\n2. Item_3\n3. Item_4\n4. Item_5\n5. Item_10\n6. Item_12\n7. Item_13\n8. Item_8\n9. Item_9\n10. Item_6\n11. Item_14\n12. Item_7\n13. Item_15\n14. Item_16\n\nThe highest relevance items are the coin changers, followed by coin counters, wrappers",
+        "target": "['Item_1', 'Item_2']"
+    },
+    "175": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_5\", \"Item_6\", \"Item_11\", \"Item_14\", \"Item_15\"]\n}\n",
+        "target": "['Item_9', 'Item_16', 'Item_5', 'Item_2', 'Item_4']"
+    },
+    "176": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "177": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_8\", \"Item_9\", \"Item_4\", \"Item_11\", \"Item_14\", \"Item_16\", \"Item_1\", \"Item_3\", \"Item_7\", \"Item_10\", \"Item_15\", \"Item_13\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "178": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_5\", \"Item_8\"]\n}\n",
+        "target": "['Item_11', 'Item_2']"
+    },
+    "179": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_5\", \"Item_7\", \"Item_8\", \"Item_10\", \"Item_11\", \"Item_14\", \"Item_15\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "180": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_6\", \"Item_12\", \"Item_4\", \"Item_8\", \"Item_7\", \"Item_11\", \"Item_16\", \"Item_1\", \"Item_5\", \"Item_9\", \"Item_10\", \"Item_13\", \"Item_14\", \"Item_15\"]\n}\n",
+        "target": "['Item_15', 'Item_9', 'Item_12', 'Item_10', 'Item_5']"
+    },
+    "181": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_8\"]\n}\n",
+        "target": "['Item_7', 'Item_3', 'Item_1']"
+    },
+    "182": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_6\"]\n}\n",
+        "target": "['Item_14']"
+    },
+    "183": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_6\", \"Item_8\", \"Item_1\", \"Item_4\", \"Item_2\", \"Item_3\", \"Item_7\", \"Item_9\", \"Item_11\", \"Item_12\", \"Item_15\", \"Item_16\", \"Item_10\", \"Item_5\", \"Item_13\"]\n}\n",
+        "target": "['Item_2']"
+    },
+    "184": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_13\", \"Item_8\", \"Item_4\", \"Item_15\", \"Item_11\", \"Item_9\", \"Item_10\", \"Item_12\", \"Item_2\", \"Item_3\", \"Item_5\", \"Item_6\", \"Item_7\", \"Item_14\"]\n}\n",
+        "target": "['Item_13', 'Item_8']"
+    },
+    "185": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_3\", \"Item_4\", \"Item_11\", \"Item_1\", \"Item_2\", \"Item_8\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_2']"
+    },
+    "186": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_3\", \"Item_4\", \"Item_8\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_2\", \"Item_6\", \"Item_7\", \"Item_16\", \"Item_5\"]\n}\n",
+        "target": "['Item_7', 'Item_12']"
+    },
+    "187": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_9\", \"Item_8\", \"Item_15\", \"Item_16\", \"Item_10\", \"Item_14\", \"Item_13\", \"Item_1\", \"Item_12\", \"Item_7\", \"Item_3\", \"Item_5\", \"Item_6\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "188": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_8\", \"Item_12\", \"Item_14\"]\n}\n",
+        "target": "['Item_1', 'Item_2']"
+    },
+    "189": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_6\", \"Item_13\", \"Item_14\"]\n}\n",
+        "target": "['Item_6']"
+    },
+    "190": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_4\", \"Item_8\", \"Item_10\", \"Item_7\"]\n}\n",
+        "target": "['Item_5', 'Item_1', 'Item_7']"
+    },
+    "191": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_5\", \"Item_8\", \"Item_9\", \"Item_15\", \"Item_16\", \"Item_3\", \"Item_4\", \"Item_7\", \"Item_10\", \"Item_13\", \"Item_14\", \"Item_11\", \"Item_12\"]\n}\n",
+        "target": "['Item_6', 'Item_7', 'Item_2']"
+    },
+    "192": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "193": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_13\", \"Item_16\", \"Item_1\", \"Item_2\", \"Item_5\", \"Item_6\", \"Item_3\", \"Item_7\", \"Item_10\", \"Item_9\", \"Item_11\", \"Item_14\", \"Item_15\"]\n}\n",
+        "target": "['Item_9', 'Item_9', 'Item_4', 'Item_1', 'Item_5']"
+    },
+    "194": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_3\", \"Item_4\", \"Item_5\", \"Item_8\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_3', 'Item_2']"
+    },
+    "195": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\"]\n}\n",
+        "target": "['Item_8', 'Item_7']"
+    },
+    "196": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_10\", \"Item_4\", \"Item_3\", \"Item_2\", \"Item_7\", \"Item_6\", \"Item_11\", \"Item_12\", \"Item_9\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\", \"Item_5\", \"Item_1\", \"Item_10\", \"Item_11\"]\n}\n",
+        "target": "['Item_10']"
+    },
+    "197": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_4\", \"Item_5\", \"Item_6\", \"Item_8\", \"Item_10\", \"Item_14\", \"Item_16\", \"Item_3\", \"Item_2\", \"Item_15\"]\n}\n",
+        "target": "['Item_4', 'Item_5', 'Item_1']"
+    },
+    "198": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_5\", \"Item_11\", \"Item_15\", \"Item_6\", \"Item_8\", \"Item_12\", \"Item_14\", \"Item_13\", \"Item_16\"]\n}\n",
+        "target": "['Item_6', 'Item_3', 'Item_5', 'Item_4', 'Item_1', 'Item_2']"
+    },
+    "199": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "200": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_3\", \"Item_4\", \"Item_10\", \"Item_15\"]\n}\n",
+        "target": "['Item_4', 'Item_8']"
+    },
+    "201": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_6\", \"Item_7\", \"Item_12\", \"Item_14\", \"Item_15\", \"Item_16\", \"Item_8\"]\n}\n",
+        "target": "['Item_2']"
+    },
+    "202": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_8\", \"Item_14\", \"Item_2\", \"Item_3\", \"Item_15\", \"Item_16\", \"Item_4\", \"Item_5\", \"Item_6\", \"Item_9\"]\n}\n",
+        "target": "['Item_2']"
+    },
+    "203": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_4\", \"Item_5\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_4', 'Item_3', 'Item_1']"
+    },
+    "204": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_6\", \"Item_7\"]\n}\n",
+        "target": "['Item_1', 'Item_1', 'Item_7', 'Item_13', 'Item_13', 'Item_2', 'Item_9', 'Item_4', 'Item_8', 'Item_3', 'Item_6', 'Item_5']"
+    },
+    "205": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_8\", \"Item_4\", \"Item_6\", \"Item_7\", \"Item_9\", \"Item_11\", \"Item_5\", \"Item_12\", \"Item_15\", \"Item_13\", \"Item_14\", \"Item_16\"]\n}\n",
+        "target": "['Item_6', 'Item_2', 'Item_4', 'Item_1', 'Item_3']"
+    },
+    "206": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_13\", \"Item_14\", \"Item_16\", \"Item_8\", \"Item_6\"]\n}\n",
+        "target": "['Item_6']"
+    },
+    "207": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_3\", \"Item_10\", \"Item_16\", \"Item_11\", \"Item_12\", \"Item_5\", \"Item_6\", \"Item_7\", \"Item_9\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_1\"]\n}\n",
+        "target": "['Item_10', 'Item_4']"
+    },
+    "208": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_4\", \"Item_7\", \"Item_8\", \"Item_10\", \"Item_11\", \"Item_15\"]\n}\n",
+        "target": "['Item_7', 'Item_2', 'Item_4', 'Item_1', 'Item_3']"
+    },
+    "209": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_6\", \"Item_14\", \"Item_7\", \"Item_13\", \"Item_1\", \"Item_8\", \"Item_12\", \"Item_11\", \"Item_9\", \"Item_10\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_9']"
+    },
+    "210": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_6\", \"Item_4\", \"Item_8\", \"Item_14\", \"Item_12\", \"Item_13\", \"Item_7\", \"Item_16\"]\n}\n",
+        "target": "['Item_6']"
+    },
+    "211": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_3\", \"Item_12\"]\n}\n",
+        "target": "['Item_3', 'Item_2']"
+    },
+    "212": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_6\", \"Item_8\", \"Item_1\"]\n}\n",
+        "target": "['Item_11']"
+    },
+    "213": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_8\", \"Item_12\", \"Item_13\", \"Item_3\", \"Item_6\", \"Item_7\", \"Item_4\", \"Item_9\", \"Item_11\", \"Item_10\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_6']"
+    },
+    "214": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_14\", \"Item_16\", \"Item_9\", \"Item_10\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "215": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_7\", \"Item_2\", \"Item_3\", \"Item_11\", \"Item_8\", \"Item_10\"]\n}\n",
+        "target": "['Item_12', 'Item_2']"
+    },
+    "216": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_7\", \"Item_11\", \"Item_15\", \"Item_3\", \"Item_6\", \"Item_10\", \"Item_2\", \"Item_1\", \"Item_14\", \"Item_13\", \"Item_12\", \"Item_5\", \"Item_9\", \"Item_16\"]\n}\n",
+        "target": "['Item_13', 'Item_8', 'Item_1']"
+    },
+    "217": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_4\", \"Item_8\", \"Item_13\", \"Item_16\", \"Item_3\", \"Item_5\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_14\", \"Item_15\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "218": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_4\", \"Item_6\", \"Item_11\", \"Item_3\", \"Item_8\", \"Item_9\", \"Item_5\", \"Item_10\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_2', 'Item_6', 'Item_4', 'Item_3']"
+    },
+    "219": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_4\", \"Item_8\", \"Item_14\"]\n}\n",
+        "target": "['Item_2', 'Item_1', 'Item_5']"
+    },
+    "220": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_6\"]\n}\n",
+        "target": "['Item_1', 'Item_11', 'Item_5', 'Item_4', 'Item_2', 'Item_9', 'Item_10', 'Item_8', 'Item_12', 'Item_3']"
+    },
+    "221": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_3\", \"Item_4\", \"Item_5\", \"Item_6\", \"Item_7\", \"Item_8\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_11']"
+    },
+    "222": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_1\"]\n}\n",
+        "target": "['Item_15', 'Item_2']"
+    },
+    "223": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_5\", \"Item_6\", \"Item_7\", \"Item_8\", \"Item_9\", \"Item_10\", \"Item_13\", \"Item_16\"]\n}\n",
+        "target": "['Item_7', 'Item_13']"
+    },
+    "224": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_4\", \"Item_8\", \"Item_9\", \"Item_11\", \"Item_13\", \"Item_10\", \"Item_12\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_3', 'Item_5', 'Item_2', 'Item_1', 'Item_7', 'Item_6', 'Item_10', 'Item_9', 'Item_8', 'Item_4']"
+    },
+    "225": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_5\", \"Item_9\", \"Item_15\"]\n}\n",
+        "target": "['Item_4']"
+    },
+    "226": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_6\", \"Item_8\", \"Item_11\", \"Item_13\", \"Item_14\", \"Item_16\"]\n}\n",
+        "target": "['Item_1', 'Item_16']"
+    },
+    "227": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_5\", \"Item_3\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "228": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_9\"]\n}\n",
+        "target": "['Item_15']"
+    },
+    "229": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_13\", \"Item_10\", \"Item_15\", \"Item_5\", \"Item_7\", \"Item_14\"]\n}\n",
+        "target": "['Item_11']"
+    },
+    "230": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_10\"]\n}\n",
+        "target": "['Item_2']"
+    },
+    "231": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_4\", \"Item_8\", \"Item_9\", \"Item_11\"]\n}\n",
+        "target": "['Item_1', 'Item_3', 'Item_2']"
+    },
+    "232": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_2\", \"Item_3\", \"Item_6\"]\n}\n",
+        "target": "['Item_1', 'Item_3']"
+    },
+    "233": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_3\", \"Item_4\", \"Item_10\", \"Item_8\", \"Item_12\", \"Item_14\", \"Item_15\", \"Item_11\", \"Item_13\", \"Item_16\", \"Item_1\", \"Item_9\"]\n}\n",
+        "target": "['Item_9']"
+    },
+    "234": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_8\", \"Item_9\", \"Item_10\", \"Item_4\", \"Item_6\", \"Item_7\", \"Item_5\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_1', 'Item_3', 'Item_2']"
+    }
+}

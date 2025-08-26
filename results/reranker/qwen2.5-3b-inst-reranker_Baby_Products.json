@@ -1,0 +1,218 @@
+{
+    "68": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_3\", \"Item_5\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "69": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_5\", \"Item_10\", \"Item_14\", \"Item_6\", \"Item_9\", \"Item_13\", \"Item_15\", \"Item_12\", \"Item_1\", \"Item_7\", \"Item_8\", \"Item_3\", \"Item_11\", \"Item_16\"]\n}\n",
+        "target": "['Item_5']"
+    },
+    "70": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_15\", \"Item_4\"]\n}\n",
+        "target": "['Item_4', 'Item_8']"
+    },
+    "71": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_9\", \"Item_10\"]\n}\n",
+        "target": "['Item_10', 'Item_9']"
+    },
+    "72": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_4\", \"Item_2\", \"Item_3\", \"Item_5\", \"Item_6\", \"Item_7\", \"Item_8\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "73": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_6\", \"Item_8\", \"Item_1\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_3\", \"Item_4\", \"Item_9\", \"Item_2\", \"Item_5\", \"Item_7\", \"Item_10\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_9', 'Item_13']"
+    },
+    "74": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_16\"]\n}\n",
+        "target": "['Item_16', 'Item_5']"
+    },
+    "75": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_6\", \"Item_1\", \"Item_16\", \"Item_5\", \"Item_7\", \"Item_3\", \"Item_9\", \"Item_12\"]\n}\n",
+        "target": "['Item_3', 'Item_2', 'Item_6', 'Item_5', 'Item_4']"
+    },
+    "76": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_3\", \"Item_5\", \"Item_10\", \"Item_9\", \"Item_13\", \"Item_7\", \"Item_15\", \"Item_12\", \"Item_4\", \"Item_14\", \"Item_11\", \"Item_12\", \"Item_1\"]\n}\n",
+        "target": "['Item_13']"
+    },
+    "77": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_1\", \"Item_4\", \"Item_8\", \"Item_15\", \"Item_11\", \"Item_3\", \"Item_9\", \"Item_10\", \"Item_13\", \"Item_12\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "78": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_4\", \"Item_8\", \"Item_5\", \"Item_7\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_9', 'Item_1']"
+    },
+    "79": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_7\", \"Item_8\", \"Item_10\", \"Item_20\"]\n}\n",
+        "target": "['Item_6', 'Item_3']"
+    },
+    "80": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_5\", \"Item_8\", \"Item_4\", \"Item_12\", \"Item_13\", \"Item_10\", \"Item_14\", \"Item_6\", \"Item_7\", \"Item_11\", \"Item_1\", \"Item_2\", \"Item_3\", \"Item_9\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_12', 'Item_13', 'Item_5', 'Item_8']"
+    },
+    "81": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_1\", \"Item_2\", \"Item_3\", \"Item_7\", \"Item_10\", \"Item_16\", \"Item_11\", \"Item_5\", \"Item_15\", \"Item_6\", \"Item_14\", \"Item_9\", \"Item_8\", \"Item_12\", \"Item_13\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "82": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_4\", \"Item_14\", \"Item_x\", ..., all candidate item_ids in order]\n}\n",
+        "target": "['Item_4', 'Item_8']"
+    },
+    "83": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_5\", \"Item_4\", \"Item_2\", \"Item_1\", \"Item_8\", \"Item_9\", \"Item_15\", \"Item_14\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_16\"]\n}\n",
+        "target": "['Item_10']"
+    },
+    "84": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_6\", \"Item_8\", \"Item_14\", \"Item_3\", \"Item_16\", \"Item_4\", \"Item_7\", \"Item_11\", \"Item_9\", \"Item_10\", \"Item_12\", \"Item_13\", \"Item_5\", \"Item_15\"]\n}\n",
+        "target": "['Item_1', 'Item_13', 'Item_15']"
+    },
+    "85": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_1\", \"Item_3\", \"Item_4\", \"Item_5\", \"Item_6\", \"Item_7\", \"Item_8\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_3', 'Item_14', 'Item_2']"
+    },
+    "86": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_11\", \"Item_8\", \"Item_4\", \"Item_16\", \"Item_15\"]\n}\n",
+        "target": "['Item_2']"
+    },
+    "87": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_5\", \"Item_8\", \"Item_10\", \"Item_11\", \"Item_9\", \"Item_2\", \"Item_7\", \"Item_14\", \"Item_12\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_5']"
+    },
+    "88": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_2\", \"Item_1\", \"Item_14\", \"Item_3\", \"Item_7\", \"Item_15\", \"Item_16\", \"Item_9\", \"Item_12\", \"Item_13\", \"Item_11\"]\n}\n",
+        "target": "['Item_11', 'Item_1']"
+    },
+    "89": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_14\", \"Item_12\", \"Item_8\", \"Item_11\", \"Item_7\", \"Item_1\", \"Item_9\", \"Item_3\", \"Item_5\", \"Item_10\", \"Item_6\", \"Item_13\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_11']"
+    },
+    "90": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_8\", \"Item_14\", \"Item_15\", \"Item_16\", \"Item_1\", \"Item_7\", \"Item_5\", \"Item_6\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\"]\n}\n",
+        "target": "['Item_5']"
+    },
+    "91": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_2\", \"Item_13\"]\n}\n",
+        "target": "['Item_5', 'Item_2', 'Item_8']"
+    },
+    "92": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\"]\n}\n",
+        "target": "['Item_12', 'Item_14', 'Item_5', 'Item_10']"
+    },
+    "93": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_1\", \"Item_4\", \"Item_12\", \"Item_14\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "94": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_6\"]\n}\n",
+        "target": "['Item_6']"
+    },
+    "95": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "96": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_8\", \"Item_12\", \"Item_13\"]\n}\n",
+        "target": "['Item_4']"
+    },
+    "97": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_8\", \"Item_2\", \"Item_3\", \"Item_5\", \"Item_6\", \"Item_7\", \"Item_4\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_7', 'Item_16', 'Item_1']"
+    },
+    "98": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_8\", \"Item_12\", \"Item_16\", \"Item_9\", \"Item_11\"]\n}\n",
+        "target": "['Item_5']"
+    },
+    "99": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_2\", \"Item_16\", \"Item_5\", \"Item_1\", \"Item_11\", \"Item_10\", \"Item_3\", \"Item_4\", \"Item_6\", \"Item_7\", \"Item_9\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\"]\n}\n",
+        "target": "['Item_15']"
+    },
+    "100": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "101": {
+        "generated_text": " First, let's identify the key terms in the query: \"grovia magic stick z\". \nThe query mentions \"grovia\", which is a brand name. It also mentions \"magic stick\", which is a product name and a specific type of item (a diaper balm). The term \"z\" likely refers to the word \"zinc\", as zinc is a common ingredient in diaper creams/balm. \n\nNow let's analyze the metadata of each item:\n1. Item_1 mentions \"Magic Stick\" but no zinc content.\n2. Item_2 mentions \"Magic Stick Zinc Balm\" - this seems to be the most relevant to our query.\n3. Item_3 mentions \"Magic Stick\" but no zinc content.\n4. Item_4 mentions \"GroVia Shell\" which is not relevant to our query.\n5. Item_5 mentions \"GroVia Organic Shell Set\" which is not directly relevant to our query.\n6. Item_6 mentions \"GroVia Mini Starter Set\" which is not directly relevant to our query.\n7. Item_7 mentions \"GroVia Hybrid Hook/Loop Shell Diaper\" which is not directly relevant to our query.\n8. Item_8 mentions \"GroVia Curious About Cloth Diapering Kit\" which is not directly relevant to our query.\n9. Item_9 mentions \"GroVia Zippered Wetbag\" which is not directly relevant to our query.\n10. Item_10 mentions \"GroVia Hybrid Diapering System Starter Kit with Eco-Friendly Disposable Inserts\" which is not directly relevant to our query.\n11. Item_11 mentions \"GroVia O.N.E. Baby Cloth Diaper\" which is not directly relevant to our query.\n12. Item_12 mentions \"GroVia O.N.E. Reusable Baby Cloth Diaper\" which is not directly relevant to our query.\n13. Item_13 mentions \"GroVia Single Diaper Shell\" which is not directly relevant to our query.\n14. Item_14 mentions \"GroVia Cloth Diaper and Wetbag Purrrrfect Combo\" which is not directly relevant to our query.\n15. Item_15 mentions \"GroVia Disposable BioSoaker Pad\" which is not directly relevant to our query.\n16. Item_16 mentions \"GroVia Reusable Hybrid Baby Cloth Diaper Snap Shell\" which is not directly relevant to our query.\n\nFrom the analysis, Item_2 has the most relevant metadata to our query. However, it's important to note that the term \"zinc\" could refer to a zinc-based diaper cream or balm. Item_1, Item_3, and Item_4 mention \"Magic Stick\" but not \"Magic Stick Zinc Balm\", so they are not as relevant as Item_2.\n\nTherefore, the most relevant items are:\n1. Item_2 (GroVia - Diaper Bundle \u2013 (1) Magic Stick Balm \u2013 (1) Magic Stick Zinc Balm \u2013 (3) Fragrance Free BioLiners 200ct)\n2. Item_1 (GroVia Mini Magic Stick. GroVia Magic Stick Mini Clean. Simple. Organic. All Natural Diaper Ointment Now keep your hands clean when applying diaper balm.)\n3. Item_3 (GroVia All Natural Magic Stick Baby Diaper Balm for Baby Diapering (2 oz). )\n4. Item_4 (GroVia - Shell Snap Closure Baby Diaper with Waterproof Layer - Drift. GroVia Cloth Diaper Shell - Snap - Drift)\n5. Item_5 (GroVia Organic Shell Set, Sunset (Discontinued by Manufacturer))\n6. Item_6 (GroVia Experience Package. GroVia - GroVia Mini Starter Set)\n7. Item_7 (GroVia Hybrid Hook/Loop Shell Diaper, Woodlands, One Size (Discontinued by Manufacturer))\n8. Item_8 (GroVia Curious About Cloth Diapering Kit)\n9. Item_9 (GroVia Zippered Wetbag (Multicolored))\n10. Item_10 (GroVia Hybrid Diapering System Starter Kit with Eco-Friendly Disposable Inserts)\n11. Item_11 (GroVia O.N.E. Baby Cloth Diaper (Funfair))\n12. Item_12 (GroVia O.N.E. Reusable Baby Cloth Diaper (Jewel))\n13. Item_13 (GroVia Single Diaper Shell - Hook and Loop Mod Flowers)\n14. Item_14 (GroVia Cloth Diaper and Wetbag Purrrrfect Combo (O.N.E. Diaper))\n15. Item_15 (GroVia Disposable BioSoaker Pad for Baby Cloth Diapering (50 Count))\n16. Item_16 (GroVia Reusable Hybrid Baby Cloth Diaper Snap Shell (Lotus))\n\nBased on this analysis, the top 5 most relevant items to the query \"grovia magic stick z\" are Item_",
+        "target": "['Item_2', 'Item_15']"
+    },
+    "102": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_5\", \"Item_1\"]\n}\n",
+        "target": "['Item_2']"
+    },
+    "103": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_3\", \"Item_8\", \"Item_4\", \"Item_5\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "104": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_14\", \"Item_6\", \"Item_10\", \"Item_8\"]\n}\n",
+        "target": "['Item_2', 'Item_12', 'Item_6']"
+    },
+    "105": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_3\", \"Item_8\"]\n}\n",
+        "target": "['Item_1', 'Item_3']"
+    },
+    "106": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_1\", \"Item_15\", \"Item_16\", \"Item_4\"]\n}\n",
+        "target": "['Item_16', 'Item_14', 'Item_15', 'Item_1', 'Item_11']"
+    },
+    "107": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_13\", \"Item_10\", \"Item_8\", \"Item_11\", \"Item_2\", \"Item_14\"]\n}\n",
+        "target": "['Item_9']"
+    },
+    "108": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_14\"]\n}\n",
+        "target": "['Item_9', 'Item_7']"
+    },
+    "109": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_8\", \"Item_10\", \"Item_2\", \"Item_11\", \"Item_15\", \"Item_5\", \"Item_3\", \"Item_9\", \"Item_12\", \"Item_13\", \"Item_14\"]\n}\n",
+        "target": "['Item_1']"
+    },
+    "110": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_15\", \"Item_7\", \"Item_16\"]\n}\n",
+        "target": "['Item_6', 'Item_9', 'Item_1']"
+    },
+    "111": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_5\", \"Item_8\", \"Item_16\"]\n}\n",
+        "target": "['Item_8']"
+    },
+    "112": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_4\", \"Item_6\", \"Item_7\", \"Item_8\", \"Item_9\", \"Item_12\", \"Item_13\", \"Item_15\", \"Item_10\", \"Item_5\", \"Item_16\", \"Item_14\"]\n}\n",
+        "target": "['Item_14']"
+    },
+    "113": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_2\", \"Item_3\", \"Item_8\", \"Item_7\", \"Item_9\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_14\", \"Item_15\", \"Item_16\"]\n}\n",
+        "target": "['Item_3']"
+    },
+    "114": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_14\", \"Item_15\", \"Item_8\", \"Item_2\", \"Item_6\", \"Item_9\", \"Item_10\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_16\"]\n}\n",
+        "target": "['Item_1', 'Item_2']"
+    },
+    "115": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_2\", \"Item_3\", \"Item_14\"]\n}\n",
+        "target": "['Item_2', 'Item_3']"
+    },
+    "116": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_1\", \"Item_4\", \"Item_8\", \"Item_12\"]\n}\n",
+        "target": "['Item_8', 'Item_12', 'Item_14']"
+    },
+    "117": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_7\", \"Item_1\", \"Item_2\", \"Item_4\", \"Item_8\", \"Item_14\", \"Item_16\"]\n}\n",
+        "target": "['Item_5', 'Item_3', 'Item_4', 'Item_2']"
+    },
+    "118": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_7\", \"Item_8\", \"Item_9\", \"Item_14\", \"Item_11\", \"Item_12\", \"Item_13\", \"Item_16\"]\n}\n",
+        "target": "['Item_9', 'Item_3', 'Item_5']"
+    },
+    "119": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_4\", \"Item_8\", \"Item_10\", \"Item_5\", \"Item_11\", \"Item_14\", \"Item_15\", \"Item_13\", \"Item_12\", \"Item_3\", \"Item_2\", \"Item_1\"]\n}\n",
+        "target": "['Item_6', 'Item_5', 'Item_4']"
+    },
+    "120": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_5\", \"Item_6\", \"Item_7\", \"Item_12\", \"Item_14\", \"Item_3\", \"Item_4\"]\n}\n",
+        "target": "['Item_12']"
+    },
+    "121": {
+        "generated_text": "\n{\n    \"reranked_items\": [\"Item_8\", \"Item_4\", \"Item_5\"]\n}\n",
+        "target": "['Item_4', 'Item_6', 'Item_5']"
+    }
+}
