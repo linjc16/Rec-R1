@@ -40,6 +40,9 @@ def _select_rm_score_fn(data_source):
     elif 'amazon_review' in data_source:
         from verl.utils.reward_score import amazon_review
         return amazon_review.compute_score
+    elif 'reranker' in data_source:
+        from verl.utils.reward_score import reranker
+        return reranker.compute_score
     else:
         raise NotImplementedError
 

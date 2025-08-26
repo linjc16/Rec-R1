@@ -42,7 +42,7 @@ The output JSON should contain the reranked list of item_ids in order of relevan
 For example,
 <answer>
 {
-    "reranked_items": ["B001", "B002", "B003", ...]
+    "reranked_items": ["B001", "B002", "B003", ..., all input item_ids in order]
 }
 </answer><|im_end|>
 <|im_start|>assistant\nLet me solve this step by step.\n<think>"""
@@ -149,6 +149,7 @@ if __name__ == '__main__':
             question = make_prefix(example, args.template_type)
             solution = {
                 "target": example['target'],
+                "input": example['input'],
             }
             data = {
                 "data_source": data_source + f'_{split}',
@@ -205,7 +206,7 @@ if __name__ == '__main__':
     train_dataset = truncate(train_dataset, threshold=threshold)
 
     hdfs_dir = os.path.join(args.hdfs_dir, args.template_type) if args.hdfs_dir is not None else None
-    
+
     pdb.set_trace()
 
     train_dataset.to_parquet(os.path.join(save_dir, 'train.parquet'))

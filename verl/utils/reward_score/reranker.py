@@ -85,7 +85,7 @@ def validate_response_structure(processed_str: str, do_print: bool) -> bool:
     return validation_passed
 
 
-def check_json_format(json_str, do_print=False):
+def check_json_format(json_str, input_items, do_print=False):
     """Check if the given string is a valid JSON and follows the expected structure."""
     try:
         if not json_str:
@@ -114,6 +114,10 @@ def check_json_format(json_str, do_print=False):
                 print("[Error] 'reranked_items' contains duplicates")
             return False
         
+        if set(data["reranked_items"]) != set(input_items):
+            if do_print:
+                print("[Error] 'reranked_items' does not match input items")
+            return False
 
         return True
     except json.JSONDecodeError:
@@ -147,15 +151,16 @@ def compute_score(solution_str, ground_truth, data_source, format_reward=0.1, an
     """
 
     label = [str(x) for x in ground_truth['target']]
+    input_items = [str(x) for x in ground_truth['input']]
     scores = [1] * len(label)
     
     answer_text, processed_str = extract_solution(solution_str)
     
     do_print = random.randint(1, 32) == 1
-
+    
     # Validate response structure
     response_format_correct = validate_response_structure(processed_str, do_print)
-    json_format_correct = check_json_format(answer_text, do_print)
+    json_format_correct = check_json_format(answer_text, input_items, do_print)
     format_correct = response_format_correct and json_format_correct
     
     format_score = format_reward if format_correct else -2
