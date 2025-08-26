@@ -17,11 +17,11 @@ Given a customer query and a list of candidate products,
 your task is to rerank the products so that the most relevant items to the query are placed at the top. 
 Consider semantic meaning, product attributes, and customer intent.
 
-Below is the query:
-```{user_query}```
-
 Below are the candidate products (item_id and metadata):
 ```{candidates}```
+
+Below is the query:
+```{user_query}```
 ------
 """
 
@@ -38,11 +38,11 @@ def make_prefix(dp, template_type='qwen'):
             + input_str +
             """\nShow your work in <think> </think> tags. 
 Your final response must be in JSON format within <answer> </answer> tags. 
-The output JSON should contain the reranked list of item_ids in order of relevance. You must include **all the input candidates** exactly once (no missing items, no duplicates).
+The output JSON should contain the reranked list of item_ids in order of relevance. The length of the reranked list should match the number of input candidates.
 For example,
 <answer>
 {
-    "reranked_items": ["B001", "B002", "B003", ..., all input item_ids in order]
+    "reranked_items": ["Item_4", "Item_8", "Item_x", ..., all candidate item_ids in order]
 }
 </answer><|im_end|>
 <|im_start|>assistant\nLet me solve this step by step.\n<think>"""
@@ -55,14 +55,14 @@ For example,
             + input_str +
             """\nPlease show your entire reasoning process in **a single** <think> </think> block. 
 Your final response must be in JSON format within <answer> </answer> tags. 
-The output JSON should contain the reranked list of item_ids in order of relevance. You must include **all the input candidates** exactly once (no missing items, no duplicates).
+The output JSON should contain the reranked list of item_ids in order of relevance. The length of the reranked list should match the number of input candidates.
 For example,
 <think>
 [entire reasoning process here]
 </think>
 <answer>
 {
-    "reranked_items": ["B001", "B002", "B003"]
+    "reranked_items": ["Item_4", "Item_8", "Item_x", ..., all input item_ids in order]
 }
 </answer><|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>\nLet me solve this step by step.\n<think>"""
@@ -95,23 +95,39 @@ def load_rec_dataset(data_dir, domain_name_list):
             item2metadata[item_id] = metadata
     
     # def function that convert input item list to candidates string with item_id and metadata
-    def convert_to_candidates(item_list):
+    def convert_to_candidates(item_list, target_list):
+        # within a data, map item_list to numbers from 1 to len(item_list)
         candidates = []
+        mapping = {}
+        for idx, item_id in enumerate(item_list):
+            mapping[item_id] = f"Item_{idx+1}"
         for item_id in item_list:
             metadata = item2metadata.get(item_id, "No metadata available")
-            candidates.append(f"Item ID: {item_id}\nMetadata: {metadata}")
-        return "\n\n".join(candidates)
+            candidates.append(f"{mapping[item_id]}: , {metadata}")
 
+        # also get the mapping input
+        mapping_input_list = [mapping[item_id] for item_id in item_list]
+
+        mapping_target_list = [mapping[item_id] for item_id in target_list if item_id in mapping]
+        
+        return "\n\n".join(candidates), mapping_input_list, mapping_target_list
+    
     # process the data with pandas in parallel
+    
     for dp in tqdm(train_data):
-        dp['candidates'] = convert_to_candidates(dp['input'])
+        dp['candidates'], dp['mapping_input'], dp['mapping_target'] = convert_to_candidates(dp['input'], dp['target'])
     for dp in tqdm(val_data):
-        dp['candidates'] = convert_to_candidates(dp['input'])
+        dp['candidates'], dp['mapping_input'], dp['mapping_target'] = convert_to_candidates(dp['input'], dp['target'])
     for domain_name in domain_name_list:
         for dp in tqdm(test_data_dict[domain_name]):
-            dp['candidates'] = convert_to_candidates(dp['input'])
-    
+            dp['candidates'], dp['mapping_input'], dp['mapping_target'] = convert_to_candidates(dp['input'], dp['target'])
 
+    # if len of mapping_target is 0, then remove the data point
+    train_data = [dp for dp in train_data if len(dp['mapping_target']) > 0]
+    val_data = [dp for dp in val_data if len(dp['mapping_target']) > 0]
+    for domain_name in domain_name_list:
+        test_data_dict[domain_name] = [dp for dp in test_data_dict[domain_name] if len(dp['mapping_target']) > 0]
+    
     return train_data, val_data, test_data_dict
 
 
@@ -148,8 +164,8 @@ if __name__ == '__main__':
         def process_fn(example, idx):
             question = make_prefix(example, args.template_type)
             solution = {
-                "target": example['target'],
-                "input": example['input'],
+                "target": example['mapping_target'],
+                "input": example['mapping_input'],
             }
             data = {
                 "data_source": data_source + f'_{split}',
@@ -204,10 +220,8 @@ if __name__ == '__main__':
         return train_dataset
     
     train_dataset = truncate(train_dataset, threshold=threshold)
-
+    
     hdfs_dir = os.path.join(args.hdfs_dir, args.template_type) if args.hdfs_dir is not None else None
-
-    pdb.set_trace()
 
     train_dataset.to_parquet(os.path.join(save_dir, 'train.parquet'))
     val_dataset.to_parquet(os.path.join(save_dir, 'val.parquet'))

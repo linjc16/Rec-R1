@@ -118,7 +118,7 @@ def check_json_format(json_str, input_items, do_print=False):
             if do_print:
                 print("[Error] 'reranked_items' does not match input items")
             return False
-
+        
         return True
     except json.JSONDecodeError:
         if do_print:
