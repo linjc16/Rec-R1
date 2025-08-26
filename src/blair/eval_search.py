@@ -12,7 +12,7 @@ import pdb
 
 import sys
 sys.path.append('./')
-from src.eval_search.utils import ndcg_at_k
+from src.eval_search.utils import recall_at_k
 
 
 def set_device(gpu_id):
@@ -35,10 +35,11 @@ def load_args():
 
     args = parser.parse_args()
 
-    args.data_path = 'data/amazon_c4/raw/cache/'
+    # args.data_path = 'data/amazon_c4/raw/cache/'
+    args.data_path = 'data/esci/raw/'
     args.dataset_name = args.dataset.split('/')[-1]
     args.plm_size = 1024 if 'large' in args.suffix else 768
-
+    
     device = set_device(args.gpu_id)
     args.device = device
 
@@ -57,7 +58,7 @@ def load_items(args):
         # )
         filepath = 'data/amazon_c4/raw/sampled_item_metadata_1M.jsonl'
     elif args.dataset == 'esci':
-        filepath = os.path.join(args.data_path, 'esci/sampled_item_metadata_esci.jsonl')
+        filepath = 'data/esci/raw/sampled_item_metadata_esci.jsonl'
     else:
         raise NotImplementedError('Dataset not supported')
 
@@ -84,7 +85,7 @@ def load_queries(args, item2id):
             test_data = json.load(file)
         dataset = Dataset.from_list(test_data)
     elif args.dataset == 'esci':
-        dataset = load_dataset('csv', data_files=os.path.join(args.data_path, 'esci/test.csv'))['train']
+        dataset = load_dataset('csv', data_files=os.path.join(args.data_path, 'test.csv'))['train']
     else:
         raise NotImplementedError('Dataset not supported')
 
@@ -150,6 +151,10 @@ if __name__ == '__main__':
     #     'topk': args.k
     # })
     results = []
+    results_dict = {}
+    ndcg_all = {k: [] for k in [10, 20, 100]}
+    recall_all = {100: []}
+
     with torch.no_grad():
         for pr in tqdm(range(0, query_embs.shape[0], args.bs)):
             batch_queries = query_embs[pr:pr+args.bs]
@@ -158,13 +163,39 @@ if __name__ == '__main__':
             topk_scores, topk_indices = torch.topk(scores, args.k, dim=-1)
             # pos_index = (batch_target.unsqueeze(-1).expand(-1, args.k) == topk_indices).cpu()
             # pos_len = torch.ones_like(batch_target).cpu().numpy()
+            
+            # ndcg = ndcg_at_k(topk_indices, batch_target, args.k)
+            # results.append(ndcg.cpu().numpy())
+            for i in range(batch_queries.size(0)):
+                global_idx = pr + i
+                retrieved = topk_indices[i].tolist()
+                target = int(batch_target[i].item())
 
-            ndcg = ndcg_at_k(topk_indices, batch_target, args.k)
-            results.append(ndcg.cpu().numpy())
-    
-    results = np.concatenate(results)
-    print(args)
-    print(f'Overall NDCG@{args.k}: {results.mean()}')
+                entry = {
+                    "id": str(global_idx),
+                    "retrieved": str(retrieved),
+                    "target": str([target]),
+                    "ndcg@10": ndcg_at_k(torch.tensor(retrieved[:10]).unsqueeze(0), torch.tensor([target]), 10)[0].item(),
+                    "ndcg@20": ndcg_at_k(torch.tensor(retrieved[:20]).unsqueeze(0), torch.tensor([target]), 20)[0].item(),
+                    "ndcg@100": ndcg_at_k(torch.tensor(retrieved[:100]).unsqueeze(0), torch.tensor([target]), 100)[0].item(),
+                    "recall@100": recall_at_k(retrieved[:100], [target], 100)
+                }
+                ndcg_all[10].append(entry["ndcg@10"])
+                ndcg_all[20].append(entry["ndcg@20"])
+                ndcg_all[100].append(entry["ndcg@100"])
+                recall_all[100].append(entry["recall@100"])
+
+                results_dict[f"{global_idx}"] = entry
+
+    # Print metrics
+    print("\n===== Evaluation Metrics =====")
+    for k in [10, 20, 100]:
+        print(f"NDCG@{k}: {np.mean(ndcg_all[k]):.4f}")
+    print(f"Recall@100: {np.mean(recall_all[100]):.4f}")
+
+    # results = np.concatenate(results)
+    # print(args)
+    # print(f'Overall NDCG@{args.k}: {results.mean()}')
 
     # if args.domain:
     #     filepath = hf_hub_download(

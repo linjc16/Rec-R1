@@ -5,7 +5,7 @@ SAVE_DIR=results/esci
 MODEL_NAME=rec-r1-esci
 
 
-CUDA_VISIBLE_DEVICES=0 python src/eval/esci/model_generate.py \
+CUDA_VISIBLE_DEVICES=4 python src/eval/esci/model_generate.py \
     --domain_name $DOMAIN_NAME \
     --model_path $MODEL_PATH \
     --data_path $DATA_PATH \

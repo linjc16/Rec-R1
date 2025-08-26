@@ -33,8 +33,10 @@ def _select_rm_score_fn(data_source):
             from verl.utils.reward_score_dense import esci
             return esci.compute_score
         else:
-            from verl.utils.reward_score import esci
-            return esci.compute_score
+            # from verl.utils.reward_score import esci
+            # return esci.compute_score
+            from verl.utils.reward_score import esci_multi_reward
+            return esci_multi_reward.compute_score
     elif 'amazon_review' in data_source:
         from verl.utils.reward_score import amazon_review
         return amazon_review.compute_score

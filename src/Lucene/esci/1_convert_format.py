@@ -12,9 +12,10 @@ def convert_jsonl_for_pyserini(input_file, output_file):
             # Create JSON document with a clear structure
             doc = {
                 "id": data["item_id"],  
-                "contents": data['metadata'].strip()
+                "contents": data['metadata'].strip(),
+                "category": data['category'].strip()
             }
-
+            
             docs.append(json.dumps(doc))
 
     with open(output_file, "w", encoding="utf-8") as f:

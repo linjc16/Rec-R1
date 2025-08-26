@@ -27,8 +27,8 @@ def evaluate_model(model_path, data_path, model_name, save_dir, domain_name, bat
             targets[i] = targets[i].tolist()
     
     llm = LLM(model=model_path, dtype="bfloat16", tokenizer=model_path)
-
-    sampling_params = SamplingParams(max_tokens=1024, temperature=0.0)
+    
+    sampling_params = SamplingParams(max_tokens=1024, temperature=0.6)
     generated_texts = {}
 
     count = 0
@@ -72,7 +72,7 @@ def evaluate_model(model_path, data_path, model_name, save_dir, domain_name, bat
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--domain_name', type=str, choices=['Video_Games', 'Baby_Products', 'Office_Products', 'Sports_and_Outdoors'], default='Video_Games')
+    parser.add_argument('--domain_name', type=str, choices=['Video_Games', 'Baby_Products', 'Office_Products', 'Sports_and_Outdoors', 'esci'], default='Video_Games')
     parser.add_argument("--model_path", type=str, default="Qwen/Qwen2.5-3B-Instruct")
     parser.add_argument("--data_path", type=str, default="data/esci/inst/subset/test.parquet")
     parser.add_argument("--model_name", type=str, default="Qwen-inst-esci")

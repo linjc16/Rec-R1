@@ -6,7 +6,7 @@ import pdb
 sys.path.append('./')
 
 from src.Dense.esci.search import FaissHNSWSearcher
-from src.Lucene.utils import ndcg_at_k
+from src.eval_search.utils import ndcg_at_k, recall_at_k
 import argparse
 
 from src.eval_search.utils import extract_answer
@@ -63,22 +63,22 @@ if __name__ == '__main__':
         
 
         test_data = []
-        for entry in raw_test_data:
+        for i, entry in enumerate(raw_test_data):
             query = entry['query']
             # query = entry['ori_review']
             target = [entry['item_id']]
             scores = [1] * len(target)
-            test_data.append({'query': query, 'target': target, 'scores': scores})
+            test_data.append({'id': str(i), 'query': query, 'target': target, 'scores': scores})
     elif args.test_file_path is not None:
         with open(args.test_file_path, "r") as f:
             raw_test_data = json.load(f)
         
         test_data = []
-        for _, entry in raw_test_data.items():
+        for key, entry in raw_test_data.items():
             query = extract_answer(str(entry['generated_text']))
             target = [entry['target']]
             scores = [1] * len(target)
-            test_data.append({'query': query, 'target': target, 'scores': scores})
+            test_data.append({'id': str(key), 'query': query, 'target': target, 'scores': scores})
     else:
         raise ValueError("Either test_data_dir or test_file_path must be provided")
 
@@ -86,17 +86,43 @@ if __name__ == '__main__':
     ndcg = []
     batch_size = 32
     topk = 100
+    results_dict = {}
     
     for i in tqdm(range(0, len(test_data), batch_size)):
         batch = test_data[i:i+batch_size]
         queries = [item['query'] for item in batch]
-        targets = {item['query']: item['target'] for item in batch} 
-        scores = {item['query']: item['scores'] for item in batch}
-        
+        ids = [item['id'] for item in batch]
+        targets = {item['id']: item['target'] for item in batch}
+        scores = {item['id']: item['scores'] for item in batch}
+
         results = search_system.batch_search(queries, top_k=topk, threads=16)
-        
-        for query in queries:
+
+        for idx, query in enumerate(queries):
+            sample_id = ids[idx]
             retrieved = [result[0] for result in results.get(query, [])]
-            ndcg.append(ndcg_at_k(retrieved, targets[query], topk, scores[query]))
-    
-    print(f"Average NDCG@10: {sum(ndcg) / len(ndcg)}")
+
+            ndcg_score = ndcg_at_k(retrieved, targets[sample_id], 10, scores[sample_id])
+            ndcg.append(ndcg_score)
+
+            results_dict[f"{sample_id}_{query}"] = {
+                'id': sample_id,
+                'retrieved': str(retrieved),
+                'target': str(targets[sample_id]),
+                'ndcg@10': ndcg_score,
+                'ndcg@20': ndcg_at_k(retrieved, targets[sample_id], 20, scores[sample_id]),
+                'ndcg@100': ndcg_at_k(retrieved, targets[sample_id], 100, scores[sample_id]),
+                'recall@100': recall_at_k(retrieved, targets[sample_id], 100),
+            }
+
+    # with open(args.save_path, 'w') as f:
+    #     json.dump(results_dict, f, indent=2)
+
+    # Print average NDCG
+    ndcg_10 = [v['ndcg@10'] for v in results_dict.values()]
+    ndcg_20 = [v['ndcg@20'] for v in results_dict.values()]
+    ndcg_100 = [v['ndcg@100'] for v in results_dict.values()]
+    recall_100 = [v['recall@100'] for v in results_dict.values()]
+    print(f"Average NDCG@10: {sum(ndcg_10) / len(ndcg_10):.4f}")
+    print(f"Average NDCG@20: {sum(ndcg_20) / len(ndcg_20):.4f}")
+    print(f"Average Recall@100: {sum(recall_100) / len(recall_100):.4f}")
+    print(f"Average NDCG@100: {sum(ndcg_100) / len(ndcg_100):.4f}")

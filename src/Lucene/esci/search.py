@@ -63,7 +63,7 @@ class PyseriniMultiFieldSearch:
         for i, query in enumerate(queries):
             hits = results_dict[str(i)]  # Get results for query `i`
             formatted_results = [
-                (json.loads(hit.raw)["id"], json.loads(hit.raw)["contents"], hit.score)
+                (json.loads(hit.raw)["id"], json.loads(hit.raw)["contents"], json.loads(hit.raw)['category'], hit.score)
                 for hit in hits
             ]
             final_results[query] = formatted_results
@@ -84,5 +84,5 @@ if __name__ == "__main__":
     # Print results
     for query, results in search_results.items():
         # print(f"\n🔍 Query: {query}")
-        for asin, content, score in results:
-            print(f"  ASIN: {asin}, Content: {content}, Score: {score}")
+        for asin, content, category, score in results:
+            print(f"  ASIN: {asin}, Content: {content}, Category: {category}, Score: {score}")

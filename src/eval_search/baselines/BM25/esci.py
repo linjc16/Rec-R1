@@ -8,7 +8,7 @@ import pdb
 import sys
 sys.path.append('./')
 
-from src.eval_search.utils import ndcg_at_k
+from src.eval_search.utils import ndcg_at_k, recall_at_k
 from src.Lucene.esci.search import PyseriniMultiFieldSearch
 
 
@@ -19,7 +19,7 @@ if __name__ == '__main__':
     parser.add_argument('--test_data_dir', type=str, default='data/esci/test_subset')
     parser.add_argument('--save_path', type=str, default='results/esci/metric_res/ori_query.json')
     args = parser.parse_args()
-
+    
     search_system = PyseriniMultiFieldSearch(index_dir='database/esci/pyserini_index')
     
     # Load the test data
@@ -59,8 +59,10 @@ if __name__ == '__main__':
                 'id': sample_id,
                 'retrieved': str(retrieved),
                 'target': str(targets[sample_id]),
-                # 'ndcg@10': ndcg_at_k(retrieved, targets[sample_id], 10, scores[sample_id]),
+                'ndcg@10': ndcg_at_k(retrieved, targets[sample_id], 10, scores[sample_id]),
+                'ndcg@20': ndcg_at_k(retrieved, targets[sample_id], 20, scores[sample_id]),
                 'ndcg@100': ndcg_at_k(retrieved, targets[sample_id], 100, scores[sample_id]),
+                'recall@100': recall_at_k(retrieved, targets[sample_id], 100),
             }
     
 
@@ -69,7 +71,11 @@ if __name__ == '__main__':
         json.dump(results_dict, f, indent=2)
 
     # Print average NDCG
-    # ndcg_10 = [v['ndcg@10'] for v in results_dict.values()]
+    ndcg_10 = [v['ndcg@10'] for v in results_dict.values()]
+    ndcg_20 = [v['ndcg@20'] for v in results_dict.values()]
     ndcg_100 = [v['ndcg@100'] for v in results_dict.values()]
-    # print(f"Average NDCG@10: {sum(ndcg_10) / len(ndcg_10):.4f}")
+    recall_100 = [v['recall@100'] for v in results_dict.values()]
+    print(f"Average NDCG@10: {sum(ndcg_10) / len(ndcg_10):.4f}")
+    print(f"Average NDCG@20: {sum(ndcg_20) / len(ndcg_20):.4f}")
+    print(f"Average Recall@100: {sum(recall_100) / len(recall_100):.4f}")
     print(f"Average NDCG@100: {sum(ndcg_100) / len(ndcg_100):.4f}")

@@ -24,10 +24,11 @@ class PyseriniMultiFieldSearch:
         hits = self.searcher.search(query, k=top_k)
 
         results = []
+        
         for hit in hits:
             doc = json.loads(hit.raw)  # Get raw document
-            results.append((doc["id"], doc["title"], hit.score))  # (parent_asin, title, relevance score)
-
+            results.append((doc["id"], doc["contents"], hit.score))  # (parent_asin, title, relevance score)
+        
         return results
 
 

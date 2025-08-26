@@ -8,7 +8,7 @@ import pdb
 import sys
 sys.path.append('./')
 
-from src.eval_search.utils import ndcg_at_k
+from src.eval_search.utils import ndcg_at_k, recall_at_k
 from src.Lucene.amazon_c4.search import PyseriniMultiFieldSearch
 from src.eval_search.utils import extract_answer
 
@@ -18,7 +18,7 @@ if __name__ == '__main__':
     parser.add_argument('--res_path', type=str, default='results/esci/gpt-4o_esci_Sports_and_Outdoors.json')
     parser.add_argument('--save_path', type=str, default='results/esci/metric_results_gpt4o.json')
     args = parser.parse_args()
-
+    
     os.makedirs(os.path.dirname(args.save_path), exist_ok=True)
     
     search_system = PyseriniMultiFieldSearch(index_dir='database/esci/pyserini_index')
@@ -64,8 +64,10 @@ if __name__ == '__main__':
                 'id': sample_id,
                 'retrieved': str(retrieved),
                 'target': str(targets[sample_id]),
-                # 'ndcg@10': ndcg_at_k(retrieved, targets[sample_id], 10, scores[sample_id]),
+                'ndcg@10': ndcg_at_k(retrieved, targets[sample_id], 10, scores[sample_id]),
+                'ndcg@20': ndcg_at_k(retrieved, targets[sample_id], 20, scores[sample_id]),
                 'ndcg@100': ndcg_at_k(retrieved, targets[sample_id], 100, scores[sample_id]),
+                'recall@100': recall_at_k(retrieved, targets[sample_id], 100),
             }
     
     # Save results
@@ -73,7 +75,11 @@ if __name__ == '__main__':
         json.dump(results_dict, f, indent=2)
 
     # Print average NDCG
-    # ndcg_10 = [v['ndcg@10'] for v in results_dict.values()]
+    ndcg_10 = [v['ndcg@10'] for v in results_dict.values()]
+    ndcg_20 = [v['ndcg@20'] for v in results_dict.values()]
     ndcg_100 = [v['ndcg@100'] for v in results_dict.values()]
-    # print(f"Average NDCG@10: {sum(ndcg_10) / len(ndcg_10):.4f}")
+    recall_100 = [v['recall@100'] for v in results_dict.values()]
+    print(f"Average NDCG@10: {sum(ndcg_10) / len(ndcg_10):.4f}")
+    print(f"Average NDCG@20: {sum(ndcg_20) / len(ndcg_20):.4f}")
+    print(f"Average Recall@100: {sum(recall_100) / len(recall_100):.4f}")
     print(f"Average NDCG@100: {sum(ndcg_100) / len(ndcg_100):.4f}")
