@@ -1,0 +1,414 @@
+{
+    "0": {
+        "generated_text": "Oculus AND Rift S",
+        "target": "['B07PTMKYS7', 'B07PTMKYS7', 'B07PTMKYS7', 'B0898PLPY1', 'B0888PPW8B', 'B0825KSK1H', 'B0838DV5C9', 'B0838F9GRJ', 'B088R2S33H', 'B07YHHWFZS']"
+    },
+    "1": {
+        "generated_text": "(\"Nintendo Switch\" OR switch) AND (game OR \"video game\" OR console OR merchandise)",
+        "target": "['B07VGRJDFY', 'B07XV4NHHN', 'B07XV4NHHN', 'B07VJRZ62R', 'B07V2BBMK4']"
+    },
+    "2": {
+        "generated_text": "(\"Nintendo Switch\" OR \"Switch\" OR \"Nintendo gaming console\") AND (\"tablet\" OR \"tablet device\" OR \"tablet accessory\")",
+        "target": "['B07VGRJDFY', 'B07VJRZ62R', 'B07V2BBMK4', 'B01N9RG3XS', 'B07GT9MZST']"
+    },
+    "3": {
+        "generated_text": "(tendo OR tendo-enabled OR tendo-branded) AND (switch OR switch-like OR switch-enabled)",
+        "target": "['B07VGRJDFY', 'B07VJRZ62R', 'B07V2BBMK4', 'B07V3G6C1F', 'B07JJLLFXJ', 'B07HXTCZ1N']"
+    },
+    "4": {
+        "generated_text": "(kinect OR 'motion controller' OR 'body tracking device' OR 'sensor') AND (xbox one OR 'video game console' OR 'gaming platform')",
+        "target": "['B00YT168WA', 'B07S8F9KPJ', 'B00NABN4VS', 'B00INAX3Q2']"
+    },
+    "5": {
+        "generated_text": "(\"headphones\" OR \"headsets\" OR \"earphones\") AND (\"microphone\" OR \"voice input\" OR \"voicemeeter\")",
+        "target": "['B087J7PR83', 'B08B5F9JVB', 'B07L3SXCL9', 'B07VQ7NKS6', 'B07VQ7NKS6', 'B07VQ7NKS6', 'B087JLGZLN', 'B07YW83CR5', 'B089W8B42T']"
+    },
+    "6": {
+        "generated_text": "(havit AND (mouse AND keyboard)) OR (havit AND (computer input devices OR gaming peripherals))",
+        "target": "['B07QS6MG8B']"
+    },
+    "7": {
+        "generated_text": "(\"keyboard\" AND (\"rgb\" OR \"backlighting\" OR \"colorful\") AND (\"gaming\" OR \"video game\" OR \"gamer\") AND (\"usb\" OR \"wired\"))",
+        "target": "['B07QS6MG8B', 'B07WCLZ1PL', 'B07YTTM8CS', 'B07MF1YFX6']"
+    },
+    "8": {
+        "generated_text": "(digital OR signal OR storage) AND (structure OR management) AND (electronic OR \"electronic device\" OR \"storage device\")",
+        "target": "['B07LB4K52K', 'B0744XTWL4', 'B07RD5PCJ5', 'B07V59K4PG', 'B000I10PY2', 'B000I10PY2']"
+    },
+    "9": {
+        "generated_text": "(\"xbox one controller\" OR \"Xbox One gamepad\" OR \"Xbox One peripheral\") AND (\"wireless\" OR \"wireless connection\" OR \"wireless compatible\") AND (\"ps3\" OR \"PlayStation 3\" OR \"PS3\")",
+        "target": "['B01GW3H3U8', 'B07X1ZRCDS', 'B081TG33FK', 'B07Z4RF7SZ']"
+    },
+    "10": {
+        "generated_text": "(\"Nintendo DS\" OR \"DS\" OR \"Nintendo handheld\") AND (\"video games\" OR \"games\" OR \"Nintendo DS games\")",
+        "target": "['B07CGYFWY7', 'B07R765R5X', 'B0832KMGJ8', 'B01AC3Z9J6', 'B000FDE058', 'B003AMMHXI', 'B004IYY8PW', 'B008DQF8MI', 'B00DC7G3Q8']"
+    },
+    "11": {
+        "generated_text": "\"87\" AND \"silent black\"",
+        "target": "['B07DFBKYT5', 'B0722GG88M']"
+    },
+    "12": {
+        "generated_text": "\"all left for dead\" AND (\"video games\" OR \"video game\" OR gaming) AND xbox 360",
+        "target": "['B07TC8J6HK', 'B07HJDZRJP']"
+    },
+    "13": {
+        "generated_text": "(\"Game of Thrones\" AND (book OR books OR series) AND (video game))",
+        "target": "['B01KKGFMU6', 'B0001DBI1Q', '0553808044', '0008209103', 'B07CLNJBLD']"
+    },
+    "14": {
+        "generated_text": "\"adapter\" AND \"control\" AND \"xbox 360\" AND \"pc\"",
+        "target": "['B093CYW12Z', 'B07RJRQ1YD', 'B07R7L8KJP', 'B07HFNQRWT', 'B079KSTD3K', 'B0785RHK5Q', 'B01HPZ3LC6']"
+    },
+    "15": {
+        "generated_text": "(microsoft AND xbox one) AND (controller OR gamepad OR joystick)",
+        "target": "['B01LPNKGGI', 'B07GJ5W7HV', 'B07GHWHFR5', 'B07VRD1TT1', 'B081J81CNP', 'B085DDXXNG', 'B086HMFYFD', 'B01N4JYY1H', 'B085H9Q4FP', 'B07W8QHZJM']"
+    },
+    "16": {
+        "generated_text": "(\"Xbox One\" OR \"Xbox console\" OR \"Xbox\" OR \"Xbox One X\")",
+        "target": "['B07SBX48TY', 'B07SBX48TY', 'B07WDGB9P5', 'B08289XHRS', 'B07CSLG8ST', 'B07MK3XH7V', 'B07DS6XJLN', 'B082497JD6', 'B07ZL15426', 'B082DRW2SR']"
+    },
+    "17": {
+        "generated_text": "(Sega AND Genesis) OR (Sega AND Sonic) OR (Genesis AND game) OR (Genesis AND console) OR (Genesis AND accessories)",
+        "target": "['B07PFT19MG', 'B088FZCK3D', 'B078WHTYSL', 'B06XWBY3YP', 'B06XWBY3YP', 'B07XZMPD6F', 'B0795D95QQ', 'B0007MZWQS']"
+    },
+    "18": {
+        "generated_text": "(\"Legend of Zelda\" OR Zelda) AND (\"Twilight Princess\" OR \"Princess Twilight\") AND (Link OR \"Zelda Link\")",
+        "target": "['B06ZY1JT3V', 'B00O9GPEDO', 'B00O9GPEDO', 'B01LX0FCR0', 'B07ZHW7ZXX', 'B017W1771Y', 'B004WLRQMI']"
+    },
+    "19": {
+        "generated_text": "(iphone AND gaming AND (controller OR gaming accessory))",
+        "target": "['B07WGMB16C', 'B07XHLMSBT', 'B07PVMWGWR', 'B07TQ5P9YY', 'B07XJ37HPK', 'B07RHMVZKT', 'B07MGFSG62', 'B07KYTRNHD']"
+    },
+    "20": {
+        "generated_text": "(ps4 AND (controller OR joystick) AND (accessories OR add-on OR extension))",
+        "target": "['B082VX16VJ', 'B082VX16VJ', 'B07S8XXCVD', 'B07S8XXCVD', 'B07Z4RFKXD', 'B07Z4RFKXD', 'B01H1GJ7IQ']"
+    },
+    "21": {
+        "generated_text": "gamesir AND vx AND aimswitch",
+        "target": "['B07HR8SGNF', 'B07HR8SGNF', 'B07HR8SGNF', 'B07J4N76T9', 'B07N2SSWHV', 'B07N2SSWHV']"
+    },
+    "22": {
+        "generated_text": "(arcade OR \"arcade game\" OR \"video game\" OR \"game console\" OR pinball OR comics OR video OR gaming) AND (style OR theme OR design OR pattern OR color OR texture OR stylistic OR graphic) AND (buttons OR controller OR joystick OR \"game pad\" OR \"gamepad\" OR \"input device\" OR control)",
+        "target": "['B01N11BDX9', 'B07C8FSCMY', 'B074WH9XQM', 'B074WFT4TW', 'B074WF11MJ']"
+    },
+    "23": {
+        "generated_text": "(\"assassins creed\" AND \"odyssey\" AND \"pc\" AND \"code\")",
+        "target": "['B07DKYN13M', 'B07DKYN13M', 'B07HCSTQDK', 'B076VK1H4F', 'B076VJS879', 'B076VG134V', 'B076V7B8QY']"
+    },
+    "24": {
+        "generated_text": "\"assassins creed\" AND \"odyssey\" AND \"switch\"",
+        "target": "['B07DKYN13M', 'B07DKYN13M', 'B07DKT3WJ2', 'B07DKMM74Y']"
+    },
+    "25": {
+        "generated_text": "(wii AND (adapter OR \"to hdmi\" OR \"hdmi adapter\"))",
+        "target": "['B083XKP8NP', 'B07WSHD6W9']"
+    },
+    "26": {
+        "generated_text": "(AV AND (multi-out OR multiport OR multiplex) AND HDMI AND cable)",
+        "target": "['B07QWVN66G', 'B077RYCNM6']"
+    },
+    "27": {
+        "generated_text": "(\"t150\" AND (\"stand\" OR \"mount\" OR \"bracket\" OR \"base\"))",
+        "target": "['B0061EER58', 'B0061EER58', 'B082Y9TJYC', 'B07NRDPW64', 'B0719N4VNC', 'B01F6DHWH4', 'B004WTHEWW']"
+    },
+    "28": {
+        "generated_text": "(Batman AND (DVD OR Blu-ray OR movie))",
+        "target": "['B00RBULUKG']"
+    },
+    "29": {
+        "generated_text": "(battery AND chargeable AND xbox)",
+        "target": "['B076BMH2YL', 'B01LYNI9Y5', 'B00DBDPOZ4', 'B07867YHBS', 'B07DZQW6WL']"
+    },
+    "30": {
+        "generated_text": "(\"battle royale\" OR \"battle game\") AND (\"pc\" OR \"PC\") AND (\"gaming\" OR \"video game\") AND (\"headset\" OR \"headphones\" OR \"headphone set\")",
+        "target": "['B07GC9DS7K']"
+    },
+    "31": {
+        "generated_text": "(\"Oculus Quest\" OR \"Oculus\" OR \"Rift\" OR \"VR\" OR \"virtual reality\" OR \"headset\") AND (\"accessories\" OR \"games\" OR \"controller\" OR \"sensors\")",
+        "target": "['B07HNW68ZC', 'B07TB4X3D2', 'B07Z9H8XQP', 'B08F5T3F9Y', 'B08F5TZW2J', 'B085S2LYZN', 'B0863MT183']"
+    },
+    "32": {
+        "generated_text": "\"xbox one\" AND \"elite controller\" AND \"series 2\"",
+        "target": "['B07GHWHFR5', 'B086HMFYFD', 'B074RNL1RX', 'B00ZDNNRB8', 'B014VF27J6', 'B082LNJ927', 'B014VF26P6']"
+    },
+    "33": {
+        "generated_text": "(wireless OR wireless OR Bluetooth OR wireless) AND (headset OR headphones OR headset OR headphones) AND (\"nintendo switch\" OR switch OR \"nintendo\")",
+        "target": "['B07WZT2HZ8', 'B08141P1JX', 'B087278X2D', 'B07ZGC814D']"
+    },
+    "34": {
+        "generated_text": "\"logitech\" AND \"computer headset\" AND \"microphone\" AND \"usb\"",
+        "target": "['B01MXE0FKC']"
+    },
+    "35": {
+        "generated_text": "(speaker OR \"gaming speaker\" OR \"gamer's speaker\") AND (PC OR \"gaming PC\")",
+        "target": "['B07L3SXCL9', 'B07F1DMJMY', 'B098QJMF6K']"
+    },
+    "36": {
+        "generated_text": "(ps4 OR playstation 4) AND (open world OR open world game OR unbound world) AND (games OR video games OR video game)",
+        "target": "['B07DJRFSDF', 'B07CNGL5RT']"
+    },
+    "37": {
+        "generated_text": "(\"video game\" OR \"video games\") AND (\"action game\" OR \"adventure game\" OR \"role-playing game\" OR \"strategy game\" OR \"platformer\") AND (\"PlayStation\" OR \"Xbox\" OR \"Nintendo\" OR \"PC\")",
+        "target": "['B07DJRFSDF', 'B08BSKT43L', 'B08BS8492S']"
+    },
+    "38": {
+        "generated_text": "(\"Xbox\" AND \"Series X\") OR (\"console\" AND \"Xbox\" AND \"Series X\")",
+        "target": "['B0911WLYVN', 'B08VN2LB3B', 'B08TVX3DVN', 'B07WDGB9P5']"
+    },
+    "39": {
+        "generated_text": "(\"Constantine\" OR \"Constantine: The Crow\" OR \"Constantine (film)\") AND \"DVD\"",
+        "target": "['B01M7WZ0P7', 'B01LTHLW9A', 'B000YD77BS', 'B0009SZYOU', 'B0009MDPYW', 'B0091W10TS']"
+    },
+    "40": {
+        "generated_text": "(control AND ps4) AND (gaming OR gamepad OR joystick OR controller)",
+        "target": "['B07N1JFHFV', 'B07GQ6NN9M']"
+    },
+    "41": {
+        "generated_text": "(\"dualshock 4\" OR \"dualshock4\" OR \"ds4\") AND \"sony\" AND \"ps4\"",
+        "target": "['B07GQ6NN9M', 'B079HBNLG7']"
+    },
+    "42": {
+        "generated_text": "(\"headphones\" AND (\"pc\" OR \"personal computer\" OR \"portable computer\" OR \"laptop\") AND NOT \"microphone\")",
+        "target": "['B07Z3V4LR9']"
+    },
+    "43": {
+        "generated_text": "Corsair AND HS50",
+        "target": "['B07KFR2DY4']"
+    },
+    "44": {
+        "generated_text": "Corsair AND White AND Keyboard",
+        "target": "['B07RCY89WM']"
+    },
+    "45": {
+        "generated_text": "(\"PlayStation 1\" OR \"PS1\" OR \"video game\") AND (controller OR game)",
+        "target": "['B07HHVF2XG', 'B07L7W915H', 'B07LB9X8BH', 'B07KPP3P6B', 'B07KPMMSCK']"
+    },
+    "46": {
+        "generated_text": "(\"remote control\" OR \"remote-operated\" OR \"wireless\") AND \"blinds\"",
+        "target": "['B07TFTGM5K', 'B082D1FVFD', 'B07N1JV4J6', 'B07GZZ3DF5', 'B07F81VKZ1', 'B015N6R8XC']"
+    },
+    "47": {
+        "generated_text": "(\"Nintendo 2DS\" AND (\"Ninjago\" OR \"Ninjago game\" OR \"Ninjago video game\"))",
+        "target": "['B004IYY8PW']"
+    },
+    "48": {
+        "generated_text": "(\"PlayStation 1\" OR \"PS1\" OR \"PlayStation\") AND (\"PlayStation 1 accessory\" OR \"PlayStation 1 game\" OR \"PlayStation 1 merchandise\" OR \"video game console\" OR \"video game\")",
+        "target": "['B07L7W915H', 'B07LB9X8BH', 'B07KPNJSXG', 'B07KPP3P6B', 'B00004XOWT']"
+    },
+    "49": {
+        "generated_text": "(final OR ultimate OR premium OR high-end OR top-tier) AND (mouse OR \"input device\" OR \"computer mouse\" OR \"gaming mouse\" OR \"office mouse\")",
+        "target": "['B07ZFDDR4P', 'B07GZ3KDKQ', 'B07KXVR236', 'B07KXVR236', 'B07KXVR235']"
+    },
+    "50": {
+        "generated_text": "(\"flight stick\") AND (\"Hotas\" OR \"X\")",
+        "target": "['B07ZG8CYY3']"
+    },
+    "51": {
+        "generated_text": "(Saitek AND (wheel OR foot pedal) AND (wheel AND foot pedal))",
+        "target": "['B00DIQ3168', 'B01NAN0SF3', 'B00GF0U6NA']"
+    },
+    "52": {
+        "generated_text": "(fortnite AND xbox one) AND (skins OR gear OR accessories OR gamepad OR controller)",
+        "target": "['B082VNBWM4', 'B07LHJXD5Z']"
+    },
+    "53": {
+        "generated_text": "(logitech AND (wireless OR Bluetooth OR \"wireless connectivity\") AND (keyboard OR QWERTY OR \"mech keyboard\" OR \"gamer keyboard\"))",
+        "target": "['B07796MBJ7', 'B01LZAK8MM', 'B00822GICW', 'B005L38VRU']"
+    },
+    "54": {
+        "generated_text": "(\"Game Boy\" OR \"Nintendo Game Boy\") AND (\"Advance\" OR \"GBC\") AND (\"SP\" OR \"Special Edition\")",
+        "target": "['B084N89XFV', 'B07KPNSR52']"
+    },
+    "55": {
+        "generated_text": "\n{\n    \"query\": \"(Gameboy AND (sp OR special OR premium OR accessories OR \"special edition\" OR \"premium edition\" OR \"handheld game\" OR \"video game console\" OR \"Nintendo Gameboy\"))\"\n}\n",
+        "target": "['B084N89XFV']"
+    },
+    "56": {
+        "generated_text": "(\"Game Boy Advance\" OR GBA) AND (SP OR \"Special Edition\" OR \"SP Edition\") AND (games OR titles OR software)",
+        "target": "['B07TVW4D8T', 'B07P14ZW6L', 'B07KQFYDX4', 'B07P13NTX6']"
+    },
+    "57": {
+        "generated_text": "(\"GameCube\" OR \"GameCube controller\" OR \"GameCube pad\" OR \"GameCube remote\") AND (\"Wii\" OR \"Wii remote\" OR \"Wii gamepad\")",
+        "target": "['B07MSHR6JJ', 'B0779L3PM2', 'B07GJT8D5N', 'B07V78HX62', 'B07KT6HKN6', 'B07HZ5T1L6', 'B075B41KWN']"
+    },
+    "58": {
+        "generated_text": "(Nintendo AND Game Cube) AND (video game OR console) OR (Nintendo Switch)",
+        "target": "['B07KPPMP6P', 'B07KPPL963', 'B07KPP66SN', 'B019EGB6PI', 'B00005QEFD', 'B007736908', 'B00005YXRM']"
+    },
+    "59": {
+        "generated_text": "(\"gamecube\" AND (\"games\" OR \"video games\" OR \"nintendo games\" OR \"cartoons\" OR \"anime\" OR \"action figures\"))",
+        "target": "['B07KQDTQKP', 'B084T5ZLK7', 'B07NZ1SKFW', 'B07NY33H5C', 'B07KQFW7ZS', 'B07KQDWDXP', 'B00009WAUD']"
+    },
+    "60": {
+        "generated_text": "(\"drive\" AND \"gaming\" AND \"4tb\" AND \"games\")",
+        "target": "['B074QFQSSD']"
+    },
+    "61": {
+        "generated_text": "(\"pc headset\" OR \"computer headset\" OR \"headset PC\") AND NOT \"microphone\"",
+        "target": "['B08MW29ZPG']"
+    },
+    "62": {
+        "generated_text": "\"headphones\" AND (\"wireless\" AND (\"no mic\" OR \"mic-free\"))",
+        "target": "['B08MW29ZPG', 'B07N3RPPB7']"
+    },
+    "63": {
+        "generated_text": "(wired OR wired connection OR cable OR plugged-in) AND (gaming OR gamer OR eSports OR video game) AND (mouse OR gaming mouse OR controller)",
+        "target": "['B07YN82X3B', 'B07TT8G59J', 'B00HTK1NCS']"
+    },
+    "64": {
+        "generated_text": "(razer AND gaming AND (mouse OR mose) AND ps4)",
+        "target": "['B07P6T66XS', 'B07TT8G59J']"
+    },
+    "65": {
+        "generated_text": "(\"Grand Theft Auto\" OR \"GTA\") AND (video OR game OR merchandise OR t-shirt OR mug OR poster OR book OR novel OR movie OR controller)",
+        "target": "['B00KL4AROO', 'B00KL4AROO', 'B00B6ZBGVK', 'B00B6ZBGVK', 'B07H3TF8L7']"
+    },
+    "66": {
+        "generated_text": "(\"guitar hero\" AND \"xbox one\") OR (\"guitar hero\" AND \"accessories\" AND \"xbox one\")",
+        "target": "['B074BFP55X', 'B016E80VLY']"
+    },
+    "67": {
+        "generated_text": "(\"Xbox One\" AND (\"games\" OR \"video game\" OR \"title\"))",
+        "target": "['B00KSQHX1K']"
+    },
+    "68": {
+        "generated_text": "(Hitbox AND (arcade stick OR \"game controller\" OR joystick))",
+        "target": "['B08XJPMPQN', 'B08C9Z1P53', 'B0917652BF', 'B078GBDZX6']"
+    },
+    "69": {
+        "generated_text": "(hotas AND (joystick OR gamepad OR controller))",
+        "target": "['B004I5XB4K']"
+    },
+    "70": {
+        "generated_text": "\"Nintendo Joycon\" AND (\"charging stand\" OR \"charger\" OR \"charging dock\" OR \"power station\")",
+        "target": "['B07KYHBVYH', 'B08R9RQCTY', 'B08K9495JV', 'B08GJ6CXN8', 'B088TND21B', 'B082KGB2QY', 'B07VCPJFKM', 'B07MG3HRV4', 'B073ZD8CFY', 'B07MHVKFXM']"
+    },
+    "71": {
+        "generated_text": "(\"Logitech\" AND (\"autopilot\" OR \"navigation\" OR \"control\") AND (\"panel\" OR \"interface\" OR \"control\"))",
+        "target": "['B07RYJ2YB7']"
+    },
+    "72": {
+        "generated_text": "(\"magic\" OR \"magic brand\" OR \"magic feature\") AND (\"adapter\" AND \"switch\")",
+        "target": "['B08J2DLZT7', 'B087JGLGB4', 'B074JZPS39']"
+    },
+    "73": {
+        "generated_text": "(Mario OR \"Super Mario\" OR \"Nintendo Mario\") AND (cart OR \"game cartridge\" OR \"video game\") AND (switch OR \"Nintendo Switch\" OR \"gaming console\")",
+        "target": "['B071XNBL33']"
+    },
+    "74": {
+        "generated_text": "\"Mario Kart\" AND (\"Nintendo Switch\" OR \"Switch\")",
+        "target": "['B071XNBL33', 'B01MYBZ4A9', 'B07WVSSGMP', 'B07WSPMV3F']"
+    },
+    "75": {
+        "generated_text": "(membrain AND gaming AND keyboard)",
+        "target": "['B07VHZFSN9', 'B074GG1RQQ']"
+    },
+    "76": {
+        "generated_text": "(metal AND saga AND ps2)",
+        "target": "['B000F8XNHE', 'B000E41KXS', 'B000BXKA38', 'B00009ETL0']"
+    },
+    "77": {
+        "generated_text": "\"MLB The Show 21\" AND (PS4 OR PlayStation 4) AND (\"video game\" OR game)",
+        "target": "['B09BFQR3Z6', 'B092QYCWS2', 'B08XP183CC', 'B08WZH12ZY']"
+    },
+    "78": {
+        "generated_text": "(Mpow AND (dongle OR adapter OR connector OR accessory))",
+        "target": "['B08MF5S5YX']"
+    },
+    "79": {
+        "generated_text": "(Super Nintendo OR SNES OR \"Super Nintendo Entertainment System\") AND (wires OR cables OR connectors OR adapters OR harnesses)",
+        "target": "['B07GVCGZG4', 'B07THH5GV9', 'B07MZ9JN8Y', 'B07MYX9JLM', 'B07933QDZG']"
+    },
+    "80": {
+        "generated_text": "(\"nintendo\" OR \"Nintendo\") AND (\"duck hunt\" OR \"Duck Hunt\") AND (\"game\" OR \"video game\" OR \"video games\") AND (\"gun\" OR \"gun included\" OR \"gun accessory\")",
+        "target": "['B07Z6QQGM6', 'B07KQ49GJ4', 'B08139QPQJ', 'B07KDTLY7B', 'B00FQSE9VW', 'B000VA5Y1Y', 'B000MEA9TQ']"
+    },
+    "81": {
+        "generated_text": "(\"PlayStation Portable\" OR \"PS Plus\" OR \"PSP\")",
+        "target": "['B000F2DE8S', 'B001KMRN0M', 'B07SX2645N', 'B001QOGQMA', 'B001QOGQMA', 'B00PV515DU', 'B07B6698XN', 'B00439I19Q', 'B00439I19Q', 'B001F51GDY', 'B001F51GDY', 'B07STTBCP3', 'B07V9SN43B', 'B0010ZJFKA']"
+    },
+    "82": {
+        "generated_text": "(\"Nintendo Switch\" OR \"Switch\" OR \"Nintendo Switch console\") AND (\"stickers\" OR \"decal\" OR \"adhesive\" OR \"sticker sheet\" OR \"decoration\" OR \"gift item\")",
+        "target": "['B07H4SWQ91', 'B077V37S49']"
+    },
+    "83": {
+        "generated_text": "\"rose pink\" AND ps4 AND controller",
+        "target": "['B07WDSD7G7']"
+    },
+    "84": {
+        "generated_text": "(PlayStation AND PS3) OR (PlayStation AND (gaming console OR video game OR Joystick OR Retro))",
+        "target": "['B009DL2TBA', 'B00E369SDM', 'B00AEX81SG', 'B003VUO6LU', 'B003VUO6H4', 'B002I0J4VQ', 'B002I0H738', 'B001CSZSBK', 'B000XGJH1O']"
+    },
+    "85": {
+        "generated_text": "(pink OR rosy OR crimson OR scarlet OR coral) AND (xbox one OR \"Xbox One\" OR Xbox OR \"XB1\") AND (skin OR cover OR accessory OR gummi OR stick)",
+        "target": "['B01N5LMKAP', 'B01N4NUG5R', 'B01LBFLYY8', 'B00GUSX288']"
+    },
+    "86": {
+        "generated_text": "(playstation 2 OR ps2 OR \"video game console\" OR playstation) AND (games OR \"video games\" OR \"video game titles\" OR \"video game software\")",
+        "target": "['B0015Z1I4G']"
+    },
+    "87": {
+        "generated_text": "\"ps5\" AND \"vr\" AND \"headset\"",
+        "target": "['B07FN7NPSQ', 'B08NRGF2DL']"
+    },
+    "88": {
+        "generated_text": "(ps4 AND vr AND case)",
+        "target": "['B073PVDMT5', 'B073PVDMT5', 'B01M75B9XX', 'B01M4QTBCI', 'B01LB4KHF6']"
+    },
+    "89": {
+        "generated_text": "(\"xbox one\" AND \"wireless\" AND \"controller\" AND \"elite\")",
+        "target": "['B00ZDNNRB8', 'B082LNJ927', 'B00ZV0NH40']"
+    },
+    "90": {
+        "generated_text": "(\"PS Vita\" AND (\"new\" OR \"replacement\" OR \"upgrade\") AND (\"controller\" OR \"gamepad\" OR \"joystick\" OR \"Razer\" OR \"Logitech\"))",
+        "target": "['B00QGTJPM8', 'B00G9X4YRM', 'B008B4OOG8']"
+    },
+    "91": {
+        "generated_text": "(\"PlayStation 3\" OR PS3 OR \"Sony PlayStation 3\") AND (\"Blu-ray player\" OR \"Remote control\" OR \"Game discs\" OR \"PlayStation Move\")",
+        "target": "['B0035IX632', 'B0035IV7J2']"
+    },
+    "92": {
+        "generated_text": "(PS4 AND Rock Band) OR (PS4 Rock Band) OR (PS4 game) OR (PS4 bundle)",
+        "target": "['B01IANW0OM', 'B01IANW0HY', 'B01A7RIY58', 'B00ZIV1OCY']"
+    },
+    "93": {
+        "generated_text": "(\"PSP GO\" OR \"PlayStation Portable GO\" OR \"PSP GO game\" OR \"PSP GO controller\" OR \"PSP GO accessories\")",
+        "target": "['B002CZP84Y', 'B002CZP84Y']"
+    },
+    "94": {
+        "generated_text": "\"razer\" AND \"headset\" AND \"without mic\"",
+        "target": "['B07MCYMSCS', 'B081GJ938B']"
+    },
+    "95": {
+        "generated_text": "\"Red Dead Redemption 2\" AND \"Xbox One\"",
+        "target": "['B0183NUR1W', 'B0183NUR1W']"
+    },
+    "96": {
+        "generated_text": "(\"seagate\" AND (\"game drive\" OR \"storage\" OR \"drive\" OR \"external storage\") AND (\"xbox one\" OR \"xbox\" OR \"xbox console\" OR \"video game console\"))",
+        "target": "['B0826XY6HG']"
+    },
+    "97": {
+        "generated_text": "\"shadow of collosus\" AND ps3",
+        "target": "['B01M1ET399', 'B01LKEWHOG', 'B002I0J5FG']"
+    },
+    "98": {
+        "generated_text": "(\"Ultra Man\" OR \"Smash Bros. Ultra Man\" OR \"Smash Bros. Ultra Man 2\") AND (SNES OR \"Super Nintendo\") AND (\"video game\" OR game)",
+        "target": "['B006SQ14W8', 'B00002STYF']"
+    },
+    "99": {
+        "generated_text": "vida AND (charging station OR power station OR charger)",
+        "target": "['B07P4LZF1C', 'B07CMY4HKD']"
+    },
+    "100": {
+        "generated_text": "(white OR ivory OR cream) AND (wide OR broad OR large OR oversized) AND (\"mouse pad\" OR \"mouse mat\")",
+        "target": "['B07ZCN5ZRZ', 'B07HBRF35R']"
+    },
+    "101": {
+        "generated_text": "(\"wireless\" OR \"wireless-enabled\") AND (\"controller\" OR \"gamepad\" OR \"game controller\") AND (\"ipad pro\" OR \"ipad\")",
+        "target": "['B07VZV1ZWH', 'B07NTL7616']"
+    },
+    "102": {
+        "generated_text": "(wireless AND headset AND not bluetooth)",
+        "target": "['B092SHCQB3']"
+    }
+}

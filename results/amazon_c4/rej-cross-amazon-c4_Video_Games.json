@@ -1,0 +1,602 @@
+{
+    "0": {
+        "generated_text": "(comfort AND affordable AND non-scratchy AND sweat-resistant AND large surface area AND highly recommended)",
+        "target": "B0C5LT9S93"
+    },
+    "1": {
+        "generated_text": "(\"nice feel\" OR comfortable OR gentle OR soft OR pleasant) AND (\"matte finish\" OR matte OR dull OR non-glossy) AND (\"soft touch\" OR \"gentle touch\" OR softer touch)",
+        "target": "B071HVWD55"
+    },
+    "2": {
+        "generated_text": "(\"mechanical keyboard\" AND (\"hot-swappable\" OR \"optical switches\") AND (\"better performance\" OR \"customization options\") AND (\"price similar to membrane keyboards\"))",
+        "target": "B09MRGG5C4"
+    },
+    "3": {
+        "generated_text": "(timely delivery AND sealed package AND US version AND with manual AND enjoyable) AND (similar to Blanco y Negro OR Platino)",
+        "target": "B0B2X4BMV2"
+    },
+    "4": {
+        "generated_text": "(encasing OR case OR cover) AND (improved grip OR textured OR ergonomic) AND (display protection OR screen protector OR glass cover) AND (comfort OR cushioned OR soft)",
+        "target": "B09GF8WG61"
+    },
+    "5": {
+        "generated_text": "(headset AND gaming) AND (better AND affordable) AND NOT 'Turtle Beach'",
+        "target": "B0BKQPPD4T"
+    },
+    "6": {
+        "generated_text": "(\"battery charging station\" OR \"battery charger\" OR \"rechargeable battery\" OR \"charging station\")",
+        "target": "B08VN2LB3B"
+    },
+    "7": {
+        "generated_text": "(\"VR charger\" AND (\"working well\" OR \"good battery\")) AND (\"resolved minor issue\" OR \"overall satisfied\")",
+        "target": "B0BRXV2R1J"
+    },
+    "8": {
+        "generated_text": "(case AND (Scarlet OR Violet) AND (switch OR \"gaming switch\" OR \"mechanical switch\") AND (wrist strap OR \"wrist straps\" OR \"wrist support\") AND (storage OR \"no bulge\" OR \"hidden storage\"))",
+        "target": "B0BPM13LPG"
+    },
+    "9": {
+        "generated_text": "(\"mouse\" AND \"durable cord\" AND \"my husband\" AND NOT \"multi-colored light\")",
+        "target": "B07VHHPJBV"
+    },
+    "10": {
+        "generated_text": "(\"Nintendo 64\" OR \"N64\") AND (connect OR interface OR adapter) AND (\"without lag\" OR smooth OR \"no delay\") AND (works OR functional)",
+        "target": "B0B9C1NPYG"
+    },
+    "11": {
+        "generated_text": "(stylish OR contemporary OR compact OR portable) AND (clicky OR clicking OR distinctive sound) AND (moderate OR low volume) AND (adjustable OR customizable OR adjustable) AND (long-lasting OR battery life) AND (RGB OR colorful OR vibrant) AND (sleep mode OR power-saving)",
+        "target": "B09N9D7JGS"
+    },
+    "12": {
+        "generated_text": "(\"comfortable\" OR \"comfy\" OR \"sleeveless\" OR \"lightweight\") AND (\"battery\" OR \"power\" OR \"energy\" OR \"long-lasting\") AND (\"response\" OR \"quick\" OR \"fast\" OR \"customer service\")",
+        "target": "B09JNR4Y15"
+    },
+    "13": {
+        "generated_text": "(good OR high-quality) AND (functional OR useful OR effective) AND (comfortable OR ergonomic) AND (durable OR robust) AND (noise-cancelling OR noise-canceling) AND (adjustable OR customizable) AND (made of OR constructed from quality fabric) AND (cushion OR padding) AND (bendable OR adjustable) AND (microphone OR audio input) AND (volume control OR volume adjustment) AND (mute OR silence) AND (tangle-free OR durable OR cable) AND (audio control OR audio interface) AND (THX OR spatial audio) AND (compatible OR 5.1 audio)",
+        "target": "B0BYVN9ZK2"
+    },
+    "14": {
+        "generated_text": "(comfortable OR wearable) AND (clear OR voice OR audio) AND (affordable OR budget-friendly) AND (corded OR wire OR light-up OR LED)",
+        "target": "B08GX4XC98"
+    },
+    "15": {
+        "generated_text": "\n{\n    \"query\": \"(comfortable OR soft OR plush) AND (adjustable OR \"adjustable straps\" OR \"adjustable fit\") AND (replacement OR substitute OR spare) AND (\"headache relief\" OR \"headache prevention\" OR \"headache prevention straps\") AND (gift OR present OR boy)\"\n}\n",
+        "target": "B0C948SGYT"
+    },
+    "16": {
+        "generated_text": "(budget OR affordable OR cost-effective) AND (customizable OR modular) AND (no-scratch OR no-ping OR tactile OR noticeable) AND (RGB AND backlighting AND software-controlled) AND (flip-up AND stands AND sturdy AND no-pop-out)",
+        "target": "B089GR6T6M"
+    },
+    "17": {
+        "generated_text": "\"gaming mouse\" AND (\"easy to adjust\" AND \"great quality\") AND (\"more colors than just basic black, white, or pink\" AND \"sage green\") AND \"aesthetic standards\"",
+        "target": "B0C12FX4DH"
+    },
+    "18": {
+        "generated_text": "(\"extra buttons\" AND \"Apex Legends\") AND \"improve gameplay\" AND \"very durable\" AND \"highly recommend\"",
+        "target": "B09KHV33VJ"
+    },
+    "19": {
+        "generated_text": "\"gaming headset\" AND wireless AND \"good volume\" AND microphone AND lights AND \"highly recommended\"",
+        "target": "B0C4F9JGTJ"
+    },
+    "20": {
+        "generated_text": "(product for 11-year-old AND (entertainment OR playtime) AND (hour OR 60 minutes) AND (phone storage OR phone case OR phone holder))",
+        "target": "B0BS49QC99"
+    },
+    "21": {
+        "generated_text": "(\"keyboard\" OR \"QWERTY keyboard\" OR \"mechanical keyboard\") AND (\"great feel\" OR \"comfortable\" OR \"responsive\") AND (\"works well\" OR \"functional\" OR \"high-quality\") AND NOT \"wrist rest\"",
+        "target": "B0B6NS163P"
+    },
+    "22": {
+        "generated_text": "(charger AND (\"original charger\" OR \"car charger\" OR \"home charger\" OR \"replacement\"))",
+        "target": "B0B3MSDQ36"
+    },
+    "23": {
+        "generated_text": "(\"reasonably priced\" OR \"affordable\" OR \"budget-friendly\" OR \"cost-effective\") AND (\"feels sturdy\" OR \"durable\" OR \"rigid\" OR \"solid\") AND (\"satisfying to use\" OR \"comfortable\" OR \"satisfactory\" OR \"pleasing\")",
+        "target": "B0BB7YK8YX"
+    },
+    "24": {
+        "generated_text": "(\"75% keyboard\" AND \"plastic\" AND (\"boutique keyswitches\" AND \"Akko\") AND (\"high quality\" AND \"full set of keys\" AND \"alternate layouts\") AND (\"no rattle\" AND \"foam inside\" AND \"pinging sound reduced\"))",
+        "target": "B0BGN49NZD"
+    },
+    "25": {
+        "generated_text": "(\"Steam Deck\" AND dock AND \"USB-A ports\" AND (\"blue light\" OR \"blue light feature\") AND \"original power cable\" AND NOT \"Ethernet\")",
+        "target": "B0C749BLSL"
+    },
+    "26": {
+        "generated_text": "(\"organizer\" OR \"storage\" OR \"packer\" OR \"organizing\") AND (\"games\" AND \"controllers\" AND \"consoles\") AND (\"Nintendo Switch\" AND (\"pack\" OR \"packing\"))",
+        "target": "B0BRV3T4CW"
+    },
+    "27": {
+        "generated_text": "(premium OR high-quality OR top-tier) AND (stable OR firm OR reliable) AND (easy to use OR ergonomic OR user-friendly) AND (anti-slip OR grip OR handle OR controller retention)",
+        "target": "B08KHFBP4S"
+    },
+    "28": {
+        "generated_text": "(\"PS4 Pro cooler\" OR \"PS4 Pro heat sink\" OR \"PS4 Pro thermal pad\") AND (\"dustproof\" OR \"dust-resistant\" OR \"anti-dust\") AND (\"durable\" OR \"long-lasting\" OR \"2-year warranty\") AND (\"PS4 Pro\" OR \"PlayStation 4 Pro\")",
+        "target": "B079FPFV3X"
+    },
+    "29": {
+        "generated_text": "(organization AND headphones AND cables AND (desk OR bookcase) AND (slip-on OR easy-to-install))",
+        "target": "B0BLTV2BKZ"
+    },
+    "30": {
+        "generated_text": "(\"multi-platform\" OR \"multi-platform compatible\" OR \"compatible with PC\" OR \"compatible with Switch\" OR \"compatible with phone\") AND (\"cost-effective\" OR \"budget-friendly\" OR \"affordable\") AND (\"compatible with multiple devices\") AND (\"highly recommended\" OR \"highly rated\")",
+        "target": "B0B97J6RP5"
+    },
+    "31": {
+        "generated_text": "(\"cool\" OR \"exciting\") AND (\"for children\" OR \"for kids\") AND (\"easy to assemble\" OR \"easy to build\") AND (\"interactive\" OR \"gameplay\") AND (\"cardboard\") AND (\"kit\" OR \"set\")",
+        "target": "B07GZPHMB1"
+    },
+    "32": {
+        "generated_text": "(Grip AND Case AND Lock) AND (Interchangeable AND Grip) AND (Comfort AND Secure) AND (Not fitting the charger)",
+        "target": "B09QY1GQV9"
+    },
+    "33": {
+        "generated_text": "(\"small\" AND \"lightweight\" AND \"powerful\") AND (\"travel\" AND \"noiseless\") AND (\"sleek\" AND \"design\") AND (\"multimedia\" AND \"center\")",
+        "target": "B0BCXJ8BF4"
+    },
+    "34": {
+        "generated_text": "(sturdy OR durable OR rigid) AND (travel OR travelling) AND (game case OR game storage OR game holder) AND (aesthetically pleasing OR stylish OR cosmetic)",
+        "target": "B0C5D13QFC"
+    },
+    "35": {
+        "generated_text": "(stars AND (different sizes) AND (\"new type of adhesive\" OR \"non-damaging adhesive\") AND (\"small box\" OR \"perfect size for gift\"))",
+        "target": "B0B9V7QGH7"
+    },
+    "36": {
+        "generated_text": "(compact OR miniature) AND (gaming AND office) AND \"speed silver keys\" AND (affordable OR budget-friendly)",
+        "target": "B0BBWK1XWT"
+    },
+    "37": {
+        "generated_text": "(high-quality OR premium OR durable OR excellent) AND (affordable OR budget-friendly OR cost-effective) AND (quiet OR low-noise OR not loud) AND (\"highly recommended\" OR \"strongly recommended\")",
+        "target": "B09TWBP3SD"
+    },
+    "38": {
+        "generated_text": "(\"game\" AND (\"enjoyable\" OR \"short\" OR \"easy\"))",
+        "target": "B09BC13G2X"
+    },
+    "39": {
+        "generated_text": "(small AND decent AND (\"game pockets\" OR pocket))",
+        "target": "B081243BT6"
+    },
+    "40": {
+        "generated_text": "(\"good sound quality\" OR \"high-quality audio\") AND (\"comfortable headphones\" OR \"headband adjustability\") AND (\"detachable microphone\" OR \"dynamic chat volume\") AND (\"two audio output devices\" OR \"pan between devices\") AND (\"noise blocking\" OR \"external sound isolation\") AND (\"no heat\" OR \"temperature control\")",
+        "target": "B086M4DQ7R"
+    },
+    "41": {
+        "generated_text": "(\"travel\" OR \"home\" OR \"multi-use\") AND (\"Nintendo Switch\" OR \"other gaming systems\") AND (\"long battery life\" OR \"battery endurance\") AND (\"Type-C\" OR \"USB-C\") AND (\"nice feel\" OR \"tactile\" OR \"comfortable\")",
+        "target": "B0B6CP19DF"
+    },
+    "42": {
+        "generated_text": "(affordable OR budget-friendly) AND (compatible OR multi-surface) AND (adjustable OR customizable) AND wireless AND (lighting OR colorful)",
+        "target": "B0C4L46QKC"
+    },
+    "43": {
+        "generated_text": "(\"SoTN\" AND (\"fun game\" OR \"side scroller\") AND (\"old school graphics\" OR \"great graphics\"))",
+        "target": "B07895ZWWT"
+    },
+    "44": {
+        "generated_text": "(PS5 AND (\"easy install\" OR \"easy installation\") AND (hide OR conceal) AND (\"highly recommended\" OR \"highly recommend\"))",
+        "target": "B08VVZYRV6"
+    },
+    "45": {
+        "generated_text": "(adorable AND fits perfectly) AND (\"little black grips\") AND (\"extremely happy\")",
+        "target": "B09DG9J3FP"
+    },
+    "46": {
+        "generated_text": "(\"video game\" AND \"Metal Gear Solid (MGS)\" AND \"VR Missions\" AND \"brand new\" AND \"redemption\" AND \"as of July 25, 2022\")",
+        "target": "B00KTZELMY"
+    },
+    "47": {
+        "generated_text": "(\"great value\" OR \"high-quality\" OR \"affordable\" OR \"budget-friendly\") AND (\"controller-compatible\" OR \"controller-fit\") AND (\"surprise gift\" OR \"unexpected present\") AND (\"colorful\" OR \"vibrant\" OR \"eye-catching\") AND (\"children's\" OR \"youth\" OR \"kids-friendly\")",
+        "target": "B08V527G5J"
+    },
+    "48": {
+        "generated_text": "(HORI AND \"Switch Lite\" AND protector) AND (\"top-notch\" OR \"highly recommended\")",
+        "target": "B08S5YCZ6Q"
+    },
+    "49": {
+        "generated_text": "(headset AND sound quality AND no additional apps AND easy to plug AND metal headband AND cup support AND no microphone issues AND affordable AND around $45)",
+        "target": "B0BYVN9ZK2"
+    },
+    "50": {
+        "generated_text": "(\"highly effective\" OR \"high performance\") AND (\"highly comfortable\" OR \"comfortable\") AND \"battery pack\" AND (\"high quality\" OR \"premium\") AND (\"fast shipping\" OR \"quick delivery\")",
+        "target": "B0BZNL6P27"
+    },
+    "51": {
+        "generated_text": "(controller OR gamepad OR joystick OR game controller) AND (clutter OR mess OR disorder OR confusion) AND (\"stick on the wall\" OR \"wall-mounted\" OR \"wall-mounted device\" OR \"adhesive wall mount\") AND (blend in OR discreet OR unobtrusive OR camouflage)",
+        "target": "B09GPF775B"
+    },
+    "52": {
+        "generated_text": "(mouse) AND (quick connect OR fast connect) AND laptop AND (high sensitivity OR fast response) AND (works well OR effective OR efficient) AND (fast delivery OR quick shipping)",
+        "target": "B0BZJ1N98L"
+    },
+    "53": {
+        "generated_text": "(\"easy connect\" OR \"quick connect\" OR \"wireless connect\") AND (\"comfortable handle\" OR \"grip\" OR \"anti-slip\") AND (\"anti-sweat\" OR \"anti-slip\" OR \"durable\") AND (\"user-friendly\" OR \"intuitive\" OR \"simple\")",
+        "target": "B0C85RYTB3"
+    },
+    "54": {
+        "generated_text": "(sturdy OR durable) AND (easy to assemble OR easy assembly) AND (holds both controllers and spare headsets) AND (cable organizers) AND (affordable)",
+        "target": "B0BML7CYJY"
+    },
+    "55": {
+        "generated_text": "(\"fast shipping\" OR \"quick shipping\" OR \"fast delivery\") AND (\"user-friendly\" OR \"intuitive\" OR \"easy to operate\") AND (\"colorful\" AND \"backlighting\" OR \"colorful LED\") AND (\"customer support\" OR \"customer service\")",
+        "target": "B0B7B7WQY7"
+    },
+    "56": {
+        "generated_text": "(\"drifting\" AND \"controller\" AND \"PS5\" AND \"stick\" AND \"right\" AND \"fix\" AND \"solder\" AND \"easy\" AND \"calibration\" AND \"no\" AND \"smooth\" AND \"sensitivity\" AND \"new\")",
+        "target": "B09YQ22XDX"
+    },
+    "57": {
+        "generated_text": "(cute OR stylish OR appealing OR cosmetic OR design) AND (functional OR practical OR useful OR utility OR design) AND (PS4 OR PlayStation 4 OR PS4 compatible OR foldable OR compact OR foldable design OR compact design) AND (detachable OR microphone OR detachable microphone OR microphone attachment) AND (high-quality OR audio OR sound OR sound quality) AND (comfortable OR wearable OR wear OR comfort)",
+        "target": "B0BL7XB1KG"
+    },
+    "58": {
+        "generated_text": "(\"replacement remote\" AND Xbox) AND (streaming OR TV OR movies) AND (\"drop protection\" OR anti-drop OR shockproof)",
+        "target": "B097CZC291"
+    },
+    "59": {
+        "generated_text": "(audio AND microphone) AND Bluetooth AND (range OR \"Bluetooth range\") AND Discord AND (price OR sale)",
+        "target": "B09NF81J5G"
+    },
+    "60": {
+        "generated_text": "(works great) AND (my son will love) AND (daily) AND (playing games) AND (during road trips)",
+        "target": "B09B5CTHTC"
+    },
+    "61": {
+        "generated_text": "(\"Dark Souls\" OR \"Dark Souls\" OR \"Dark Souls\" OR \"Dark Souls\") AND (\"Open-world\" AND \"Action RPG\") AND (\"Challenging but forgiving\" AND \"Can be played for weeks\")",
+        "target": "B09N77RFYL"
+    },
+    "62": {
+        "generated_text": "(convenient OR user-friendly OR easy access OR simple) AND (easy to put together OR assembly OR kit OR easy build) AND (plenty of space to charge OR charging OR power OR battery OR port) AND (cool look OR design OR stylish OR attractive OR cool)",
+        "target": "B0BRZX8VDW"
+    },
+    "63": {
+        "generated_text": "(\"villagers\" AND (\"Sanrio\" OR \"Animal Crossing\"))",
+        "target": "B08VJQBSY3"
+    },
+    "64": {
+        "generated_text": "(Amazon OR 'Amazon Prime' OR 'Amazon.com') AND (invitation OR gift OR present) AND (grandson OR child OR family) AND (happiness OR joy OR delight) AND (appreciation OR valued OR grateful)",
+        "target": "B0B16656Z2"
+    },
+    "65": {
+        "generated_text": "\"PS4 controllers\" AND (charge OR charging) AND (easy OR simple OR convenient OR user-friendly)",
+        "target": "B07CTHLS2L"
+    },
+    "66": {
+        "generated_text": "(Nintendo AND consoles AND cartridges) AND (screw AND GameCube) AND magnetic",
+        "target": "B01N3UO3V7"
+    },
+    "67": {
+        "generated_text": "(\"budget-friendly\" OR \"affordable\" OR \"cost-effective\") AND (\"touch to mute\" OR \"touch-to-mute\" OR \"mute-on-touch\") AND (compact OR portable OR mini) AND (\"all-black\" OR black) AND (\"red light\" OR \"LED light\") AND (\"great sound quality\" OR \"clear sound\" OR \"crisp sound\") AND (\"streaming compatible\" OR \"compatible with streaming software\")",
+        "target": "B0C3QHBQS2"
+    },
+    "68": {
+        "generated_text": "(\"arcade game\" OR \"video game\" OR \"electronic game\" OR \"video arcade\" OR \"game machine\") AND (\"childhood memories\" OR \"youth\" OR \"teenage\" OR \"retro\" OR \"vintage\") AND (\"game room\" OR \"video game room\" OR \"arcade room\")",
+        "target": "B09TQ6ZKYS"
+    },
+    "69": {
+        "generated_text": "(\"Nintendo Switch controller\" AND (\"quick pairing\" OR \"fast pairing\") AND (\"wake from sleep\" OR \"sleep wake\") AND (\"cheaper than OEM Pro\" OR \"affordable\") AND (\"similar to OEM Pro\" OR \"slightly lighter\") AND durable AND \"good battery life\" AND (\"good D-pad\" OR \"Tetris compatible\") AND (\"adjustable vibration\" OR \"vibration similar to OEM\") AND \"high quality\" AND \"reasonable price\")",
+        "target": "B0BXJTMKNM"
+    },
+    "70": {
+        "generated_text": "(\"easy install\" OR \"simple installation\") AND (\"well packaged\" OR \"well-packaged\") AND (\"perfect upon arrival\" OR \"in perfect condition\") AND (\"delivered to wrong address\" OR \"safe delivery\")",
+        "target": "B0BYD6XSCS"
+    },
+    "71": {
+        "generated_text": "\"best game ever\" AND \"everyone should try\" AND \"awesome\" AND \"worth my time\"",
+        "target": "B073KR8N21"
+    },
+    "72": {
+        "generated_text": "(\"controller\" OR \"gamepad\" OR \"joystick\" OR \"game controller\") AND (\"for my son\" OR \"for children\" OR \"kids\" OR \"child\") AND (\"doesn't require batteries\" OR \"battery-free\" OR \"no battery\" OR \"rechargeable\") AND (\"serves its purpose well\" OR \"works well\" OR \"functional\" OR \"effective\")",
+        "target": "B07DPNYGST"
+    },
+    "73": {
+        "generated_text": "(durable OR high-quality OR solid OR rigid) AND (aesthetic OR well-designed OR stylish) AND (sturdy OR durable OR robust) AND (no cheap decals OR no tacky designs OR no low-quality decals)",
+        "target": "B09XMKF245"
+    },
+    "74": {
+        "generated_text": "(\"dust shield\" OR \"dust shields\") AND (bulk OR \"large quantity\" OR \"long-term\" OR \"recurring\") AND (affordable OR cost-effective) AND (fast OR immediate OR \"Speedy shipping\")",
+        "target": "B08Z766ZMZ"
+    },
+    "75": {
+        "generated_text": "(\"great deal\" OR \"good value\") AND (controller AND turbo AND \"rapid fire\") AND \"high quality\" AND \"rapid fire\"",
+        "target": "B09WTGRKB9"
+    },
+    "76": {
+        "generated_text": "(small OR compact) AND (packed with features OR comprehensive OR full-featured) AND (Gateron Pro Yellow OR \"Gateron Pro Yellow switches\") AND (quiet AND solid AND responsive) AND (sturdy OR heavy OR solid OR robust) AND (bright AND customizable) AND (arrow keys OR \"Quick Tap\") AND (Mac OS compatible OR compatible with Mac) AND (good customer support OR warranty) AND (programming software for Windows OR programming support)",
+        "target": "B09Y4JBVH7"
+    },
+    "77": {
+        "generated_text": "(sturdy AND (case OR game case OR storage case) AND (physical games OR similar-sized items))",
+        "target": "B07JHM3MT8"
+    },
+    "78": {
+        "generated_text": "(\"cute\" OR \"adorable\" OR \"charming\" OR \"feminine\" OR \"stylish\") AND (\"perfectly my style\" OR \"fits my taste\" OR \"matches my style\" OR \"stylistically appropriate\") AND (\"work great\" OR \"high-quality\" OR \"effective\" OR \"efficient\" OR \"high-performance\") AND (\"comfortable to wear\" OR \"comfortable\" OR \"comfy\" OR \"uncomfortable\" OR \"fit well\")",
+        "target": "B0BTFX4STP"
+    },
+    "79": {
+        "generated_text": "(\"keyboard\" AND (\"RGB lighting\" AND \"mechanical sound\") AND \"keys feel great\") AND (\"price\" OR \"affordable\")",
+        "target": "B0BRKPXQN2"
+    },
+    "80": {
+        "generated_text": "(\"easy to use\" OR \"user-friendly\" OR \"intuitive\" OR \"simple\" OR \"easy\") AND (\"comfortable\" OR \"sleeve\" OR \"headband\" OR \"fit\") AND (\"more comfortable\" OR \"superior comfort\" OR \"enhanced comfort\") AND (\"adjustable\" OR \"quick adjust\" OR \"easy adjust\") AND (\"group use\" OR \"multi-user\" OR \"shareable\")",
+        "target": "B0B7RKCWYP"
+    },
+    "81": {
+        "generated_text": "(size: (\"bigger than expected\" OR \"large\") AND cuteness: (\"super cute\" OR \"cute\") AND fit: (\"perfect fit\" OR \"for a 7-year-old\") AND noise cancellation: (\"effective\" OR \"noise canceling\") AND compatibility: (\"Amazon Fire tablet\" OR \"phone\" OR \"laptop\") AND sound quality: (\"excellent\" OR \"clear audio\") AND microphone: \"microphone\" AND worth the investment: \"worth every penny\")",
+        "target": "B0BMLVYQZD"
+    },
+    "82": {
+        "generated_text": "(wireless AND (headset OR headphones) AND (Bluetooth OR \"2.4GHz\") AND surround AND sound AND (USB OR \"USB dongle\") AND (gaming OR \"gaming headphones\") AND (\"$30-$90\" OR \"30-90\") AND (\"OCG Gaming Headsets\" OR \"2.4GHz Bluetooth Wireless Gaming Headphones\"))",
+        "target": "B0BXR7J5JV"
+    },
+    "83": {
+        "generated_text": "(bug-free OR no glitches OR high-quality) AND (highly rated OR positive reviews OR excellent) AND (no lag OR fast performance OR smooth gameplay) AND (low price OR budget-friendly OR affordable) AND (fast shipping OR quick delivery OR fastest shipping)",
+        "target": "B0C46LPLWP"
+    },
+    "84": {
+        "generated_text": "(\"cool\" OR \"stylish\" OR \"adorable\" OR \"feminine\" OR \"graphic\" OR \"patterned\") AND (\"cute\" OR \"compact\" OR \"small\" OR \"mini\" OR \"lightweight\" OR \"portable\") AND (\"Nintendo Switch\" AND \"charger\")",
+        "target": "B0B5M8KL5S"
+    },
+    "85": {
+        "generated_text": "(lightweight AND case AND (\"easily snaps onto\" OR \"easy to attach\" OR \"clip-on\" OR \"magnetic\") AND \"switch oled\" AND (\"no scratch\" OR \"non-scratch\" OR \"anti-scratch\") AND (\"nice feel\" OR \"comfortable\" OR \"grippy\") AND (\"free screen protector\" OR \"screen protector included\"))",
+        "target": "B0B14C87PK"
+    },
+    "86": {
+        "generated_text": "(\"Nintendo Switch Lite\" AND (\"case\" AND \"screen protector\" AND \"thumb grips\") AND (\"bundle\" OR \"package\"))",
+        "target": "B09Z6WP1PG"
+    },
+    "87": {
+        "generated_text": "(\"board game\" AND \"multiplayer\" AND \"quick and easy\" AND \"multiple variations\" AND \"no instructions\" AND \"visually appealing\" AND \"competitive or cooperative\" AND \"challenging\" AND \"family-friendly\" AND \"flowers and gardens\")",
+        "target": "B08G8WCQG3"
+    },
+    "88": {
+        "generated_text": "(controller AND (son OR gift) AND (\"works great\" OR \"super quick\"))",
+        "target": "B076CRSSZV"
+    },
+    "89": {
+        "generated_text": "(\"storage solution\" OR \"desk storage\" OR \"vertical storage\") AND (\"Nintendo Switch\" OR \"switch dock\" OR \"switch docking station\") AND (\"multiple controllers\" OR \"controller holder\" OR \"controller storage\") AND (\"sturdy\" OR \"durable\" OR \"heavy-duty\") AND (\"enough space\" OR \"fits all\" OR \"compact\") AND (\"desk stand\" OR \"compatible with stand\")",
+        "target": "B094Q1Q3WJ"
+    },
+    "90": {
+        "generated_text": "(\"lens protector\" OR \"phone protector\") AND (\"polycarbonate\" OR \"glass\") AND (\"drop protection\" OR \"anti-crack\")",
+        "target": "B0BRF6PX4Z"
+    },
+    "91": {
+        "generated_text": "(\"game\" AND (\"story\" OR \"characters\" OR \"narrative\")) AND (\"graphics\" AND (\"impressive\" OR \"high-quality\")) AND (\"water\" AND \"graphics\") AND (\"sale\" OR \"discount\") AND (\"voice acting\" AND \"amazing\")",
+        "target": "B09XJ6X8GX"
+    },
+    "92": {
+        "generated_text": "(\"product replacement\" AND \"charging issue\" AND \"contact the company\")",
+        "target": "B09JG25LKR"
+    },
+    "93": {
+        "generated_text": "(\"Nintendo Switch\" AND case AND (\"drop-resistant\" OR protective) AND \"highly rated\" AND \"must-buy\")",
+        "target": "B08N5M7H4X"
+    },
+    "94": {
+        "generated_text": "(case AND (\"Nintendo Switch\" AND (\"sturdy and firm-shelled\" OR \"molded spots\" OR \"prevent from getting damaged\"))",
+        "target": "B0BZDCSZ5R"
+    },
+    "95": {
+        "generated_text": "(\"specifically asked for\" AND \"high quality\" AND \"happy\" AND \"reliable\" AND \"excellent purchase\")",
+        "target": "B08KB5FBH8"
+    },
+    "96": {
+        "generated_text": "(\"stand\" AND \"xbox one s\") AND (\"cheaper\" AND \"high quality\")",
+        "target": "B08CJK7KMP"
+    },
+    "97": {
+        "generated_text": "(\"Nintendo Switch\" AND (charger OR \"power adapter\") AND dock AND (affordable OR \"cheaper than most\" OR \"highly recommended\"))",
+        "target": "B0C497PLXP"
+    },
+    "98": {
+        "generated_text": "(replacement AND head AND strap AND Oculus Quest 2) AND (comfort AND padding AND battery) AND (easy AND installation) AND (hard AND flexible AND plastic AND back AND head AND area) AND (counterbalance) AND (adjustment AND knob) AND (cable AND hidden AND USB-C) AND (Kiwi Design)",
+        "target": "B0B9H7FQXL"
+    },
+    "99": {
+        "generated_text": "(\"plug-and-play\" OR \"easy setup\" OR \"plug and play\") AND (\"gaming device\" OR \"video game console\" OR \"gaming controller\") AND (\"compatible with a wide range of games\" OR \"games compatible\" OR \"multi-game support\") AND (\"Trustmaster\" OR \"Trustmaster brand\") AND (\"good support documentation\" OR \"good support materials\" OR \"documentation\") AND (\"high build quality\" OR \"high-quality build\" OR \"build quality\") AND (\"decent ergonomics\" OR \"ergonomic design\" OR \"comfortable\") AND (\"affordable\" OR \"cost-effective\" OR \"budget-friendly\") AND (\"good compatibility and quality\" OR \"compatibility\" OR \"quality\")",
+        "target": "B08N6NCR3Q"
+    },
+    "100": {
+        "generated_text": "(\"steelbook\" OR \"clear cover\" OR \"slip cover\") AND (\"looks nice\" OR \"paper cover\")",
+        "target": "B0BFHY5FCP"
+    },
+    "101": {
+        "generated_text": "(\"high quality\" OR \"premium\" OR \"excellent\") AND (\"affordable\" OR \"budget-friendly\" OR \"cost-effective\") AND (\"well-packaged\" OR \"secure packaging\" OR \"protective packaging\") AND (\"fast shipping\" OR \"express delivery\" OR \"timely delivery\") AND (\"5-star seller\" OR \"highly rated\" OR \"trusted seller\")",
+        "target": "B08MBG5254"
+    },
+    "102": {
+        "generated_text": "(\"headgear storage\" OR \"headgear organizer\") AND (sturdy AND well-constructed) AND (\"weighted base\" AND \"grippy bottom\") AND (\"multiple light settings\" AND \"rotating feature\") AND (\"USB-A powered\" OR \"USB-A cable\")",
+        "target": "B0C6LZMDTD"
+    },
+    "103": {
+        "generated_text": "(\"carry case\" AND (\"exterior design\" AND (\"silicone lining\" AND \"magnetic closure\" AND \"colorful exterior\") AND (\"improvement\" AND \"reasonable price\"))",
+        "target": "B0BBM17XLZ"
+    },
+    "104": {
+        "generated_text": "(remote AND Xbox AND bedroom AND 'Spectrum TV app' AND standalone AND NOT 'game controller')",
+        "target": "B0C7BN9G35"
+    },
+    "105": {
+        "generated_text": "(rechargeable OR recharge OR battery-free) AND (remote control OR remote) AND (games OR \"video games\" OR \"video game\") AND (summer OR outdoor OR portable)",
+        "target": "B07ZCM2BN4"
+    },
+    "106": {
+        "generated_text": "(\"high-quality\" OR \"very good\") AND (\"easy to install\" OR \"super easy to install\") AND (\"small bubbles\" OR \"minor imperfections\") AND (\"perfect touch screen\" OR \"touch screen\") AND (\"work flawlessly\" OR \"flawless\")",
+        "target": "B0BM9B1XMN"
+    },
+    "107": {
+        "generated_text": "(\"Nintendo Switch\" AND PC) AND (comfort OR weight OR premium) AND NOT \"stick drift\" AND \"hall effect controller\"",
+        "target": "B0B97J6RP5"
+    },
+    "108": {
+        "generated_text": "(\"charging station\" OR \"charging stand\") AND \"illuminated cable\" AND \"rubber feet\" AND \"suction cup\" AND \"TV stand compatible\" AND \"lightweight\"",
+        "target": "B08W22VD8K"
+    },
+    "109": {
+        "generated_text": "(\"lighted keyboard\" OR \"LED keyboard\") AND (\"user-friendly\" OR \"comfortable\") AND (\"girls keyboard\" OR \"colorful keyboard\" OR \"feminine keyboard\") AND (\"music keyboard\" OR \"video keyboard\" OR \"multimedia keyboard\")",
+        "target": "B09KNG2LHC"
+    },
+    "110": {
+        "generated_text": "(headphones AND (gaming OR music OR movies) AND 'high-quality audio')",
+        "target": "B09J25L4XS"
+    },
+    "111": {
+        "generated_text": "(sturdy OR solid OR reliable) AND (connection OR solid OR reliable) AND (output OR quality) AND (compatible OR Occulus OR phone OR tablet OR Xbox) AND (best OR high-quality OR premium)",
+        "target": "B09YTY4ZY4"
+    },
+    "112": {
+        "generated_text": "(\"controller\" AND \"high quality\" AND \"durable\" AND \"map L and R sticks to paddles\" AND NOT \"negative reviews\")",
+        "target": "B08LT6PT1X"
+    },
+    "113": {
+        "generated_text": "(\"new product\" OR \"replacement product\") AND (\"better than old\" OR \"superior to old\") AND (\"faster\" OR \"high-speed\") AND (\"easier to control\" OR \"user-friendly\") AND (\"not wobbly\" OR \"stable\") AND (\"cost around $7.99\" OR \"price: $7.99\")",
+        "target": "B01I14IASK"
+    },
+    "114": {
+        "generated_text": "(case OR \"protective case\") AND (\"good quality\" OR \"high-quality\" OR premium) AND (\"worth the money\" OR \"affordable\" OR value) AND (\"fits perfectly\" OR \"custom fit\" OR \"perfect fit\")",
+        "target": "B0BB6NW6RF"
+    },
+    "115": {
+        "generated_text": "(pink) AND (\"remote control\" OR \"universal remote\") AND (\"compatible with Sims\" OR \"Sims\" OR \"video game\" OR \"simulator\") AND (\"recommendation\")",
+        "target": "B08LT6PT1X"
+    },
+    "116": {
+        "generated_text": "(\"nice sound\" OR \"good sound\" OR sonic) AND (\"rigid build\" OR rigid OR sturdy) AND (\"linear and tactile\" OR linear AND tactile) AND (quiet OR silent) AND (stabilizer OR stabilization) AND (\"side marked keycaps\" OR \"side marked\" AND keycap) AND (\"volume wheel\" OR \"volume control\") AND (\"play pause macros\" OR \"play pause\" AND macros) AND (\"USB passthrough\" OR \"USB pass-through\") AND (custom OR customizable)",
+        "target": "B099B1BSDH"
+    },
+    "117": {
+        "generated_text": "(Oculus AND head strap) AND (\"best available\" OR \"superior comfort\") AND \"compared to other options\"",
+        "target": "B0BPNX3X16"
+    },
+    "118": {
+        "generated_text": "(comfort AND weight AND hand fit AND price AND first mouse)",
+        "target": "B0BWXXWVV6"
+    },
+    "119": {
+        "generated_text": "(\"Xbox controller\" OR \"Xbox gamepad\") AND (sleek OR stylish OR modern) AND (value OR affordable OR \"good value\")",
+        "target": "B094Y1G4F4"
+    },
+    "120": {
+        "generated_text": "Anker AND (\"excellent quality\" OR \"high quality\" OR \"premium\") AND (\"value\" OR \"good value\" OR \"affordable\")",
+        "target": "B07ML5ZBBG"
+    },
+    "121": {
+        "generated_text": "(adapter AND (Nintendo OR \"old game systems\" OR \"newer screens\") AND (connect OR \"TV\") AND (budget-friendly OR simple))",
+        "target": "B0BW8N6X48"
+    },
+    "122": {
+        "generated_text": "(\"Wii U Pro controller\" OR \"Wii U gamepad\" OR \"Wii U game controller\") AND (\"replacement\" OR \"substitute\" OR \"alternative\") AND (\"same functionality\" OR \"compatible\" OR \"works with\") AND (\"cheaper\" OR \"affordable\" OR \"budget-friendly\") AND (\"longer battery life\" OR \"battery endurance\" OR \"powerful battery\")",
+        "target": "B07HMY3FXR"
+    },
+    "123": {
+        "generated_text": "(\"sports equipment\" OR \"sports training\") AND (\"game skills\" OR \"sports training\") AND (\"hit shots\" OR \"missed shots\") AND (\"improve game\" OR \"enhance game\") AND (\"amazing\" OR \"highly effective\" OR \"impressive\")",
+        "target": "B016P09VFS"
+    },
+    "124": {
+        "generated_text": "(\"replacement shoulder buttons\" AND \"3ds\") AND (\"compatible with homebrew\") AND (\"use in smash bros\")",
+        "target": "B06WVMJTBZ"
+    },
+    "125": {
+        "generated_text": "(rechargeable AND batteries) AND (charger) AND (Wii AND controllers) AND (long AND time) AND (function AND advertised)",
+        "target": "B09CDRWBWN"
+    },
+    "126": {
+        "generated_text": "(\"head strap\" AND VR) AND (\"better than\" \"Elite strap by Meta\") AND (\"promising\" AND \"BoboVR strap\") AND (\"good customer support\")",
+        "target": "B09JNR4Y15"
+    },
+    "127": {
+        "generated_text": "(\"cord\" OR \"cable\") AND \"Xbox\" AND (\"quick\" OR \"fast\") AND \"delivery\" AND \"works\" AND \"properly\"",
+        "target": "B07QZ39MWQ"
+    },
+    "128": {
+        "generated_text": "(\"high quality\" OR \"premium\") AND (\"grip included\" OR \"grips included\") AND (\"works flawlessly\" OR \"perfectly functional\") AND (\"good design\" OR \"stylish\") AND (\"highly rated\" OR \"excellent\")",
+        "target": "B09MQK3C75"
+    },
+    "129": {
+        "generated_text": "\"digital professional\" AND \"macro buttons\" AND \"edit videos\" AND \"edit images\" AND \"save 10-20 minutes\"",
+        "target": "B07CRX5X9T"
+    },
+    "130": {
+        "generated_text": "(\"easy to install\" OR \"user-friendly\" OR \"simple\" OR \"straightforward\" OR \"intuitive\") AND (\"doesn't break easily\" OR \"durable\" OR \"robust\" OR \"reliable\" OR \"sturdy\") AND (\"comes in a pack of 3\" OR \"pack\" OR \"kit\" OR \"set\" OR \"bundle\" OR \"quantity\")",
+        "target": "B0BRF6PX4Z"
+    },
+    "131": {
+        "generated_text": "(\"3-year-old\" OR \"3 year old\" OR \"three-year-old\" OR \"three year old\") AND (\"Peppa Pig\" OR \"Peppa\" OR \"Peppa the Pig\" OR \"Peppa Pig\") AND (\"long car rides\" OR \"long car trip\" OR \"long car journey\" OR \"long car time\")",
+        "target": "B095D634SZ"
+    },
+    "132": {
+        "generated_text": "(son OR child OR boy) AND (Christmas OR Xmas OR holiday) AND (thrilling OR exciting OR amusing OR entertaining OR novelty)",
+        "target": "B07NYBD2CZ"
+    },
+    "133": {
+        "generated_text": "(PS4) AND (\"Dual use\" OR Duo OR Shared) AND (\"Worth the purchase\" OR \"Good value\") AND (Happy OR Satisfaction)",
+        "target": "B09MJWB56J"
+    },
+    "134": {
+        "generated_text": "(keycaps AND (new look OR smooth feel) AND (RGB lighting) AND (color combination OR all colors))",
+        "target": "B08LZHPTF5"
+    },
+    "135": {
+        "generated_text": "\"can of evil\" AND (\"decent\" OR \"affordable\" OR \"reasonable\" OR \"budget-friendly\")",
+        "target": "B07NQH43DC"
+    },
+    "136": {
+        "generated_text": "(\"battery life\" OR \"long battery life\" OR \"high battery capacity\") AND (connect OR connectivity OR \"USB-C\" OR \"Lightning\") AND (receiver OR dongle OR adapter)",
+        "target": "B0C6ZZT79Q"
+    },
+    "137": {
+        "generated_text": "(functional OR aesthetic OR stylish OR cool OR design) AND (battery OR power OR long-lasting OR high-capacity) AND (\"highly recommended\" OR \"highly rated\" OR best OR top)",
+        "target": "B0C3CZ87RP"
+    },
+    "138": {
+        "generated_text": "(\"ACNH Switch\" AND (\"white button caps\" AND \"white thumb grips\"))",
+        "target": "B08HQMDH97"
+    },
+    "139": {
+        "generated_text": "(\"desk holder\" OR \"desk stand\" OR \"desk mount\") AND (\"tightly\" OR \"stably\" OR \"without moving\") AND (\"clip\" AND \"headphone cord\") AND (\"wireless\" AND (\"headphones\" OR \"wireless headphones\")) AND (\"rotation\" OR \"rotatable\")",
+        "target": "B0BLTV2BKZ"
+    },
+    "140": {
+        "generated_text": "(\"wireless mouse\" AND (ergonomic OR comfortable) AND (\"long battery life\" OR \"battery endurance\") AND lightweight)",
+        "target": "B0C89J78ZW"
+    },
+    "141": {
+        "generated_text": "(\"Castlevania\" AND \"Lords of Shadows\") AND (\"Dracula\" OR \"Gabriel\") AND (\"Future\" OR \"Satan's children\") AND (\"Victor\" OR \"Nergal\") AND (\"Stealth\" OR \"mission\") AND (\"DLC\" OR \"ending\")",
+        "target": "B008B2ZKK4"
+    },
+    "142": {
+        "generated_text": "(customizable OR custom) AND (\"long battery life\" OR \"high battery life\") AND (\"no RGB\" OR \"turn off RGB\") AND (\"wireless charging\" OR \"wireless pad\") AND (durable OR rigid) AND (work AND gaming)",
+        "target": "B0BNNPD4BH"
+    },
+    "143": {
+        "generated_text": "(\"power supply\" AND \"Xbox\" AND \"replace\" AND \"affordable\")",
+        "target": "B07GD8TN2M"
+    },
+    "144": {
+        "generated_text": "(\"Xbox 360\" AND \"hard drive\" AND \"excellent\" AND \"10/10\")",
+        "target": "B014SIVGAW"
+    },
+    "145": {
+        "generated_text": "(\"high-quality\" OR \"premium\" OR \"affordable\" OR \"budget-friendly\") AND (\"reliable\" OR \"sturdy\" OR \"dependable\" OR \"firm\") AND (\"battery life\" OR \"power\" OR \"energy\" OR \"long-lasting\") AND (\"soft\" OR \"gentle\" OR \"comfortable\" OR \"non-pressable\")",
+        "target": "B08R5SH1T6"
+    },
+    "146": {
+        "generated_text": "(\"desk\" OR \"table\" OR \"workstation\") AND (\"medium\" OR \"mid-size\" OR \"moderate\") AND NOT \"big\"",
+        "target": "B09S95BGBV"
+    },
+    "147": {
+        "generated_text": "(\"LED-free\" OR \"no LED\") AND (\"high precision\" OR \"high-resolution\") AND \"scientific imaging\" AND (\"pixel perfect\" OR \"every pixel matters\")",
+        "target": "B084RHZTYW"
+    },
+    "148": {
+        "generated_text": "(control OR \"control system\" OR \"control device\" OR \"control mechanism\") AND (\"battery life\" OR \"battery duration\" OR \"battery endurance\" OR \"battery capacity\") AND (\"reasonable price\" OR affordable OR \"budget-friendly\" OR \"cost-effective\")",
+        "target": "B09FQ5HM4Y"
+    },
+    "149": {
+        "generated_text": "headphones AND quality AND worth the price AND wired AND highly reviewed AND gaming",
+        "target": "B0C5K4M7WJ"
+    }
+}

@@ -1,0 +1,990 @@
+{
+    "150": {
+        "generated_text": "(cup OR cups) AND (cap OR lid) AND straw AND (child OR children) AND (\"easy to clean\" OR \"easy clean\") AND (suction OR \"suction cup\")",
+        "target": "B09ZZZKT32"
+    },
+    "151": {
+        "generated_text": "(\"portable\" OR \"travel\" OR \"go\" OR \"portable\") AND (\"breast pump\" OR \"breastfeeding pump\" OR \"milk pump\") AND (\"beautiful\" OR \"stylish\" OR \"attractive\" OR \"pretty\") AND (\"cordless\" OR \"wireless\") AND (\"not big and bulky\" OR \"compact\" OR \"lightweight\") AND (\"nice color\" OR \"colorful\" OR \"various colors\") AND (\"well-packaged\" OR \"well-packed\") AND (\"fast delivery\" OR \"quick delivery\" OR \"fastest shipping\") AND (\"definitely recommend\" OR \"highly recommended\" OR \"highly recommend\")",
+        "target": "B0C4HKBBFF"
+    },
+    "152": {
+        "generated_text": "(helmet AND nephew) AND (\"learning to walk\" OR walk OR toddler) AND (protect AND injury) AND (\"worth the investment\" OR \"high-quality\" OR premium)",
+        "target": "B00KKCLHS2"
+    },
+    "153": {
+        "generated_text": "(\"inflatable tub\" AND \"easy to inflate\" AND \"compact\" AND \"portable\" AND \"safe for baby\" AND \"suitable for car trips\") AND NOT \"Fischer price\"",
+        "target": "B0C41H8L7P"
+    },
+    "154": {
+        "generated_text": "(backpack AND (multiple kids OR multi-kids) AND (organizing pockets OR pockets OR compartmentalized) AND (drink holders OR hydration systems) AND (larger water bottle holder OR water bottle holder) AND (straps OR shoulder straps) AND (rub off OR slightly rub off OR minor wear) AND (not affect functionality OR not affect bag)",
+        "target": "B07FD63TG1"
+    },
+    "155": {
+        "generated_text": "(\"baby swaddle\" OR \"swaddle for baby\") AND (\"worked for my baby\" OR \"effective for baby\") AND \"suitable for rolling around\" AND (\"fabric doesn't pill easily\" OR \"fabric doesn't fray\") AND (\"zipper doesn't bunch up\") AND (\"thin enough for proper breathing\") AND (\"doesn't cause anxiety\")",
+        "target": "B08NC11QND"
+    },
+    "156": {
+        "generated_text": "(young child OR toddler OR baby OR infant) AND (oral fixation OR sucking OR chewing) AND (difficulty holding OR weak grip) AND (chew toy OR toy for chewing OR oral toy)",
+        "target": "B09V74CVJD"
+    },
+    "157": {
+        "generated_text": "\"cat decals\" AND \"project\" AND \"granddaughter\" AND \"perfect\"",
+        "target": "B07NSWV1M8"
+    },
+    "158": {
+        "generated_text": "(sleep sack) AND (help sleep longer) AND (double zippers) AND (highly satisfactory)",
+        "target": "B09WB822FD"
+    },
+    "159": {
+        "generated_text": "(\"sound machine\" OR \"noise machine\" OR \"sleep machine\") AND (\"sleep aid\" OR \"noise reduction\") AND (\"office\" AND \"bedroom\") AND (\"basic sounds\" OR \"additional sounds\") AND \"child\"",
+        "target": "B08R14KXQY"
+    },
+    "160": {
+        "generated_text": "(\"absorbent pad\" OR \"potty training pad\") AND (\"liquid to gel\" OR \"expanding gel\") AND (\"portable potty\" OR \"children's potty\") AND (\"camping\" OR \"road trip\") AND (\"emergency use\")",
+        "target": "B0B73MKJDC"
+    },
+    "161": {
+        "generated_text": "(\"best\" AND \"invention\" AND \"new babies\") AND (\"easy\" AND \"use\") AND (\"easy\" AND \"clean\") AND (\"small\" AND \"attachments\") AND (\"not\" AND \"strain\" AND \"baby's\" AND \"nostrils\")",
+        "target": "B0C49KKBRW"
+    },
+    "162": {
+        "generated_text": "(bath OR bathtub OR basin OR tub) AND (newborn OR baby OR infant) AND (splashing OR playing OR frolicking) AND (seated OR sitting OR reclined) AND (safe OR secure OR protected)",
+        "target": "B0B33FVG7N"
+    },
+    "163": {
+        "generated_text": "(\"easy to open\" OR \"user-friendly\" OR \"simple\" OR \"intuitive\" OR \"easy-to-use\") AND (\"proper placement\" OR \"structured\" OR \"organized\" OR \"well-arranged\") AND (\"without any difficulty\" OR \"no hassle\" OR \"no complications\" OR \"simple to use\")",
+        "target": "B07KY465G2"
+    },
+    "164": {
+        "generated_text": "(\"comforter\" OR \"bedspread\" OR \"bedding\") AND (\"son\" OR \"youth\" OR \"child\") AND (\"love\" OR \"enjoy\") AND \"comfortable\" AND (\"portable\" OR \"easy to move\") AND \"bed\" AND \"Snoopy\"",
+        "target": "B08QVBRGV1"
+    },
+    "165": {
+        "generated_text": "(\"first-time mom\" OR \"new mom\" OR \"new mother\") AND (\"easy to use\" OR \"user-friendly\" OR \"simple\") AND (\"clear directions\" OR \"easy instructions\" OR \"clearly explained\") AND (\"good customer service\" OR \"customer support\" OR \"helpful\")",
+        "target": "B09RQY1TVK"
+    },
+    "166": {
+        "generated_text": "\"hair ties\" AND \"girls\" AND (\"soft\" OR \"stretchy\") AND (\"multiple colors\" OR \"various colors\") AND (\"excellent\" OR \"high-quality\") AND (\"great value\")",
+        "target": "B0BXSPNQ9Y"
+    },
+    "167": {
+        "generated_text": "(\"extreme cold\" OR \"deep freeze\" OR \"super chill\" OR \"extreme temperature\") AND (\"stroller handlebars\" OR \"stroller handle\") AND (\"compatible with phone charger\" OR \"charger compatibility\")",
+        "target": "B09XHFD7QN"
+    },
+    "168": {
+        "generated_text": "(pacifier AND \"glow in the dark\" AND in stock AND (\"18-24 month\" OR \"18-24 months\") AND daughter)",
+        "target": "B07RBLNWZG"
+    },
+    "169": {
+        "generated_text": "(\"hand balm\" OR \"knee balm\") AND (\"dry skin\" AND \"irritated skin\") AND (\"light scent\" OR \"non-overwhelming scent\") AND \"skin hydration\"",
+        "target": "B0BQWY3C3M"
+    },
+    "170": {
+        "generated_text": "(\"easy to digest\" OR \"digestible\") AND (\"nutritious\" OR \"balanced\") AND (\"cow's milk sensitivity\" OR \"lactose intolerance\") AND (\"gentle on stomach\" OR \"digestive\") AND (\"high sugar\" OR \"sugary\") AND (\"proteins\" AND \"vitamins\" AND \"fats\") AND (\"clear instructions\" OR \"warnings\") AND (\"smooth mix\" OR \"no grainy texture\")",
+        "target": "B0BKLGFTCB"
+    },
+    "171": {
+        "generated_text": "(leather seats AND (booster seats OR bucket seats) AND (protective cover OR protector)) AND (bucket seats)",
+        "target": "B0897YND6W"
+    },
+    "172": {
+        "generated_text": "(\"leak-proof\" OR \"leak-resistant\") AND (\"easy clean\" OR \"easy cleanable\") AND (\"detachable straw\" OR \"straw detacher\") AND (\"child-friendly\" OR \"entertainment cup\") AND (\"water cup\" OR \"drinking cup\")",
+        "target": "B0C6RJCK7W"
+    },
+    "173": {
+        "generated_text": "(large OR baby OR diaper) AND (pins OR safety) AND (well-made OR strong OR durable OR rustproof) AND (versatile OR multi-purpose OR not just for diapers)",
+        "target": "B00RV6J9PS"
+    },
+    "174": {
+        "generated_text": "(\"Church nursery\" AND (\"Incredible\" OR \"user-friendly\" OR \"perfect\" OR \"adorable\") AND \"Return\")",
+        "target": "B07JW76RMH"
+    },
+    "175": {
+        "generated_text": "(seat OR \"vehicle seat\" OR \"car seat\" OR \"baby seat\" OR \"child seat\") AND (\"easy on back\" OR comfortable OR \"back support\") AND (\"effortless to get in\" OR convenient OR \"easy to use\") AND (\"convenient features\" OR \"safety features\") AND (satisfied OR glad)",
+        "target": "B0BZ1954P4"
+    },
+    "176": {
+        "generated_text": "(\"travel chair\" OR \"portable chair\" OR \"foldable chair\" OR \"traveling chair\") AND (\"high chair\" OR \"infant chair\" OR \"baby chair\" OR \"high chair\") AND (\"fit on any chair\" OR \"adjustable\" OR \"universal\" OR \"fits any chair\") AND (\"versatile\" OR \"multi-functional\" OR \"durable\" OR \"reusable\")",
+        "target": "B0BSSVWTLV"
+    },
+    "177": {
+        "generated_text": "(mesh AND 'cotton candy pink') AND 'silky soft' AND 'stretch bottom' AND 'fits any carrier'",
+        "target": "B0BKZBDTFR"
+    },
+    "178": {
+        "generated_text": "(cute AND bandana) AND (various colors) AND (well made AND snaps) AND (soft material)",
+        "target": "B0B7BMBVTQ"
+    },
+    "179": {
+        "generated_text": "(canopy cover) AND (bug-free OR without bugs) AND (mesh zip window) AND (son OR children)",
+        "target": "B0B4NY3XQW"
+    },
+    "180": {
+        "generated_text": "(Nuna AND tray) AND (snack OR sippy) AND (holder OR cup) AND (durable AND plastic) AND (easy AND clean) AND (sliding OR removable)",
+        "target": "B0B6ZT7SGC"
+    },
+    "181": {
+        "generated_text": "(beautiful AND diaper bag) AND (\"hold all the essentials\" AND \"13-month-old baby\") AND \"must-have\"",
+        "target": "B09T6WDGS9"
+    },
+    "182": {
+        "generated_text": "(affordable AND versatile AND effective AND highly recommended)",
+        "target": "B07T65CDHB"
+    },
+    "183": {
+        "generated_text": "(\"autumn\" OR \"winter\") AND (\"warm\" OR \"insulated\") AND \"Massachusetts\" AND \"bunny ears\"",
+        "target": "B0BBT547RS"
+    },
+    "184": {
+        "generated_text": "(\"toddler-sized\" AND (\"soft\" AND \"comfortable\") AND \"pack of two\" AND (\"head support\" AND \"snuggle\") AND (\"home\" AND \"daycare\"))",
+        "target": "B0B4P4F5S5"
+    },
+    "185": {
+        "generated_text": "(\"great\" OR \"excellent\" OR \"high-quality\" OR \"premium\" OR \"highly recommended\") AND (\"for a few months\" OR \"temporary\" OR \"short-term\" OR \"for a period of time\") AND (\"environmentally friendly\" OR \"eco-friendly\" OR \"green\" OR \"sustainable\" OR \"reusable\")",
+        "target": "B08FQYJFDH"
+    },
+    "186": {
+        "generated_text": "(\"Trip Trap\" AND \"Stokke high chair\" AND \"smooth texture\")",
+        "target": "B0C3LGJPWD"
+    },
+    "187": {
+        "generated_text": "(premium OR durable OR high-end) AND (stain-resistant OR wipeable OR durable) AND (tray AND hooks AND easy attachment) AND (small AND collapsed AND footprint) AND (sound OR solid OR rigid)",
+        "target": "B07QS72VLC"
+    },
+    "188": {
+        "generated_text": "\"non-leaking\" AND \"straw cup\" AND (\"easy to wash\" OR \"easy to clean\") AND (\"easy to put back together\" OR \"assembly-friendly\") AND (\"can take in the car\" OR \"transportable\") AND (\"ice water\" OR \"cold beverage\") AND (\"without spills or leaks\")",
+        "target": "B0BN17VBRW"
+    },
+    "189": {
+        "generated_text": "(\"straw cup\" OR \"straw drinking cup\") AND (\"learning straw\" OR \"straw learning\") AND (\"easy straw\" OR \"easy straw cup\") AND (\"instant straw\" OR \"straw learning\") AND (\"independent straw\" OR \"straw independence\") AND (\"safe straw\" OR \"lid secure\") AND (\"straw cup recommendation\")",
+        "target": "B07RNJSF96"
+    },
+    "190": {
+        "generated_text": "(\"easy to install\" OR \"easy install\" OR \"simple installation\" OR \"quick setup\") AND (durable OR strong OR rigid) AND (\"door guard\" OR \"pet door\" OR \"escape prevention\") AND (\"door escape\" OR \"pet escape prevention\" OR \"door security\")",
+        "target": "B0C5BV7DPD"
+    },
+    "191": {
+        "generated_text": "(effective OR highly effective) AND (user-friendly OR simple) AND (odor-proof OR odor-resistant) AND (for dogs OR for potty pads) AND (easy to dispose OR disposable) AND (odorless OR no odor)",
+        "target": "B0BSX3RXNV"
+    },
+    "192": {
+        "generated_text": "(portable OR travel OR hotel OR compact) AND (bed OR sleeping OR bunk bed) AND (comfortable OR daughter OR kids) AND (inflate OR pack OR easy setup)",
+        "target": "B0C674RXLM"
+    },
+    "193": {
+        "generated_text": "(cute OR adorable OR pretty OR colorful OR patterned) AND (soft OR comfortable OR gentle) AND (\"easy to put on\" OR \"easy to take off\" OR adjustable) AND (set OR bundle OR package) AND (discount OR bargain OR affordable) AND (\"baby shower\" OR \"new baby\" OR gift)",
+        "target": "B0BV1Z8P7N"
+    },
+    "194": {
+        "generated_text": "(\"wireless pump\" OR \"wireless milk pump\") AND (\"Momcozy pump\" OR \"compatible with Momcozy\") AND (\"compact\" OR \"convenient\" OR \"easy to use\") AND (\"extra parts\" OR \"bags\")",
+        "target": "B0B3D9882H"
+    },
+    "195": {
+        "generated_text": "(sterilizer AND dryer) AND (easy to use OR convenient) AND (doesn't require a lot of water) AND (fits multiple bottles AND smaller parts) AND (better than microwave) AND (touch of a button)",
+        "target": "B09CGTPJSL"
+    },
+    "196": {
+        "generated_text": "(\"king size\" AND \"baby shower\" AND sheets) OR (\"king size\" AND sheets)",
+        "target": "B08D7J9T31"
+    },
+    "197": {
+        "generated_text": "(easy setup OR quick setup) AND (adjustable footrest OR adjustable foot) AND (recline OR adjustable recline) AND (5-month-old OR baby OR small baby OR baby size)",
+        "target": "B07SX1C69F"
+    },
+    "198": {
+        "generated_text": "(\"high-quality\" AND \"living room\" AND \"carrying case\" AND \"son\" AND \"daughter\")",
+        "target": "B0B6HBP55N"
+    },
+    "199": {
+        "generated_text": "(\"orthodontic teeth\" AND \"size 6\" AND \"smaller than expected\" AND \"bigger teeth\")",
+        "target": "B0888TSKMH"
+    },
+    "200": {
+        "generated_text": "(spacious AND play pen) AND (easy to set up AND storage bag) AND (bigger AND sturdier AND safe space) AND (room for toys AND easy to move) AND (machine washable OR addable mat)",
+        "target": "B09V5CPHF1"
+    },
+    "201": {
+        "generated_text": "(glow OR luminous OR fluorescent OR self-illuminating OR glow) AND (\"easy to find in the dark\" OR \"visible in low light\" OR \"night vision\" OR \"dark-adaptive\") AND (child OR children's OR kids OR youth OR \"child-friendly\") AND (\"attracted to them quickly\" OR \"capture attention\" OR \"eye-catching\" OR \"instantly visible\" OR \"quickly appealing\") AND (\"stay bright for a long time\" OR \"long-lasting\" OR \"persistent glow\" OR \"durable lighting\" OR \"bright for extended use\")",
+        "target": "B09MG3H4JW"
+    },
+    "202": {
+        "generated_text": "(\"contactless\" OR \"non-contact\") AND (\"quick\" AND \"accurate\") AND (\"noises\" OR \"beeps\" OR \"silent\") AND (\"night\" OR \"children\") AND (\"red light\" OR \"temperature alert\") AND (\"room\" OR \"car\") AND (\"lightweight\" AND \"protective\") AND (\"reasonable\" AND \"price\")",
+        "target": "B0BWFR79S4"
+    },
+    "203": {
+        "generated_text": "(cute OR adorable OR charming) AND (warm OR cozy OR comfortable) AND (functional OR practical OR useful) AND (thick OR heavy OR thick) AND (sewn OR seamless OR durable) AND (2-way OR bi-directional OR dual-zip) AND (snaps OR fasteners OR adjustable) AND (suitable OR cooling OR chilly) AND (not too warm OR not too hot OR moderate)",
+        "target": "B0BVTG1HM2"
+    },
+    "204": {
+        "generated_text": "(\"toddler bed\" OR \"perfect toddler bed\") AND (\"2-year-old\" OR \"grandson\") AND (\"easy to assemble\" OR \"easy assembly\") AND (\"transition to twin bed\" OR \"twin bed\")",
+        "target": "B0BSPKDJB7"
+    },
+    "205": {
+        "generated_text": "(\"hammock\" AND \"stylish\" AND \"daughter\") AND (\"weight capacity\" AND \"easy to install\" AND \"high-quality\" AND \"hooks\")",
+        "target": "B09BDYJ1K7"
+    },
+    "206": {
+        "generated_text": "(\"amazing\" OR \"excellent\" OR \"high-quality\" OR \"top-notch\") AND (\"easy to install\" OR \"simple to install\" OR \"user-friendly\" OR \"intuitive\") AND (\"come with all necessary pieces\" OR \"complete set\" OR \"kit\" OR \"all-inclusive\") AND (\"simple to set up\" OR \"quick setup\" OR \"fast installation\" OR \"under 2 minutes\") AND (\"glad I decided to buy this product\" OR \"satisfied\" OR \"happy with purchase\")",
+        "target": "B0BD83BQ3X"
+    },
+    "207": {
+        "generated_text": "(bath tub OR bathtub OR tub OR shower tub) AND (easy to use OR user-friendly OR simple OR intuitive OR easy access OR safe) AND (infant OR child OR kids OR bathtub for children)",
+        "target": "B0C41H8L7P"
+    },
+    "208": {
+        "generated_text": "(\"cute\" OR \"children's\" OR \"theme\" OR \"decorative\") AND (\"construction\" OR \"building\" OR \"kit\") AND (\"plate\" AND \"utensils\") AND (\"durable\" OR \"sturdy\" OR \"long-lasting\") AND (\"quality\" OR \"value\" OR \"affordable\")",
+        "target": "B0049OO3F6"
+    },
+    "209": {
+        "generated_text": "(product AND (dog AND garbage can) AND (easy to put on AND lock) AND (lock only when full))",
+        "target": "B0BKV2Z7XB"
+    },
+    "210": {
+        "generated_text": "(\"toddler-sized\" AND (\"soft\" AND \"comfortable\") AND \"pack of two\" AND (\"head support\" AND \"snuggle\") AND (\"home\" AND \"daycare\"))",
+        "target": "B0B4P4F5S5"
+    },
+    "211": {
+        "generated_text": "(\"pregnancy pillow\" AND (\"vacuum sealed\" OR \"puff up\" OR \"become firm\" OR \"comfortable\" OR \"sturdy\" OR \"not prone to ripping\" OR \"quality product\"))",
+        "target": "B09NVT9CMJ"
+    },
+    "212": {
+        "generated_text": "(play time AND (rolling over OR crawling) AND pink AND durable AND texture)",
+        "target": "B09C1L15ZW"
+    },
+    "213": {
+        "generated_text": "(\"high chair\" AND (\"basic\" OR \"functional\") AND (\"9-month-old\" OR \"petite\" OR \"toddler\") AND (\"cushion\" OR \"adjustable\"))",
+        "target": "B015QYB526"
+    },
+    "214": {
+        "generated_text": "(\"cleaning bottles\" AND \"cleaning sippy cups\") AND (affordable) AND (\"different sizes\") AND (\"tough-to-reach\") AND (\"soap dispenser\") AND (\"gift suitable\")",
+        "target": "B0974TXDD1"
+    },
+    "215": {
+        "generated_text": "\"diaper changing covers\" AND \"easy to install\" AND \"easy to wash\" AND \"nice and soft\" AND \"use them so frequently\" AND \"highly recommend\"",
+        "target": "B0B6NVJ4S6"
+    },
+    "216": {
+        "generated_text": "(leash vest) AND (two-year-old OR grandson) AND (dinosaur) AND (run off AND hide OR get lost) AND (crowds) AND (saving life OR saving sanity)",
+        "target": "B0B7MXGCHM"
+    },
+    "217": {
+        "generated_text": "(Chicco AND pacifier AND \"no deform\" AND recommended)",
+        "target": "B0BMCRG7QD"
+    },
+    "218": {
+        "generated_text": "(\"car seat bag\" AND (durable OR \"rip-resistant\") AND (Hawaii OR \"Hawaiian\") AND (backpack OR \"rolled around\" OR \"large capacity\") AND (\"checked in\" OR \"free check-in\"))",
+        "target": "B084RB2WN9"
+    },
+    "219": {
+        "generated_text": "(\"preview\" OR \"previewing\") AND (\"fonts\" OR \"typefaces\") AND (\"no t-swoop\" OR \"t-swoop-free\") AND (\"precise\" OR \"accurate\") AND (\"protected\" AND \"packaging\") AND (\"fast\" AND \"delivery\") AND (\"reasonable\" AND \"price\")",
+        "target": "B07Y5R6Y1G"
+    },
+    "220": {
+        "generated_text": "(\"diaper brand\" OR \"diaper brand name\") AND (\"favorite diaper brand\" OR \"best diaper brand\") AND (\"gifted at baby shower\" OR \"baby shower gift\") AND (\"son's diaper\" OR \"son's diapers\")",
+        "target": "B0C2DBPSFV"
+    },
+    "221": {
+        "generated_text": "(perfect AND walker) AND (rolls smoothly AND walker) AND (toys AND different textures AND walker) AND (perfect height AND walker)",
+        "target": "B0B4VR9X7Q"
+    },
+    "222": {
+        "generated_text": "(bedding set OR comforter) AND (reversible OR two-sided) AND (gray OR white OR pink) AND (wild animals) AND (crib OR floor) AND (easy to wash OR washable)",
+        "target": "B0C5YGZXPX"
+    },
+    "223": {
+        "generated_text": "(\"spoon set\" OR \"fork set\" OR \"spoon and fork set\") AND (\"perfect size\" OR \"appropriate size\" OR \"suitable size\") AND (\"learning to feed\" OR \"nursery\" OR \"baby\") AND (\"high-quality\" OR \"premium\" OR \"best\")",
+        "target": "B08NWK8CST"
+    },
+    "224": {
+        "generated_text": "\"baby food maker\" AND \"easy to clean\" AND \"doesn't get rusty or moldy\" AND \"compartment for water\" AND \"big enough for a normal sponge\" AND \"three pieces to clean\" AND \"steams and pur\u00e9es automatically\" AND \"one button\"",
+        "target": "B088D2RWQ8"
+    },
+    "225": {
+        "generated_text": "\"set of bibs\" AND \"nicely made\" AND \"well packaged\" AND \"adorable colors\" AND \"suitable for both genders\" AND \"fall colors\" AND \"good quality\" AND \"white snaps\" AND \"curved shape\" AND \"lovely\"",
+        "target": "B0B18V1YK4"
+    },
+    "226": {
+        "generated_text": "(\"works as advertised\" AND \"convenient to use\" AND (\"user manual\" OR \"instruction guide\"))",
+        "target": "B0C7Q26GLX"
+    },
+    "227": {
+        "generated_text": "(baby AND (safety OR security) AND (easy installation OR plug-and-play OR no-nibbler) AND (nice appearance OR aesthetically pleasing) AND (effective protection) AND (highly recommend OR highly recommended))",
+        "target": "B004WEKS6Q"
+    },
+    "228": {
+        "generated_text": "(gate) AND (kids AND pets) AND hallway AND (easy installation) AND (latch AND (aesthetically pleasing OR user-friendly)) AND puppy AND sturdy",
+        "target": "B0B8DB7KBM"
+    },
+    "229": {
+        "generated_text": "(diaper AND good quality AND (\"Luvs\" OR \"other brand\") AND \"planning to buy again\")",
+        "target": "B0BMQ3G124"
+    },
+    "230": {
+        "generated_text": "\"stroller hooks\" AND (\"carabiner\" OR \"velcro hook\") AND \"stitching\" AND \"strong\" AND (\"weight capacity\" OR \"heavy duty\")",
+        "target": "B0BLNS4Y5H"
+    },
+    "231": {
+        "generated_text": "(foldable OR folding) AND (\"easy instructions\" OR \"clear instructions\" OR \"user-friendly\") AND (children OR kids OR educational OR learning) AND (\"children's\" OR \"kids'\" OR love)",
+        "target": "B01I3ZFSC8"
+    },
+    "232": {
+        "generated_text": "(\"13.5 months\" AND \"car seat\" AND \"sturdy\" AND (\"extra head cushion\" OR \"head cushion\") AND (\"can face forward\" OR \"facing forward\"))",
+        "target": "B079Z21S42"
+    },
+    "233": {
+        "generated_text": "(\"first birthday\" OR \"first birthday gift\") AND (\"adjustable height\" OR \"adjustable\") AND (\"safety\" OR \"safe\") AND (\"morning use\" OR \"use every morning\") AND (\"heavy\" OR \"heavy enough\")",
+        "target": "B0C36GGDQ6"
+    },
+    "234": {
+        "generated_text": "(\"teeth storage\" OR \"teeth jar\" OR \"teeth container\") AND (teeny AND jars AND teeth) AND (\"easy to hide\") AND (cute)",
+        "target": "B0BPL6HLQY"
+    },
+    "235": {
+        "generated_text": "(teething AND aid) AND (grandbaby) AND (quick AND delivery) AND (appreciation)",
+        "target": "B0BMXVK2TL"
+    },
+    "236": {
+        "generated_text": "(\"high value\" OR \"good value\") AND (\"perfect fit\" OR \"fits well\") AND (\"cheaper than retail\" OR \"discounted\") AND (\"home delivery\" OR \"ship to home\")",
+        "target": "B07TFL8ZNR"
+    },
+    "237": {
+        "generated_text": "(furniture OR storage OR playmat OR safe space) AND (cute) AND (house cleaning) AND (play)",
+        "target": "B09HH31P54"
+    },
+    "238": {
+        "generated_text": "(cute OR adorable OR pretty OR feminine) AND (large OR big OR roomy OR multi-compartment) AND (baby OR infant OR toddler OR toys) AND (highly rated OR best seller OR highly reviewed OR customer favorite)",
+        "target": "B09M9V6NBS"
+    },
+    "239": {
+        "generated_text": "(\"daughter\" OR \"child\") AND (\"love\" OR \"enjoy\") AND (\"easy to clean\" OR \"durable\" OR \"washable\") AND (\"soft\" AND \"malleable\" AND \"straw\")",
+        "target": "B0BMPRQWCN"
+    },
+    "240": {
+        "generated_text": "(\"toy storage\" AND (\"grandson\" AND \"love\")) AND (\"large capacity\" OR \"multi-tier\") AND (\"easy to clean\" AND \"sturdy\") AND \"black color\"",
+        "target": "B0BLHF5Y17"
+    },
+    "241": {
+        "generated_text": "\n{\n    \"query\": \"(mobile AND (mini crib OR \"mini crib\") AND (beautiful OR \"nice colors\" OR \"true to the photo\") AND NOT (musical OR \"musical component\"))\"\n}\n",
+        "target": "B0B1JHPJHB"
+    },
+    "242": {
+        "generated_text": "(stroller) AND (lightweight OR easy to carry) AND (colorful OR multi-color)",
+        "target": "B0B6LTMR31"
+    },
+    "243": {
+        "generated_text": "(\"4-month-old\" OR \"4 month old\") AND \"baby toy\" AND (\"will love\" AND \"play well with\") AND \"worth purchasing\"",
+        "target": "B09SNPJBXZ"
+    },
+    "244": {
+        "generated_text": "(\"7-month-old\" OR \"7 month old\") AND (baby) AND (hold AND chew) AND (gift AND \"baby shower\")",
+        "target": "B0BPM8FKCF"
+    },
+    "245": {
+        "generated_text": "(\"outlet safety\" OR \"electrical safety\") AND (\"toddler protection\" OR \"child protection\") AND (\"affordable\" OR \"cost-effective\") AND (\"easy install\" OR \"easy remove\" OR \"user-friendly\") AND (\"toddler-friendly\" OR \"child-friendly\")",
+        "target": "B09V4G8T43"
+    },
+    "246": {
+        "generated_text": "(moisturizing OR hydrating) AND (odorless OR without scent) AND (all-day OR long-lasting) AND (children-safe OR safe for kids)",
+        "target": "B0B4T73CX7"
+    },
+    "247": {
+        "generated_text": "(comfort OR gentle OR soothing OR comfortable) AND (easy cleaning OR disinfectable OR wipeable) AND (screwed to a table OR mountable OR attachable OR compatible with tables) AND (clip OR clip-on OR clipper)",
+        "target": "B0BTVPPF9K"
+    },
+    "248": {
+        "generated_text": "(\"portable\" OR \"portable bed\" OR \"portable sleeping pad\") AND \"sleeping solution\" AND compact AND (\"easy to set up\" AND \"easy to tear down\") AND \"carrying case\" AND \"reasonably priced\"",
+        "target": "B09X2CLWRL"
+    },
+    "249": {
+        "generated_text": "(spacious AND (carry-on OR airport) AND (diaper OR travel) AND (pockets AND compartments) AND (5 days AND clothing AND toiletries AND makeup AND hair straightener) AND (durable AND comfortable AND straps) AND (buy again if ruined))",
+        "target": "B0C698JFXP"
+    },
+    "250": {
+        "generated_text": "(waterproof AND comfortable AND easy to put on AND bulky AND dry quickly AND toddler AND beach AND swimming pool)",
+        "target": "B0B1F81CX1"
+    },
+    "251": {
+        "generated_text": "(\"texture\" OR \"sensory\" OR \"touch\" OR \"feeling\") AND (\"faint sound\" OR \"soft\" OR \"gentle\" OR \"mild\") AND (\"teething\" OR \"sore gums\" OR \"oral\")",
+        "target": "B0BDV17L6Y"
+    },
+    "252": {
+        "generated_text": "(pouch OR \"snack pouch\" OR \"food pouch\") AND (\"best flavor\" OR \"high flavor\" OR delicious) AND (bulk OR large OR pack) AND (\"picky eater\" OR picky)",
+        "target": "B0BGN856L5"
+    },
+    "253": {
+        "generated_text": "(precious AND gift) AND (\"great niece\") AND (fast shipping AND perfect)",
+        "target": "B09KT2W3MF"
+    },
+    "254": {
+        "generated_text": "(good quality AND stretchy AND sturdy AND comes with screws) AND (OR comes with thumbtacks)",
+        "target": "B0C4W2SLV4"
+    },
+    "255": {
+        "generated_text": "(baby OR child OR toddlers) AND (storage OR transport OR durable OR portable) AND (easy to clean OR dishwasher safe OR durable)",
+        "target": "B0B2Q5K5R8"
+    },
+    "256": {
+        "generated_text": "(soft OR super soft OR comfortable) AND (durable OR sturdy OR long-lasting) AND (not cheap OR high-quality OR premium) AND (thick OR substantial) AND (fits perfectly OR custom-fit OR adjustable) AND (blue OR navy) AND (looks great OR stylish OR appealing)",
+        "target": "B0BTS2GM5S"
+    },
+    "257": {
+        "generated_text": "(strong OR durable OR rigid OR heavy-duty OR sturdy) AND (bright lights OR high-lumen OR LED OR bright OR illumination) AND (easy to assemble OR simple OR easy OR straightforward OR kit) AND (comes with screws AND instructions OR includes OR comprehensive OR complete)",
+        "target": "B0B27RLNCS"
+    },
+    "258": {
+        "generated_text": "(\"stackable\" AND \"toddler\" AND \"space-saving\" AND \"environmentally friendly\" AND \"colorful\" AND \"easy to wash\" AND \"dishwasher safe\" AND \"sturdy\" AND \"depth\" AND \"fine motor skills\")",
+        "target": "B0C14ZR74G"
+    },
+    "259": {
+        "generated_text": "(soft OR luxurious OR comfortable OR high-quality) AND (snaps AND NOT velcro) AND (adjustable AND neck size) AND teethers AND (recommend AND friends)",
+        "target": "B0B96YH5YV"
+    },
+    "260": {
+        "generated_text": "(\"stainless steel\" AND (\"well-made\" OR \"versatile\" OR \"durable\") AND (\"easy to clean\" OR \"not stain\") AND (\"extra straws\" OR \"cleaning brush\") AND (\"flip top\" AND \"sealed hole\") AND (\"very satisfied\" OR \"buy again\"))",
+        "target": "B0BCRTCNPX"
+    },
+    "261": {
+        "generated_text": "(neatly OR well-packaged OR nicely) AND (thickness OR thick OR good quality) AND (fleece OR wool OR soft OR comfortable) AND (well-stitched OR well-sewn OR sturdy) AND (button OR buttons OR well-made OR high-quality) AND (gender-neutral OR unisex OR well-made) AND (pack OR pack of OR 10-pack OR 10 pack) AND (discount OR coupon)",
+        "target": "B0BHQWLHC8"
+    },
+    "262": {
+        "generated_text": "(affordable OR budget-friendly OR cost-effective) AND (bulk OR pack OR set) AND (user-friendly OR simple OR intuitive) AND (dresser OR cabinet OR storage)",
+        "target": "B0CBCZ6SC2"
+    },
+    "263": {
+        "generated_text": "(bouncer AND (baby OR infant) AND (cute OR adorable OR appealing) AND (sturdy OR durable OR safe) AND (picture OR design OR style))",
+        "target": "B08FJZXV3R"
+    },
+    "264": {
+        "generated_text": "(\"customer service\" OR \"customer support\") AND (responsive OR \"quick email\" OR \"fast email\") AND (\"no additional fees\" OR \"no extra charges\") AND (satisfaction OR happy)",
+        "target": "B0C99CGD1L"
+    },
+    "265": {
+        "generated_text": "(\"pack and play sheets\" OR \"mini sheets\" OR \"compact sheets\") AND (\"soft\" AND \"stretchy\") AND (\"cotton\" AND \"fitted\") AND (\"easy to put on\" AND \"easy to take off\")",
+        "target": "B0BZP7HSP4"
+    },
+    "266": {
+        "generated_text": "(\"baby straw cup\") AND (\"secure lid\" AND \"doesn't fall off when tipped over\") AND (\"requires tipping\" OR \"squeezing\") AND \"easy to transition to\"",
+        "target": "B0C49D8Q1X"
+    },
+    "267": {
+        "generated_text": "(children AND portable AND size AND compliment AND buy AND share AND different sizes)",
+        "target": "B0BDN4VC8Y"
+    },
+    "268": {
+        "generated_text": "(study OR small OR delicate) AND (perfect size) AND (hold up well OR durable) AND (cups OR toys OR \"bottle vents\" OR \"bottle vent\") AND (affordable OR good price)",
+        "target": "B0006BAJN6"
+    },
+    "269": {
+        "generated_text": "(travel OR rental OR portable OR compact) AND (cabinet OR cabinet-friendly OR handle-resistant OR handle-damage-resistant) AND (handle OR handle-free OR handleless) AND (knob OR knob-style OR knob-friendly)",
+        "target": "B09WVKG9Z9"
+    },
+    "270": {
+        "generated_text": "(\"Portable\" OR \"easy to move\" OR \"compact\") AND \"Baby seat\" AND (\"Use in restaurants\" OR \"public setting\") AND (\"Easy to clean\" OR \"hygiene\") AND (\"Packable\" OR \"compact\") AND (\"Team effort\" OR \"two people\") AND (\"Safe and convenient spot\" OR \"comfortable\") AND (\"Right height\" OR \"adjustable height\") AND (\"Careful on small tables\" OR \"stable\")",
+        "target": "B0C3CFNQ9K"
+    },
+    "271": {
+        "generated_text": "(pouch OR container OR feed OR meal) AND (\"11-month\" OR \"2-year\" OR baby OR toddler) AND (oatmeal OR banana OR \"peanut butter\" OR \"sweet potato\" OR butter OR \"maple syrup\") AND (\"easy to fill\" OR \"secure closure\" OR \"leak-resistant\") AND (\"picky eater\" OR \"2-year-old\")",
+        "target": "B00N1B6NFG"
+    },
+    "272": {
+        "generated_text": "(stress relief OR comfort OR relaxation) AND (durable OR sturdy OR well-made) AND (airport luggage OR durable OR withstand) AND (car seat OR Britax OR One4Life OR fit OR adjust)",
+        "target": "B09XPL19FG"
+    },
+    "273": {
+        "generated_text": "(\"spill-proof\" OR \"leak-proof\") AND (\"easy to clean\" OR \"easy clean\") AND (\"sturdy\" OR \"durable\") AND (\"Playtex\") AND (\"granddaughter\" OR \"child\") AND (\"multiple sets\" OR \"long-term use\")",
+        "target": "B019Q2ICTI"
+    },
+    "274": {
+        "generated_text": "(\"potty training stool\" AND \"2-year-old\" AND (\"easy to use\" OR \"exciting\") AND (\"worth it\" OR \"recommend to others\"))",
+        "target": "B0BYC7BRK6"
+    },
+    "275": {
+        "generated_text": "(\"lion\" AND \"newborn\") AND (\"cute\" AND \"creepy\") AND (\"positionable\" OR \"displayable\")",
+        "target": "B084DJW51N"
+    },
+    "276": {
+        "generated_text": "(plate OR dish OR dishes OR ware OR tableware) AND (\"three sons love\" OR \"family favorite\" OR \"kids' plate\") AND (\"easy to clean\" OR durable OR non-stick OR \"easy clean\") AND (\"dishwasher safe\" OR \"dishwasher compatible\" OR \"dishwasher safe\")",
+        "target": "B00KIXOL2W"
+    },
+    "277": {
+        "generated_text": "(spacious OR big OR large) AND (bag OR carrier OR stroller) AND (baby OR infant) AND (outing OR outdoor OR travel) AND (fast OR quick OR expedited OR rush)",
+        "target": "B0B2CR6PD8"
+    },
+    "278": {
+        "generated_text": "(\"snap-in\" AND \"easy removal\") AND \"secure base\" AND (\"newborn\" AND \"adjustable\")",
+        "target": "B07CVCHKTT"
+    },
+    "279": {
+        "generated_text": "(\"big\" OR \"large\" OR \"spacious\" OR \"roomy\") AND (\"sturdy\" OR \"strong\" OR \"durable\" OR \"robust\") AND (\"suitable for a six-month-old\" OR \"infant\" OR \"baby\" OR \"toddler\") AND (\"suitable for a four-year-old\" OR \"child\" OR \"kid\" OR \"youth\")",
+        "target": "B09M3ZY6TT"
+    },
+    "280": {
+        "generated_text": "(\"best\" OR \"superior\" OR \"high-quality\" OR \"excellent\") AND (\"soft\" OR \"extremely soft\" OR \"delicate\") AND (\"lightweight\" OR \"portable\" OR \"compact\") AND (\"warm\" OR \"insulating\" OR \"comfortable\")",
+        "target": "B09YRMPBK2"
+    },
+    "281": {
+        "generated_text": "(cute AND adorable) AND durable AND rechargeable AND (long-lasting OR battery) AND (adjustable AND brightness) AND versatile AND (nightlight OR bedroom OR bathroom)",
+        "target": "B0BTGN56H2"
+    },
+    "282": {
+        "generated_text": "(\"gift for expecting parents\" OR \"pregnant couple gift\" OR \"new parents present\") AND (\"soft and gentle brushes\" OR \"soft-bristled brushes\" OR \"gentle-bristled brushes\") AND (\"baby brush\" OR \"toothbrush\" OR \"baby head\") AND (\"small heads\" OR \"newborn head\")",
+        "target": "B0BKQ3RP9K"
+    },
+    "283": {
+        "generated_text": "(\"eating set\" OR \"dining set\") AND (\"suction\" OR \"suction feature\") AND (\"aesthetically pleasing\" OR \"attractive\") AND (\"easy for toddler\" OR \"toddler-friendly\") AND (\"oversized fork\" AND \"oversized spoon\") AND (\"plate with suction\" OR \"suction plate\") AND (\"wooden table\" OR \"other surfaces\")",
+        "target": "B0C8TR5MHM"
+    },
+    "284": {
+        "generated_text": "(bottle) AND (child OR toddler) AND (high-quality OR durable) AND (decorative stickers OR sticker pack) AND (child-friendly OR easy to use) AND (fast delivery OR express shipping)",
+        "target": "B0BW8WYSPK"
+    },
+    "285": {
+        "generated_text": "(\"stuffed animals\" OR \"plush toys\") AND (\"bed\" OR \"bedding\") AND (\"remove\" OR \"cleaning\") AND (\"mesh cover\" OR \"decorative cover\" OR \"elegant\")",
+        "target": "B09YT39J4K"
+    },
+    "286": {
+        "generated_text": "(easy OR user-friendly OR intuitive OR simple OR straightforward) AND (long-lasting OR durable OR reliable OR high-capacity OR battery) AND (versatile OR adaptable OR multi-purpose OR compatible)",
+        "target": "B083HRMJ4N"
+    },
+    "287": {
+        "generated_text": "(\"effective\" OR \"reliable\" OR \"high-quality\") AND (\"compatible\" OR \"interoperable\" OR \"works with\") AND (\"affordable\" OR \"cost-effective\" OR \"less expensive\") AND (\"diaper genie\")",
+        "target": "B0B5F7WLL8"
+    },
+    "288": {
+        "generated_text": "(seat OR chair OR booster) AND (13-month-old OR 13 month old OR toddler) AND (well-built OR sturdy OR durable) AND (easy to clean OR easy clean OR washable) AND (comfortable OR cozy) AND (TV OR television OR couch)",
+        "target": "B0BSTZTFKG"
+    },
+    "289": {
+        "generated_text": "(temperature OR temp OR thermometer OR heat) AND (humidity OR humid OR moisture OR humidity sensor) AND (nursery OR infant OR child) AND (nightlight OR night light OR lighting OR illumination)",
+        "target": "B078Z4JCJL"
+    },
+    "290": {
+        "generated_text": "(\"affordable\" OR \"budget-friendly\" OR \"value\" OR \"good deal\") AND (\"simple\" OR \"easy install\" OR \"no hassle\") AND (\"large enough\" OR \"baby-friendly\" OR \"play area\") AND (\"safe\" OR \"childproof\" OR \"safe for baby\")",
+        "target": "B0B392DX2X"
+    },
+    "291": {
+        "generated_text": "(\"toilet seat\" AND (\"fits well\" OR \"easy to clean\") AND (\"two\" OR \"upstairs\" OR \"downstairs\"))",
+        "target": "B084NGPKHB"
+    },
+    "292": {
+        "generated_text": "(travel OR portable) AND (door lock OR locking mechanism) AND (childproof OR \"security for children\")",
+        "target": "B01K3SOW98"
+    },
+    "293": {
+        "generated_text": "(teething OR sore gums OR teething relief) AND (flavorless OR without flavor OR neutral flavor) AND (taste like water OR water-like flavor OR bland flavor)",
+        "target": "B08PFQTSKW"
+    },
+    "294": {
+        "generated_text": "(carseat OR child restraint) AND (great price OR affordable OR budget-friendly) AND (sturdy OR durable OR reliable) AND (easy to install OR simple installation OR easy setup) AND (safe OR safe for children OR child safety)",
+        "target": "B079Z21S42"
+    },
+    "295": {
+        "generated_text": "(pacifiers) AND (child OR baby OR infant OR raising OR nursing OR comfort OR sore throat OR teething OR sleep OR stress relief OR oral health) AND (high-quality OR premium OR best OR excellent OR superior) AND (brand OR brand category)",
+        "target": "B0BVV21HD3"
+    },
+    "296": {
+        "generated_text": "(\"soft\" OR \"durable\" OR \"comfortable\" OR \"sturdy\") AND (\"suction\" OR \"sticky\" OR \"adhesive\") AND (\"toddlers\" OR \"children\" OR \"small\" OR \"compact\") AND (\"animal\" OR \"shape\" OR \"character\")",
+        "target": "B07411ZSQ5"
+    },
+    "297": {
+        "generated_text": "(\"soft\" OR \"gentle\" OR \"plush\" OR \"soft touch\") AND (\"leak-resistant\" OR \"leak-proof\" OR \"leak-resistant\" OR \"dri-fit\") AND (\"newborn\" OR \"infant\" OR \"0-3 months\")",
+        "target": "B0BMQ3G124"
+    },
+    "298": {
+        "generated_text": "(\"easy to assemble\" OR \"easy to fold\" OR \"easy to unfold\") AND (\"high-quality\" OR \"durable\" OR \"well-made\") AND (\"compact\" OR \"lightweight\" OR \"foldable\" OR \"suitable for travel\" OR \"airport friendly\")",
+        "target": "B09K68V54K"
+    },
+    "299": {
+        "generated_text": "(\"suction plate\") AND (baby OR infant) AND (beautiful OR colorful OR pretty) AND (easy OR cleanable OR washable) AND (stable OR durable)",
+        "target": "B09F9H1GQY"
+    },
+    "300": {
+        "generated_text": "(perfect AND small AND (department OR room) AND space AND toys)",
+        "target": "B0BZ9395VF"
+    },
+    "301": {
+        "generated_text": "(cute AND (good quality OR durable) AND (nice color OR gradient color OR color pattern) AND (easy removal OR no residue) AND (no bad taste OR safe) AND (let imagination run wild OR creative design) AND (furnish children's room OR children's room decoration))",
+        "target": "B0BBX4SJXL"
+    },
+    "302": {
+        "generated_text": "(lightweight OR slim OR compact OR portable) AND (easy-to-use OR user-friendly OR intuitive OR simple OR straightforward) AND (comfortable OR cozy OR soft OR plush OR comfortable) AND (breathable OR ventilated OR breathable) AND (lower back support OR lumbar support OR back support OR lower back cushion OR lumbar cushion)",
+        "target": "B0C13HBMHG"
+    },
+    "303": {
+        "generated_text": "\"cradle cap\" AND \"effectively\" AND \"quickly\" AND \"regularly\" AND \"during bath time\" AND \"scrub brush\"",
+        "target": "B09NPG4Y63"
+    },
+    "304": {
+        "generated_text": "(\"winter\" OR \"cold\" OR \"cool\" OR \"chilly\") AND (\"warm\" OR \"comfortable\" OR \"insulated\" OR \"cozy\") AND (\"sick\" OR \"ill\" OR \"health\" OR \"wellness\")",
+        "target": "B0BNTGJ31G"
+    },
+    "305": {
+        "generated_text": "\"potty training\" AND product AND \"3-year-old\" AND girl AND useful AND child likes",
+        "target": "B0872651ZP"
+    },
+    "306": {
+        "generated_text": "(\"play pen\" OR \"play enclosure\") AND (\"big\" OR \"large\" OR \"oversized\") AND (\"play area\" OR \"playtime\" OR \"activity space\") AND (\"easy to assemble\" OR \"quick assembly\" OR \"no assembly required\") AND (\"durable\" OR \"strong\" OR \"rigid\") AND (\"comfortable\" OR \"soft\" OR \"plush\") AND (\"safe\" OR \"non-trapping\" OR \"enclosed\")",
+        "target": "B09ZV2S4VN"
+    },
+    "307": {
+        "generated_text": "\"safety device\" AND \"child\" AND \"stove knobs\" AND \"effective\"",
+        "target": "B07D5KVQWM"
+    },
+    "308": {
+        "generated_text": "(soft OR gentle OR comfortable) AND (breathable OR ventilated OR airy) AND (tight OR fitting OR custom) AND (cute OR adorable OR patterned) AND (natural OR organic OR woodland) AND (baby OR infant OR nursery OR cute OR theme)",
+        "target": "B0BX7FGSQQ"
+    },
+    "309": {
+        "generated_text": "(thick AND mattress protector AND crib AND easy to apply AND waterproof AND no crinkly noises)",
+        "target": "B0BZ12JC6K"
+    },
+    "310": {
+        "generated_text": "(easy to use OR comfortable grip OR easy-to-open lid OR ergonomic) AND (silicone) AND (teething babies OR baby)",
+        "target": "B0BFJPPXS7"
+    },
+    "311": {
+        "generated_text": "(toddler AND suction AND utensil AND meal AND portable AND soft AND cleanable)",
+        "target": "B0B64QTKBK"
+    },
+    "312": {
+        "generated_text": "(\"easy to apply\" OR \"easy application\" OR \"user-friendly\") AND (toddler OR child) AND (\"steady herself\" OR \"steady balance\" OR balance) AND (\"coffee table\" OR table)",
+        "target": "B0CCNP8SGY"
+    },
+    "313": {
+        "generated_text": "(\"car seat\" OR \"child restraint\") AND (\"travel\" OR \"kids\") AND \"Graco Convertible\" AND (\"foldable\" AND (\"suitcase\" OR \"backpack\")) AND \"strap\" AND \"good material\" AND \"recognizable color\"",
+        "target": "B096V5F84Y"
+    },
+    "314": {
+        "generated_text": "(\"burp cloths\" OR \"burping cloths\" OR \"baby burp cloths\") AND (soft AND gentle) AND (patterns OR designs OR stencils)",
+        "target": "B0C17ZYW43"
+    },
+    "315": {
+        "generated_text": "(\"baby carrier\" AND \"3-month-old\" AND (\"enjoy\" OR \"comfortable\") AND (\"easy to put on\" OR \"easy to use\") AND (\"nice, thick material\" OR \"slightly thinner\"))",
+        "target": "B08F52BBVM"
+    },
+    "316": {
+        "generated_text": "(\"easy assembly\" OR \"assembly kit\") AND (hanging OR \"door hanger\") AND (\"deep pockets\" OR \"storage pockets\") AND (\"storage solution\" OR \"storage bin\") AND (\"no hooks\" OR \"unattractive hooks\")",
+        "target": "B0BKTBY82W"
+    },
+    "317": {
+        "generated_text": "(\"stylish\" OR \"fashionable\" OR \"trendy\") AND \"bag\" AND (\"for morning\" OR \"for daily use\") AND (\"cool color\" OR \"trendy color\" OR \"vibrant color\") AND (\"chic design\" OR \"elegant design\" OR \"stylish design\") AND (\"special features\" OR \"additional features\") AND \"compartments\" AND \"plenty of space\"",
+        "target": "B0C5R4RYN7"
+    },
+    "318": {
+        "generated_text": "(\"high-quality\" OR premium OR excellent OR top-tier) AND (gift OR present OR presents) AND (son OR boy OR male) AND (fianc\u00e9 OR \"future husband\" OR \"husband-to-be\") AND (\"Mother's Day\" OR \"gift for mom\" OR \"gift for mother\")",
+        "target": "B089ZSG1MS"
+    },
+    "319": {
+        "generated_text": "(sturdy OR durable OR robust OR tough OR sturdy) AND (portion size OR good size OR adequate size OR suitable size) AND (freezing OR freezer-safe OR cold storage) AND (homemade frozen treats OR frozen dog treats OR homemade dog treats OR frozen dog snacks) AND (durable OR robust OR tough OR durable)",
+        "target": "B079DMVC5B"
+    },
+    "320": {
+        "generated_text": "(teether AND cute) AND (different stimuli AND (cloud rattle OR silicone raindrops OR textured silicone rainbow OR hard sun)) AND (gum soothing) AND (easy to clean AND no holes for mold)",
+        "target": "B0BFFX2RLW"
+    },
+    "321": {
+        "generated_text": "(\"leak prevention\" OR \"leak resistant\" OR \"leak stop\") AND (\"easy cleanup\" OR \"easy to clean\" OR \"cleanable\") AND (\"slip-proof\" OR \"anti-slip\" OR \"slip-resistant\") AND (\"3-year-old\" OR \"3 year old\" OR \"3yearold\" OR \"toddlers\") AND (\"pull-up\" OR \"pull up\" OR \"diaper\")",
+        "target": "B08LQMN1DP"
+    },
+    "322": {
+        "generated_text": "Bibs AND (\"not too big\" OR \"suitable for newborns\") AND (\"nice\" OR \"gift\")",
+        "target": "B0BWXLP6Y5"
+    },
+    "323": {
+        "generated_text": "(\"fridge latches\" AND (\"easy to install\" OR \"easy to install latch\" OR \"simple installation\")) AND (\"strong adhesive\" OR \"adhesive latch\" OR \"durable latch\") AND (\"hold the fridge shut tightly\" OR \"tightly seal the fridge\" OR \"prevent fridge from opening\") AND (\"not move even when I pull on it\" OR \"sturdy latch\" OR \"durable latch\") AND (\"easily remove when needed\" OR \"easy to remove\" OR \"removable latch\")",
+        "target": "B007A2ZSZ8"
+    },
+    "324": {
+        "generated_text": "(\"bathtub mat\" AND (suction OR \"suction cup\") AND (tub OR bathtub) AND (\"slip prevention\" OR \"anti-slip\") AND (children OR kids) AND (\"full length\" OR \"full coverage\"))",
+        "target": "B09YWR5XRV"
+    },
+    "325": {
+        "generated_text": "(\"Sensitive skin\" AND \"face\" AND (\"moisturizer\" OR \"serum\" OR \"cream\") AND (\"dry skin\" OR \"redness\") AND (\"easy to use\" OR \"portable\" OR \"convenient\") AND (\"slap on\" OR \"apply once daily\"))",
+        "target": "B09R69GFKG"
+    },
+    "326": {
+        "generated_text": "(small OR compact) AND (300 pounds OR 300 lb) AND (\"extra height\" OR \"reach top shelf\") AND (\"easy to assemble\" OR \"easy assembly\") AND bamboo AND (strong OR rigid)",
+        "target": "B0B4WBPRRB"
+    },
+    "327": {
+        "generated_text": "(straw OR \"drinking straw\" OR \"sipping straw\") AND (\"spill prevention\" OR \"leak prevention\" OR \"liquid containment\" OR \"spill-resistant\" OR \"leak-resistant\")",
+        "target": "B0B85NVN3K"
+    },
+    "328": {
+        "generated_text": "\"quality\" AND \"cute\" AND \"size\" AND \"washable\" AND \"recommend\"",
+        "target": "B0BRC2C2SM"
+    },
+    "329": {
+        "generated_text": "(stool AND mother AND \"two young children\" AND camper AND quick AND easy AND compact AND space)",
+        "target": "B0B14YT43R"
+    },
+    "330": {
+        "generated_text": "(\"nice\" OR \"high-quality\" OR \"premium\" OR \"deluxe\" OR \"stylish\") AND (\"package\" OR \"pack\" OR \"set\" OR \"bundle\" OR \"kit\") AND (\"quantity\" OR \"bulk\" OR \"large\" OR \"enough\" OR \"multiple\") AND (\"good communication\" OR \"clear\" OR \"transparent\" OR \"responsive\" OR \"customer-friendly\")",
+        "target": "B0BCD3NFQL"
+    },
+    "331": {
+        "generated_text": "(pillow) AND (pregnant OR pregnancy) AND (women OR mother) AND (early OR mid OR late) AND (postpartum OR after birth) AND (perfect OR comfortable OR supportive)",
+        "target": "B0B1J3BFW8"
+    },
+    "332": {
+        "generated_text": "(\"wipes\" AND (\"cloth diapering\" OR \"diapering\") AND (\"2 sets\" OR \"two sets\" OR \"set of 2\" OR \"set of two\"))",
+        "target": "B0BQTSTS9H"
+    },
+    "333": {
+        "generated_text": "(\"strong signal\" OR \"high signal\" OR \"clear signal\" OR \"uninterrupted signal\") AND (\"Wi-Fi resistant\" OR \"Wi-Fi compatible\" OR \"Wi-Fi interference-free\") AND (\"long-range\" OR \"high-resolution\" OR \"high-quality\") AND (\"camera mobility\" OR \"camera movement\" OR \"camera tracking\") AND (\"durable\" OR \"long-lasting\" OR \"robust\")",
+        "target": "B00ECHYTBI"
+    },
+    "334": {
+        "generated_text": "(\"stroller wagon\" OR \"baby cart\" OR \"child cart\") AND (\"easy to push\" OR \"easy to maneuver\") AND (\"fits through all doors\" OR \"door-friendly\") AND (\"child with autism\" OR \"autism-friendly\") AND (\"54 lbs\" OR \"54 pound\" OR \"child weight\") AND (\"seatbelts\" OR \"safety belts\") AND (\"room for laying and hiding\" OR \"lounge area\") AND (\"plenty of legroom\") AND (\"easy setup\" OR \"fold down\" OR \"compact\") AND (\"child's love\" OR \"life changer\") AND (\"space in trunk\" OR \"trunk-friendly\")",
+        "target": "B09KZ6XSKR"
+    },
+    "335": {
+        "generated_text": "(soft AND comfortable AND 'suitable for adults with smaller bodies' AND (\"two pillows\" OR \"wonderful pillows\"))",
+        "target": "B0C5BYLTWS"
+    },
+    "336": {
+        "generated_text": "(cute OR adorable OR pretty OR charming) AND (container OR storage OR box) AND (\"little kids\" OR children OR kids) AND (\"easily reach into\" OR \"easy access\" OR \"child-friendly\") AND (snacks OR snack) AND (\"cup shape\" OR round OR dish) AND (handle OR handleable) AND (\"easy to wash\" OR washable OR clean)",
+        "target": "B0BN5K42TY"
+    },
+    "337": {
+        "generated_text": "(\"bassinet mat\" OR \"plush blanket\") AND (sturdy AND cute) AND (easy to assemble) AND (for baby) AND (plush AND thick) AND (instructions)",
+        "target": "B0BTBW6NQ6"
+    },
+    "338": {
+        "generated_text": "(\"extremely soft\" OR \"comfortable\" OR \"like a blanket\") AND (\"absorb well\" OR \"dries slowly\") AND (\"longer drying time\" OR \"dries slowly\") AND (\"fits the baby\" OR \"bath time\") AND (\"can be used as a blanket\" OR \"can be used as a mat\") AND (\"does not lose softness\" OR \"cold water\" OR \"low tumble\")",
+        "target": "B0BZ5RQ57F"
+    },
+    "339": {
+        "generated_text": "(\"baby shower gift\" AND \"bathtime bundle set\" AND \"soft textiles\" AND \"natural beauty products\" AND \"environmentally friendly\")",
+        "target": "B0C5YL8VT1"
+    },
+    "340": {
+        "generated_text": "(functional OR useful OR practical) AND (lengthy OR long) AND sheer AND (versatile OR multi-purpose)",
+        "target": "B07WG7FM5R"
+    },
+    "341": {
+        "generated_text": "(soft OR comfortable OR plush OR luxe) AND (stretchy OR elastic OR stretchable OR bouncy) AND (durable OR tough OR sturdy OR long-lasting) AND (quality OR premium OR high-quality OR excellent) AND (\"stay soft\" OR anti-crease OR anti-shrink OR moisture-wicking) AND (\"summer\" OR \"winter\" OR seasonal OR multi-season OR all-season) AND (gray OR \"mid-gray\" OR ash OR smoke) AND (fade OR colorfast OR durable color OR no fade)",
+        "target": "B0C5HB52YH"
+    },
+    "342": {
+        "generated_text": "(\"2020 Nissan LEAF\" OR \"LEAF\") AND (\"shoulder rest\" AND (\"7-year-old\" OR \"9-year-old\")) AND (\"measure space\" OR \"avoid obstruction\")",
+        "target": "B083LRGFWW"
+    },
+    "343": {
+        "generated_text": "(teething AND safe AND chewable AND bendy AND fork-like AND not sharp)",
+        "target": "B09W4CCXGT"
+    },
+    "344": {
+        "generated_text": "(breast pump OR breast pump accessory) AND (easy pumping OR hassle-free OR accurate measurement) AND (reusable bags OR kitchen scale) AND (write-on-cap OR bottle adapter attachment) AND (easy cleaning OR safe for baby)",
+        "target": "B00CXRUJYU"
+    },
+    "345": {
+        "generated_text": "(\"versatile\" OR \"multi-purpose\") AND (\"large\" OR \"big\" OR \"capacity\") AND (\"durable\" OR \"strong\" OR \"rigid\") AND (\"zipper\" OR \"zippers\" OR \"strong zipper\") AND (\"easy clean\" OR \"washable\") AND (\"appealing\" OR \"attractive\" OR \"stylish\")",
+        "target": "B09Z2CCWNV"
+    },
+    "346": {
+        "generated_text": "(\"kids\" OR \"adults\") AND (\"lather\" OR \"lathering\") AND \"moisturizing\" AND (\"light\" AND \"scent\") AND \"sensitive\" AND \"brand\"",
+        "target": "B09FKZGW64"
+    },
+    "347": {
+        "generated_text": "(compact OR space-saving) AND (easy open OR easy fold OR foldable) AND (growing tray OR adjustable tray OR large tray) AND (easy clean OR dishwasher safe OR non-slip) AND (dual use OR family-friendly OR multi-purpose)",
+        "target": "B07TYL424F"
+    },
+    "348": {
+        "generated_text": "(\"high-quality\" OR \"premium\" OR \"durable\" OR \"long-lasting\") AND (\"affordable\" OR \"budget-friendly\" OR \"cost-effective\") AND (\"cute\" OR \"adorable\" OR \"charming\" OR \"feminine\") AND (\"accurate\" OR \"precise\" OR \"measuring\" OR \"calibrated\")",
+        "target": "B089D89ZN4"
+    },
+    "349": {
+        "generated_text": "(cute AND bow AND daughter AND lightweight AND subtle AND playful)",
+        "target": "B0BYDGNMTK"
+    },
+    "350": {
+        "generated_text": "(\"easy to use\" AND \"baby product\" AND \"hair care\" AND \"sleep aid\") OR (\"easy to use\" AND \"new baby\" AND \"hair care\" AND \"sleep aid\") OR (\"easy to use\" AND \"grandchild\" AND \"hair care\" AND \"sleep aid\")",
+        "target": "B011EVXIIE"
+    },
+    "351": {
+        "generated_text": "(modern AND swing) AND (home decor AND match) AND (remote AND bonus)",
+        "target": "B0C1S2RDBP"
+    },
+    "352": {
+        "generated_text": "(small OR compact OR mini OR 'small size') AND (high quality OR premium OR luxury OR 'high-end' OR quality) AND (\"just big enough\" OR 'just right' OR sufficient OR essential OR 'barely enough') NOT (giant OR oversized OR large OR big OR 'over-sized')",
+        "target": "B0BPY7GV71"
+    },
+    "353": {
+        "generated_text": "(\"complete set\" OR \"matching set\") AND (\"pretty\" OR \"cute\" OR \"soft\") AND \"high quality\" AND (\"color\" AND (\"pretty\" OR \"vibrant\" OR \"high-impact\"))",
+        "target": "B0BRWZ7GZP"
+    },
+    "354": {
+        "generated_text": "(placemats OR table mats OR dining mats) AND (pictures OR design OR pattern OR image) AND (durability OR sturdy OR durable OR strong OR rigid)",
+        "target": "B0B75ND1QM"
+    },
+    "355": {
+        "generated_text": "(\"easy clean\" OR \"non-stick\" OR \"dishwasher safe\") AND (\"leakproof\" OR \"spill resistant\" OR \"lid\") AND (\"toddler safe\" OR \"easy to use\" OR \"easy to grasp\") AND (\"dishwasher safe\" OR \"dishwasher compatible\")",
+        "target": "B0BKV9ZGLH"
+    },
+    "356": {
+        "generated_text": "\"easy to assemble\" AND \"great lights\" AND \"soft mat\" AND \"great sound\"",
+        "target": "B0C2KZ5NGL"
+    },
+    "357": {
+        "generated_text": "(\"storage baskets\" OR \"storage containers\" OR \"storage bins\") AND (\"large capacity\" OR \"big capacity\" OR \"high-capacity\") AND (compact OR \"space-saving\" OR \"creaseless\" OR \"crease-free\" OR \"ironing out\" OR \"ironing away\") AND (\"smaller basket\" OR \"mini basket\" OR \"compact basket\") AND (cute OR adorable OR charming) AND (organize OR tidy up)",
+        "target": "B08TM76HK6"
+    },
+    "358": {
+        "generated_text": "(\"book\" OR \"story\" OR \"motivational\") AND (\"7 years old\" OR \"7-year-old\") AND (\"daily\" OR \"every day\") AND (\"dinosaur\" AND (\"cute\" OR \"Land Before Time\"))",
+        "target": "B09Z5S7MW9"
+    },
+    "359": {
+        "generated_text": "(\"school chairs\" OR \"classroom chairs\" OR \"student chairs\") AND (\"too high\" OR \"too tall\" OR \"uncomfortably high\") AND (\"cannot touch the floor\" OR \"can't reach the floor\" OR \"floor access issue\") AND (booster OR stool OR \"seat riser\")",
+        "target": "B09XXGT1MC"
+    },
+    "360": {
+        "generated_text": "(\"talc powder\" OR \"talc\") AND (\"excellent quality\" OR \"high quality\") AND (\"good price\" OR \"affordable\") AND (\"fast delivery\" OR \"quick delivery\") AND NOT \"cornstarch formula\"",
+        "target": "B086N5JH5C"
+    },
+    "361": {
+        "generated_text": "(easy OR simple OR user-friendly) AND (hair wash OR shampoo OR conditioner) AND (splash guard OR water barrier OR face protector)",
+        "target": "B0C5Q3LJ4R"
+    },
+    "362": {
+        "generated_text": "(\"perfect amount of pressure\" OR \"optimal pressure\" OR \"precise pressure\" OR \"controlled pressure\") AND (\"small sensitive noses\" OR \"small noses\" OR \"sensitive noses\" OR \"nose care\") AND (gentle OR soft OR calming OR soothing) AND (quiet OR silent OR non-noisy OR non-scary) AND (comfortable OR non-irritating OR gentle)",
+        "target": "B0BSKPXBHX"
+    },
+    "363": {
+        "generated_text": "\"diaper rash cream\" AND (baby AND teething) AND (effective AND lasts long) AND (applied after every diaper change)",
+        "target": "B0BM5NFFF3"
+    },
+    "364": {
+        "generated_text": "(hands-free AND quick AND quiet AND not-too-loud AND suitable-for-work AND suitable-for-quiet-room AND good-milk-pumping-capacity AND comfortable AND easy-to-clean AND easy-to-use-with-app OR hub AND helps-in-producing-enough-milk-for-twins AND does-not-make-chest-look-larger)",
+        "target": "B09Z37X2MP"
+    },
+    "365": {
+        "generated_text": "(playpen OR play yard OR baby gate) AND (comfortable OR soft OR plush OR cushy) AND (spacious OR large OR roomy OR open) AND (convenience OR easy OR simple OR compact) AND (baby OR infant)",
+        "target": "B0BFPXNLNW"
+    },
+    "366": {
+        "generated_text": "(\"cute\" OR \"fun\" OR \"appealing\") AND (\"dino\" OR \"dinosaur\") AND (\"padding\" OR \"extra padding\") AND (\"easy to care for\" OR \"easy to clean\") AND (\"color\" OR \"add color\") AND (\"baby\" AND \"toddler\")",
+        "target": "B0BHNVBR3M"
+    },
+    "367": {
+        "generated_text": "(\"baby girl's room\" AND (light OR sweet OR cute) AND \"good quality\")",
+        "target": "B0BGVPHBKD"
+    },
+    "368": {
+        "generated_text": "(\"changing pad\" OR \"diaper changing pad\") AND (cleaner OR stain remover) AND (fabric OR stain-resistant) AND (large OR oversized)",
+        "target": "B0BSD5X397"
+    },
+    "369": {
+        "generated_text": "(\"easy clean\" OR \"cleaning easy\") AND (\"parts take apart\" OR \"parts easy to remove\") AND (\"dishwasher safe\" OR \"dishwasher compatible\") AND (\"spill proof\" OR \"spill-resistant\")",
+        "target": "B09YKB3SQ4"
+    },
+    "370": {
+        "generated_text": "(\"adult sippy cup\" AND coffee AND dogs AND NOT embarrassment)",
+        "target": "B09X33DHYR"
+    },
+    "371": {
+        "generated_text": "(\"easy application\" OR \"less messy\" OR \"spreadable\") AND \"baby's bottom\" AND (\"easy to clean\" OR \"mini size\" OR \"travel\") AND (\"gift for new parents\")",
+        "target": "B0C69T6N4H"
+    },
+    "372": {
+        "generated_text": "(best OR high-quality OR premium) AND (only ones OR exclusive OR singular) AND (children OR kids OR child) AND (never switch OR loyal OR faithful)",
+        "target": "B0C3F1KFPR"
+    },
+    "373": {
+        "generated_text": "(\"fork\" AND (\"easy to hold\" OR \"easy to grip\" AND (\"pretty\" OR \"muted\")) AND (\"sharp enough\" OR \"safe for toddlers\"))",
+        "target": "B09LY48F6J"
+    },
+    "374": {
+        "generated_text": "(\"magnetic locks\" OR \"electromagnetic locks\" OR \"electric locks\") AND (\"better\" OR \"superior\" OR \"improved\") AND (\"track\" OR \"manage\" OR \"easy to track\") AND (\"magnet key\" OR \"magnetic key\" OR \"key tracking\")",
+        "target": "B0BCD3NFQL"
+    },
+    "375": {
+        "generated_text": "(playpen) AND (sturdy OR durable OR reliable) AND (easy to assemble OR quick assembly OR easy setup) AND (little zip window OR ventilation window OR zipped window) AND (spacious OR large OR roomy) AND (great buy OR affordable OR value for money)",
+        "target": "B0BJTVS7Q7"
+    },
+    "376": {
+        "generated_text": "(powerful OR high-performance OR strong) AND (portable OR lightweight OR compact) AND (last all day OR long-lasting OR battery life) AND (rechargeable OR battery) AND (lawn chair OR portable attachment) AND (cooling OR heat relief)",
+        "target": "B09PKW6MM4"
+    },
+    "377": {
+        "generated_text": "(comfortable OR comfy OR soft OR plush OR ergonomic OR user-friendly) AND (features OR enhanced OR improved OR advanced OR technology) AND (easy install OR simple installation OR user-friendly installation)",
+        "target": "B0BKPRJMQP"
+    },
+    "378": {
+        "generated_text": "(lightweight OR portable OR compact OR easy to use) AND (durable OR sturdy OR reliable OR long-lasting) AND (extendable OR adjustable OR height-adjustable) AND (foldable OR compact OR foldable OR portable) AND (not too expensive OR affordable OR budget-friendly OR cost-effective)",
+        "target": "B0BKKRZQQR"
+    },
+    "379": {
+        "generated_text": "(Frida AND (\"nose sucker\" OR \"nose-sucker\")) AND (\"replacement filters\" OR \"filter replacement\") AND (\"as often as they should\" OR \"regular replacement\" OR \"necessary to replace\")",
+        "target": "B0BCPW861P"
+    },
+    "380": {
+        "generated_text": "(swaddle OR swaddling OR swaddling blanket OR sleep sack OR sleeping bag) AND (sleep OR sleeping OR sleep aid OR sleep product)",
+        "target": "B09WH4RW1P"
+    },
+    "381": {
+        "generated_text": "(\"nail trimmer\" OR \"nail clippers\" OR \"nail cutter\") AND \"infants\" AND \"babies\" AND \"easy to use\" AND \"trim the nails nicely\"",
+        "target": "B07B2994DB"
+    },
+    "382": {
+        "generated_text": "(training potty OR potty for training) AND (4-year-old OR 4 year old) AND (blue) AND (make noise OR noise making) AND (wipes OR place for wipes) AND (easy to clean) AND (lid OR lid feature) AND (big toilet OR teach child to use lid)",
+        "target": "B0C6L8QNY7"
+    },
+    "383": {
+        "generated_text": "(\"playpen\" AND \"changing station\") AND (\"safety straps\" AND \"bedside bassinet\") AND (\"crib mobile\" AND \"entertainment\") AND (\"easy storage\" AND \"good quality\" AND \"no snags\" AND \"smooth zippers\")",
+        "target": "B0BR8FFG89"
+    },
+    "384": {
+        "generated_text": "(\"cloth diapers\") AND (\"perfect\" OR \"high-quality\" OR \"best\" OR \"ideal\") AND (\"recommended by others\" OR \"user-recommended\" OR \"customer-reviewed\" OR \"highly-rated\") AND (\"save money in the long run\" OR \"cost-effective\" OR \"budget-friendly\" OR \"value\")",
+        "target": "B09TGTDRMR"
+    },
+    "385": {
+        "generated_text": "(useful OR accurate OR easy to use) AND (helpful during illness OR during Covid)",
+        "target": "B075QQ8VZW"
+    },
+    "386": {
+        "generated_text": "(\"soft\" OR \"gentle\" OR \"comfortable\" OR \"plush\") AND (\"easy-to-wash\" OR \"washable\" OR \"durable\" OR \"easy-care\") AND (\"newborn\" OR \"infant\" OR \"baby\" OR \"newborn baby\") AND (\"large enough to be used for a couple of years\" OR \"long-lasting\" OR \"multi-year\" OR \"suitable for multiple years\")",
+        "target": "B0CGL5HW9N"
+    },
+    "387": {
+        "generated_text": "(durable OR sturdy) AND (easy to set up OR user-friendly) AND comfortable AND (removable seat cover OR easy to clean) AND (adjustable straps OR growing kids) AND (sensor safe OR clip-out detection) AND (temperature AND clip-out detection) AND (app with manuals)",
+        "target": "B0BKPRJMQP"
+    },
+    "388": {
+        "generated_text": "(\"body wash\" AND (\"sensitive skin\" OR \"gentle\") AND (\"lather\" OR \"foam\") AND (\"fragrance\" OR \"aroma\"))",
+        "target": "B0BX4L1Y7B"
+    },
+    "389": {
+        "generated_text": "(easy install OR user-friendly) AND (durable OR long-lasting) AND (comfortable OR enhanced comfort)",
+        "target": "B098F5BCS8"
+    },
+    "390": {
+        "generated_text": "(\"beauty\" OR \"aesthetic\") AND (\"quality\" OR \"high-quality\") AND (\"love\" OR \"satisfaction\")",
+        "target": "B0B28PZ3T5"
+    },
+    "391": {
+        "generated_text": "\n{\n    \"query\": \"(easy to use OR user-friendly OR simple OR intuitive OR straightforward) AND (crafts OR DIY OR \"home improvement\" OR \"home decor\") AND (tube OR \"tube-shaped\" OR \"tube form\" OR \"tube packaging\") AND (paint stick OR paint adhesive OR paint coating OR paint sealer) AND (adjustable OR customizable OR adaptable)\"\n}\n",
+        "target": "B098C8X7YH"
+    },
+    "392": {
+        "generated_text": "(\"cute\" OR \"functional\") AND (\"storage\" AND \"toys\") AND (\"easy to put up\" OR \"easy to install\") AND (\"decent amount\" OR \"stuffed animals\") AND \"macrame\" AND (\"beautiful\" AND \"well made\")",
+        "target": "B0B9MMB2HG"
+    },
+    "393": {
+        "generated_text": "(\"transition cup\" OR \"cup transition\") AND (\"easy to use\" OR \"user-friendly\" OR \"simple\") AND (\"easy to clean\" OR \"cleanable\" OR \"easy to wash\") AND (\"suitable for toddlers\" OR \"for children\" OR \"safe for kids\") AND (\"work well for straw cups\" OR \"compatible with straw cups\" OR \"straw cup compatible\")",
+        "target": "B0BFK1SG8Y"
+    },
+    "394": {
+        "generated_text": "\"infant Tylenol\" AND \"gas drops\" AND \"saline nose spray\" AND \"worth getting\"",
+        "target": "B0C9FV934V"
+    },
+    "395": {
+        "generated_text": "(\"beginner\" OR \"young child\" OR \"1 year old\" OR \"8 years old\") AND (\"plastic\" OR \"durable\" OR \"dishwasher safe\") AND (\"dishwasher safe\" OR \"rustproof\" OR \"durable\") AND (\"good value\" OR \"affordable\" OR \"high-quality\")",
+        "target": "B076VWKZCD"
+    },
+    "396": {
+        "generated_text": "(\"teething toy\" AND (\"easy for little hands to hold\" OR \"small\" OR \"compact\" OR \"easy grip\" OR \"easy to hold\") AND (\"various textures and designs\" OR \"textured\" OR \"multi-textured\" OR \"various designs\" OR \"patterned\") AND (\"as good as or better than Sophie the Giraffe\" OR \"Sophie the Giraffe\" OR \"quality\" OR \"premium\" OR \"best in class\"))",
+        "target": "B0BRNV32SY"
+    }
+}

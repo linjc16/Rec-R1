@@ -13,11 +13,15 @@ for DOMAIN_NAME in 'Video_Games' 'Baby_Products' 'Office_Products' 'Sports_and_O
     # QUERY_GEN_MODEL_NAME=Qwen-3b-dpo
     # QUERY_GEN_MODEL_NAME=rec-r1-esci-cross-AC4
     # QUERY_GEN_MODEL_NAME=claude-3.5
-    QUERY_GEN_MODEL_NAME=rec-r1
+    # QUERY_GEN_MODEL_NAME=rec-r1
+    # QUERY_GEN_MODEL_NAME=search-r1
+    # QUERY_GEN_MODEL_NAME=gpt-4o-mini
+    # QUERY_GEN_MODEL_NAME=retpo
     # QUERY_GEN_MODEL_NAME=Qwen-sft
     # QUERY_GEN_MODEL_NAME=Qwen-sft-no-reason
     # QUERY_GEN_MODEL_NAME=Qwen-sft-no-json-no-reason
     # QUERY_GEN_MODEL_NAME=Qwen-sft-with-reason-no-json
+    QUERY_GEN_MODEL_NAME=Qwen2.5-3b-rej-sft
     TEST_FILE_PATH=results/esci/$QUERY_GEN_MODEL_NAME-esci_$DOMAIN_NAME.json
     # TEST_FILE_PATH=results/esci/rec-r1-esci-multi-reward_$DOMAIN_NAME.json
     METRIC_RES_SAVE_DIR=results/esci/metric_res/query_metric_results-$QUERY_GEN_MODEL_NAME-$DOMAIN_NAME.json
