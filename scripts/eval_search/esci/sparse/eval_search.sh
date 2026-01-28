@@ -21,7 +21,8 @@ for DOMAIN_NAME in 'Video_Games' 'Baby_Products' 'Office_Products' 'Sports_and_O
     # QUERY_GEN_MODEL_NAME=Qwen-sft-no-reason
     # QUERY_GEN_MODEL_NAME=Qwen-sft-no-json-no-reason
     # QUERY_GEN_MODEL_NAME=Qwen-sft-with-reason-no-json
-    QUERY_GEN_MODEL_NAME=Qwen2.5-3b-rej-sft
+    # QUERY_GEN_MODEL_NAME=Qwen2.5-3b-rej-sft
+    QUERY_GEN_MODEL_NAME=convsearch-r1
     TEST_FILE_PATH=results/esci/$QUERY_GEN_MODEL_NAME-esci_$DOMAIN_NAME.json
     # TEST_FILE_PATH=results/esci/rec-r1-esci-multi-reward_$DOMAIN_NAME.json
     METRIC_RES_SAVE_DIR=results/esci/metric_res/query_metric_results-$QUERY_GEN_MODEL_NAME-$DOMAIN_NAME.json

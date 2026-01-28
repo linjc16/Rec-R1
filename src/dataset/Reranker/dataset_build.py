@@ -85,5 +85,5 @@ if __name__ == '__main__':
     with open(save_path, "w", encoding="utf-8") as f:
         for dp in data_points:
             f.write(json.dumps(dp, ensure_ascii=False) + "\n")
-
+    
     print(f"Saved dataset to {save_path}")
